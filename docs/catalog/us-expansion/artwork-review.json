@@ -1,0 +1,138 @@
+[
+  {
+    "id": "us-kusc",
+    "url": "https://images.ctfassets.net/8usdt07j8s00/64q2oGq1OA3zTQGGX45pli/7e2f77b2c3ad958b0f00521ade288c9c/CC_Logo_Hor_Tag__1_.webp",
+    "file": "us-kusc.image",
+    "preview": "us-kusc.png",
+    "size": "640 205",
+    "background": "light"
+  },
+  {
+    "id": "us-kalw",
+    "url": "https://npr-brightspot.s3.amazonaws.com/23/e7/27cd8dcb4908841f984c79d2ee00/kalw-pink-logo-solo.png",
+    "file": "us-kalw.image",
+    "preview": "us-kalw.png",
+    "size": "640 174",
+    "background": "light"
+  },
+  {
+    "id": "us-kexp",
+    "url": "https://www.kexp.org/static/assets/img/logo-header.svg",
+    "file": "us-kexp.svg",
+    "preview": "us-kexp.png",
+    "size": "65 87",
+    "background": "dark"
+  },
+  {
+    "id": "us-kuow",
+    "url": "https://npr-brightspot.s3.amazonaws.com/5f/2e/9d7476094f1ba18e01bb579b21d1/kuow-npr-logo.png",
+    "file": "us-kuow.image",
+    "preview": "us-kuow.png",
+    "size": "640 108",
+    "background": "light"
+  },
+  {
+    "id": "us-kopb",
+    "url": "https://www.opb.org/pf/resources/images/opb/opb-logo-white.svg?d=217",
+    "file": "us-kopb.svg",
+    "preview": "us-kopb.png",
+    "size": "640 213",
+    "background": "dark"
+  },
+  {
+    "id": "us-kmhd",
+    "url": "https://kmhd.org/pf/resources/images/kmhd/kmhd-logo.svg?d=217",
+    "file": "us-kmhd.svg",
+    "preview": "us-kmhd.png",
+    "size": "640 132",
+    "background": "light"
+  },
+  {
+    "id": "us-wbez",
+    "url": "https://cst.brightspotcdn.com/39/7d/6472452e4a9488bcfb67870cc35b/wbez-global-header-cropped.svg",
+    "file": "us-wbez.svg",
+    "preview": "us-wbez.png",
+    "size": "109 15",
+    "background": "dark"
+  },
+  {
+    "id": "us-wxpn",
+    "url": "https://xpn.org/wp-content/themes/astra-child/assets/images/wxpnSq150.jpg",
+    "file": "us-wxpn.image",
+    "preview": "us-wxpn.png",
+    "size": "150 150",
+    "background": "light"
+  },
+  {
+    "id": "us-weta",
+    "url": "https://weta.org/themes/custom/weta/images/logos/weta-classical-white-h.png",
+    "file": "us-weta.image",
+    "preview": "us-weta.png",
+    "size": "640 109",
+    "background": "dark"
+  },
+  {
+    "id": "us-kut",
+    "url": "https://npr-brightspot.s3.amazonaws.com/03/7a/c6bc7f9b41aa8ac869077559b6f5/kut-news-logo-with-tagline-1000x500.jpg",
+    "file": "us-kut.image",
+    "preview": "us-kut.png",
+    "size": "640 320",
+    "background": "light"
+  },
+  {
+    "id": "us-kutx",
+    "url": "https://kutx-dot-org.s3.amazonaws.com/kutx2021/wp-content/uploads/2021/07/kutx989-logo.svg",
+    "file": "us-kutx.svg",
+    "preview": "us-kutx.png",
+    "size": "386 76",
+    "background": "light"
+  },
+  {
+    "id": "us-wwno",
+    "url": "https://npr-brightspot.s3.amazonaws.com/21/79/b39cdff7431f922379e0f3c953f3/threcirclelogos-plus-nopr-and-npr-240308.jpg",
+    "file": "us-wwno.image",
+    "preview": "us-wwno.png",
+    "size": "640 219",
+    "background": "light"
+  },
+  {
+    "id": "us-wwoz",
+    "url": "https://www.wwoz.org/sites/all/themes/custom/wwozui/images/wwoz-header-lg.png",
+    "file": "us-wwoz.image",
+    "preview": "us-wwoz.png",
+    "size": "610 179",
+    "background": "dark"
+  },
+  {
+    "id": "us-know",
+    "url": "https://www.mprnews.org/img/mpr-news-logo-thumbnail.svg",
+    "file": "us-know.svg",
+    "preview": "us-know.png",
+    "size": "134 65",
+    "background": "dark"
+  },
+  {
+    "id": "us-wlrn",
+    "url": "https://npr-brightspot.s3.amazonaws.com/6a/df/d2313bd840e991cb307384d1dba7/wlrn-logo-white-pbs-npr.png",
+    "file": "us-wlrn.image",
+    "preview": "us-wlrn.png",
+    "size": "600 467",
+    "background": "dark"
+  },
+  {
+    "id": "us-wlrn-classical",
+    "url": "https://npr-brightspot.s3.amazonaws.com/6a/df/d2313bd840e991cb307384d1dba7/wlrn-logo-white-pbs-npr.png",
+    "file": "us-wlrn-classical.image",
+    "preview": "us-wlrn-classical.png",
+    "size": "600 467",
+    "background": "dark"
+  },
+  {
+    "id": "us-wbur",
+    "url": "https://static.wbur.org/images/wbur-logo/tile.png",
+    "file": "us-wbur.image",
+    "preview": "us-wbur.png",
+    "size": "640 640",
+    "background": "light"
+  }
+]

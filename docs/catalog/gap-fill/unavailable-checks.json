@@ -1,0 +1,60 @@
+[
+  {
+    "id": "uy-delsol",
+    "name": "Del Sol FM",
+    "status": "Not imported; no working feed verified",
+    "check": {
+      "url": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0",
+      "checkedAt": "2026-10-10T23:37:11.840783+00:00",
+      "ok": false,
+      "reason": "Not a resolvable public HTTP(S) URL"
+    },
+    "alternateChecks": [
+      {
+        "url": "http://radio.dl.uy:9950/radio",
+        "checkedAt": "2026-10-10T23:40:16.136642+00:00",
+        "ok": false,
+        "reason": "Not a resolvable public HTTP(S) URL"
+      }
+    ]
+  },
+  {
+    "id": "uy-oceano",
+    "name": "OCEANO",
+    "status": "Not imported; no working feed verified",
+    "check": {
+      "url": "https://oceano-2.nty.uy/netradio/listen.mp3",
+      "checkedAt": "2026-10-10T23:37:12.011959+00:00",
+      "ok": false,
+      "reason": "Not a resolvable public HTTP(S) URL"
+    },
+    "alternateChecks": [
+      {
+        "url": "http://radio2.oceanofm.com:8010/listen.mp3",
+        "checkedAt": "2026-10-10T23:40:16.353289+00:00",
+        "ok": false,
+        "reason": "Not a resolvable public HTTP(S) URL"
+      }
+    ]
+  },
+  {
+    "id": "ar-urbana-play",
+    "name": "Urbana Play 104.3",
+    "status": "Not imported; no working feed verified",
+    "check": {
+      "url": "https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8",
+      "checkedAt": "2026-10-10T23:37:12.255462+00:00",
+      "ok": false,
+      "exitCode": 8,
+      "codec": null,
+      "bitrateKbps": null,
+      "streamName": null,
+      "titlesObserved": false,
+      "titleSample": null,
+      "offlinePlaceholder": false,
+      "sampleSeconds": 0,
+      "log": "mime type is not rfc8216 compliant\n[in#0 @ 0x7b74c20000] Opening 'https://ice3.edge-apps.net/urbana-ice3/appradios/playlist.m3u8' for reading\n[https @ 0x7b750180a0] HTTP error 404 Not Found\n[in#0 @ 0x7b74c20000] parse_playlist error Server returned 404 Not Found [https://ice3.edge-apps.net/urbana-ice3/appradios/playlist.m3u8]\n[in#0 @ 0x7b74c18000] Error opening input: Server returned 404 Not Found\nError opening input file https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8.\nError opening input files: Server returned 404 Not Found\n"
+    },
+    "alternateChecks": []
+  }
+]

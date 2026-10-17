@@ -1,0 +1,13 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcresult
+.env
+.env.*
+!.env.example
+build/
+*.ipa
+*.dSYM/
+__pycache__/
+.claude/settings.local.json

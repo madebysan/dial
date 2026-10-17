@@ -1,0 +1,10 @@
+{
+  "station": "WABC",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3",
+  "checked_at_utc": "2026-10-10T12:49:19.408163+00:00",
+  "test": "Decode 3 seconds of audio to null; 20 second wall timeout",
+  "exit_code": 0,
+  "progress": "bitrate=N/A\ntotal_size=N/A\nout_time_us=3000000\nout_time_ms=3000000\nout_time=00:00:03.000000\ndup_frames=0\ndrop_frames=0\nspeed= 130x\nprogress=end\n",
+  "diagnostics": "Input #0, mp3, from 'https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3':\n  Metadata:\n    icy-name        : WABCAM\n    icy-description : \n    icy-url         : https://wabcradio.com/\n    icy-genre       : Talk\n    icy-br          : 96\n  Duration: N/A, start: 0.000000, bitrate: 96 kb/s\n  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 96 kb/s\nStream mapping:\n  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))\nOutput #0, null, to 'pipe:':\n  Metadata:\n    icy-name        : WABCAM\n    icy-description : \n    icy-url         : https://wabcradio.com/\n    icy-genre       : Talk\n    icy-br          : 96\n    encoder         : Lavf63.1.102\n  Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s\n    Metadata:\n      encoder         : Lavc63.1.102 pcm_s16le\n[out#0/null @ 0x7bdd03c240] video:0KiB audio:517KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:03.00 bitrate=N/A speed= 130x elapsed=0:00:00.02    \n",
+  "passed": true
+}

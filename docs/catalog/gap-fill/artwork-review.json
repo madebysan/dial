@@ -1,0 +1,260 @@
+[
+  {
+    "id": "diamante",
+    "source": "https://streema.com/radios/Diamante_FM",
+    "url": "https://static-media.streema.com/media/cache/25/6d/256d4c8a190621e81a897fe705fdfbb2.jpg",
+    "asset": "station-diamante",
+    "sha256": "66ea330611c540a90a952f09e666d9302608241a91e5b127c500e870fabb146e",
+    "visualReview": true
+  },
+  {
+    "id": "elpuente",
+    "source": "https://radios.com.uy/puente/",
+    "url": "https://cdn.instant.audio/images/logos/radios-com-uy/puente.png",
+    "asset": "station-elpuente",
+    "sha256": "c3ddcde1748fb359371e82b11de7940d721b0d9360ccca50087f7ab1bbde1b6c",
+    "visualReview": true
+  },
+  {
+    "id": "us-wkcr",
+    "source": "https://en.wikipedia.org/wiki/WKCR-FM",
+    "url": "https://upload.wikimedia.org/wikipedia/en/7/79/WKCR_radio_logo.webp",
+    "asset": "station-us-wkcr",
+    "sha256": "05f46c0319c8779d4bc5cfc109e6de9b43f4b7a34bfadbd624d9aeb2ba40bc70",
+    "visualReview": true
+  },
+  {
+    "id": "us-espn",
+    "source": "https://en.wikipedia.org/wiki/WEPN_(AM)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/WEPN_1050am_ESPN_logo.svg/1280px-WEPN_1050am_ESPN_logo.svg.png",
+    "asset": "station-us-espn",
+    "sha256": "b20c5102b52f476a7f0f996a7b870319df2fd5925c30266b197da2de997c5908",
+    "visualReview": true
+  },
+  {
+    "id": "uy-carve",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_actual_de_Radio_Carve.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_actual_de_Radio_Carve.jpg",
+    "asset": "station-uy-carve",
+    "sha256": "78a6ccebddb75127e4e35173252a65c4223d9fcbac4289f3de4961fb064dda66",
+    "visualReview": true
+  },
+  {
+    "id": "uy-radio-uruguay",
+    "source": "https://en.wikipedia.org/wiki/Radio_Uruguay",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logotipo-radiouruguay-2021.jpg",
+    "asset": "station-uy-radio-uruguay",
+    "sha256": "4cc2998bd704196d9288921d1b6733070fddd9429e2cb749c6083f68e5db95c2",
+    "visualReview": true
+  },
+  {
+    "id": "uy-exito",
+    "source": "https://exitofm.com.uy/",
+    "url": "https://exitofm.com.uy/assets/images/exito-negro-chico-300x108.jpg",
+    "asset": "station-uy-exito",
+    "sha256": "03e0af688a5f5424b78304876747aee98ea297b2d9c8f84134e1f2ebcd148878",
+    "visualReview": true
+  },
+  {
+    "id": "br-radio-rock",
+    "source": "https://en.wikipedia.org/wiki/89_FM_A_Rádio_Rock",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1280px-R%C3%A1dio_Rock_logo.svg.png",
+    "asset": "station-br-radio-rock",
+    "sha256": "06e217e1529f0b47ac4a6a0bce32ace86edfa997c278843107c2ff8146386a68",
+    "visualReview": true
+  },
+  {
+    "id": "br-novabrasil",
+    "source": "https://commons.wikimedia.org/wiki/File:Novabrasil_logo_2025.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Novabrasil_logo_2025.png",
+    "asset": "station-br-novabrasil",
+    "sha256": "fb5a634098450eb97e6e8cf6d24be9192b4c498260cbfb8e3f904b9a864a6239",
+    "visualReview": true
+  },
+  {
+    "id": "mx-formula",
+    "source": "https://especiales.radioformula.com.mx/mediakit/",
+    "url": "https://especiales.radioformula.com.mx/mediakit/assets/images/logo.svg",
+    "asset": "station-mx-formula",
+    "sha256": "999054c849be1652c0c83aa2be3e0b7058cec5ba5e5561296fc5096aed8997b8",
+    "visualReview": true
+  },
+  {
+    "id": "fr-nrj",
+    "source": "https://en.wikipedia.org/wiki/NRJ",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Logo_NRJ_2016.png",
+    "asset": "station-fr-nrj",
+    "sha256": "8fd7d7970b585213caace8a0b89fdd857c527692451a91fedec4ae04ba280844",
+    "visualReview": true
+  },
+  {
+    "id": "fr-nostalgie",
+    "source": "https://commons.wikimedia.org/wiki/File:Nostalgie_logo.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nostalgie_logo.svg",
+    "asset": "station-fr-nostalgie",
+    "sha256": "f459dc4d727c91096f77e226853b151a29f76ddb391e481f7497f8b3817652c9",
+    "visualReview": true
+  },
+  {
+    "id": "jp-afn",
+    "source": "https://www.dvidshub.net/image/6123375/afn-tokyo-logo",
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2003/6123375/1000w_q95.jpg",
+    "asset": "station-jp-afn",
+    "sha256": "34bb97689dda023186d6a875f035ffc548e0074782c0f98513e247dd29ff033f",
+    "visualReview": true
+  },
+  {
+    "id": "us-kcrw",
+    "source": "https://en.wikipedia.org/wiki/KCRW",
+    "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c4/KCRW_2025_BLACK_LOGO_FILLED.png/1280px-KCRW_2025_BLACK_LOGO_FILLED.png",
+    "asset": "station-us-kcrw",
+    "sha256": "eabd611cf7c3c9e8e5c6daa915e0fe8d9bf0d058224c97455e44d4e68a9c5b5b",
+    "visualReview": true
+  },
+  {
+    "id": "us-kqed",
+    "source": "https://commons.wikimedia.org/wiki/File:KQED-logo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/KQED-logo.svg/1280px-KQED-logo.svg.png",
+    "asset": "station-us-kqed",
+    "sha256": "9d19980367209667b37c39c84136cde6b741bb66b246af4c2b5c5c065b725998",
+    "visualReview": true
+  },
+  {
+    "id": "us-wfmt",
+    "source": "https://commons.wikimedia.org/wiki/File:WFMT_logo.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/WFMT_logo.svg",
+    "asset": "station-us-wfmt",
+    "sha256": "3c209656671a8c82a73f64904cdaa1d4986fb6aedd6afdf3a3df709bc2d4b24d",
+    "visualReview": true
+  },
+  {
+    "id": "us-wgbh",
+    "source": "https://commons.wikimedia.org/wiki/File:WGBH_89.7_logo_(2020).svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/WGBH_89.7_logo_%282020%29.svg",
+    "asset": "station-us-wgbh",
+    "sha256": "d112be0545aa14f7f876530241b6e49f73bad25f17531a062d7ee50d234bcd64",
+    "visualReview": true
+  },
+  {
+    "id": "us-whyy",
+    "source": "https://whyy.org/",
+    "url": "https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-384.png",
+    "asset": "station-us-whyy",
+    "sha256": "d885cd06dac444021d835ca95765bd2f45cb7fcb0581252746fdac79034370d9",
+    "visualReview": true
+  },
+  {
+    "id": "us-wamu",
+    "source": "https://commons.wikimedia.org/wiki/File:WamuFMlogo.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/WamuFMlogo.png",
+    "asset": "station-us-wamu",
+    "sha256": "252fb684a21877398cfbad463253f534e4dabb16d9a6905d87c06c221b2e1fe7",
+    "visualReview": true
+  },
+  {
+    "id": "us-kcmp",
+    "source": "https://en.wikipedia.org/wiki/KCMP",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/KCMP_sticker.png",
+    "asset": "station-us-kcmp",
+    "sha256": "e16382aecc9ad9e4483f7e3da52ed91be84fb7386e9ca96aef7f20f82f58bb34",
+    "visualReview": true
+  },
+  {
+    "id": "gb-virgin",
+    "source": "https://www.news.co.uk/our-brands/virgin-radio/",
+    "url": "https://www.news.co.uk/app/uploads/2021/11/Virgin.png",
+    "asset": "station-gb-virgin",
+    "sha256": "6aad8266caaa7f51091ada7e3b5cc8e9fd69e213d58944f51f4ffec8c78a637e",
+    "visualReview": true
+  },
+  {
+    "id": "gb-times",
+    "source": "https://www.news.co.uk/our-brands/times-radio/",
+    "url": "https://www.news.co.uk/app/uploads/2026/04/Times-Radio.png",
+    "asset": "station-gb-times",
+    "sha256": "b96826081766f6a42bdfd755867b404b093392db7f2ac9cf0eb4cff6a98c81e6",
+    "visualReview": true
+  },
+  {
+    "id": "us-radio-paradise",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/d61e880e-e8f0-11e9-a96c-52543be04c81",
+    "url": "https://radioparadise.com/rpassets/images/logo/logo_2022_nav_244x64.svg",
+    "asset": "station-us-radio-paradise",
+    "sha256": "ee22da4c9603423bf009c912c77874efdc427ff4c0045fad3efa7cb411680221",
+    "visualReview": true
+  },
+  {
+    "id": "us-groove-salad",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/960cf833-0601-11e8-ae97-52543be04c81",
+    "url": "https://somafm.com/img3/groovesalad-400.jpg",
+    "asset": "station-us-groove-salad",
+    "sha256": "4a22d81d6126fc71f4020059963d65f0c58c54391422e137db6241a264c0cc46",
+    "visualReview": true
+  },
+  {
+    "id": "us-kroq",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/798a7839-17db-4b25-9c17-4f36fc625fbc",
+    "url": "https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/6/0b/60be09e8-9adb-11ea-9359-abd53ad48e69/5ec597dadab89.image.jpg?resize=375%2C325",
+    "asset": "station-us-kroq",
+    "sha256": "1ad32ea6ddc7351a7136fd8b5ef3375cc6f84909e36ee2e520baabd8e1eb798a",
+    "visualReview": true
+  },
+  {
+    "id": "us-kiis",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/c76686ca-a8b9-4db9-9839-1470c9599623",
+    "url": "https://i.iheart.com/v3/re/assets.brands/61d4a04fc786e58c38995162?ops=gravity(%22center%22),contain(360,360)&quality=80",
+    "asset": "station-us-kiis",
+    "sha256": "e30da154620466f01fff1963e61dae5b603864e7f904fec1fa69a95492b82f4d",
+    "visualReview": true
+  },
+  {
+    "id": "us-wins",
+    "source": "https://www.audacy.com/1010wins",
+    "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NTMxNjI0OC9vcmlnaW4ud2VicCIsImV4cGlyZXNfYXQiOjE4Mjk3MjMxMzl9.W0RB0TEnUdcsz40W7f9MStjaHyCmhVwUBJf5mXosphQ/img.webp",
+    "asset": "station-us-wins",
+    "sha256": "d64c5e23aa0a08943d7e7d695547de314e748f62925452980f44ff6cca92898e",
+    "visualReview": true
+  },
+  {
+    "id": "ar-nacional",
+    "source": "https://www.radionacional.com.ar/",
+    "url": "https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png",
+    "asset": "station-ar-nacional",
+    "sha256": "a31f46ed0fc3d1caea854e81e59ada2ac6d98a8705941c7c1a2bd438148e8df6",
+    "visualReview": true
+  },
+  {
+    "id": "es-radio-clasica",
+    "source": "https://www.rtve.es/play/radio/radio-clasica/",
+    "url": "https://img.rtve.es/css/rtve.2021/i/rtve-logos/logos_cadenas/radio-clasica_color.svg",
+    "asset": "station-es-radio-clasica",
+    "sha256": "f4512799f907e3bdc6bef77eff4e1c338366a2454a4a5be7302f81af36a88a3c",
+    "visualReview": true,
+    "conversion": "Native SVG renderer retained original gradient; cropped renderer padding."
+  },
+  {
+    "id": "es-radio5",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/5d6b5573-d661-477a-82fc-1d0d03799679",
+    "url": "https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg",
+    "asset": "station-es-radio5",
+    "sha256": "a51b87e87d223df9f773278c7c2208537226cd7de6b9ec8506cc65fb7cdb70b7",
+    "visualReview": true,
+    "conversion": "Native SVG renderer retained original gradient; cropped renderer padding."
+  },
+  {
+    "id": "fr-culture",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/c407649a-0c27-4929-b7fb-a1e9c7e6f3ab",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/France_Culture_logo_2021.svg",
+    "asset": "station-fr-culture",
+    "sha256": "41cd1b82a997897a208ebcdd3e2c35eb6811eb7a6f4402b4423e129eedf3e35e",
+    "visualReview": true
+  },
+  {
+    "id": "fr-nova",
+    "source": "https://de2.api.radio-browser.info/json/stations/byuuid/f132b6db-9d2f-4fc6-a495-174140e43d18",
+    "url": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/08/cropped-favicon-4-t-384x384.png",
+    "asset": "station-fr-nova",
+    "sha256": "a3896ad2e2233970262b85b6aa6ca08bffe192cc23433f39747b2230da34a8fb",
+    "visualReview": true
+  }
+]

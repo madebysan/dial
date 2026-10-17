@@ -1,0 +1,23 @@
+[
+  {
+    "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
+    "url": "https://la100.cienradios.com/pf/resources/la100/logos/favicon.ico?d=90",
+    "ok": true,
+    "source": "https://la100.cienradios.com/",
+    "inspection": "(local work folder)/catalog-expansion/images/e529ff8ebf5dbf453f70\n  pixelWidth: 48\n  pixelHeight: 48\n"
+  },
+  {
+    "stationuuid": "4285a122-9c78-417e-879e-5440c0482c56",
+    "url": "https://fmaspen.com/favicon.png",
+    "ok": true,
+    "source": "https://fmaspen.com/#",
+    "inspection": "(local work folder)/catalog-expansion/images/a7573aa92a55c95accde\n  pixelWidth: 32\n  pixelHeight: 32\n"
+  },
+  {
+    "stationuuid": "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
+    "url": "https://www.kissfm.es/wp-content/uploads/2020/09/favicon_KISS.jpg",
+    "ok": true,
+    "source": "https://www.kissfm.es/",
+    "inspection": "(local work folder)/catalog-expansion/images/c79f7fdf5bcdff74e5c1\n  pixelWidth: 32\n  pixelHeight: 32\n"
+  }
+]

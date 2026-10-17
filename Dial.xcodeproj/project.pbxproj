@@ -1,0 +1,782 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07EFB0AC22EC0F7D1B14E83A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13646A38C72F0C6C77709DB2 /* Assets.xcassets */; };
+		0AB6ACD4EF01C6AA5AB5738B /* CountryStartupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */; };
+		0BA11C77A7158FB632E36A4F /* USTuningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CBACCFF9DCB75DAB59E9DA /* USTuningTests.swift */; };
+		0C5D9B23C0B1E31A61E50AC3 /* StationProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65DDA68D06DB5B9110A9CF5 /* StationProfile.swift */; };
+		13495AEAB353023E50A55472 /* StationActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265244DE16FBECBBA5520E01 /* StationActions.swift */; };
+		14BE7E4B1AB3BD2641CFCEB4 /* MotionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D46DD39DCCCC04F8D67834E /* MotionUITests.swift */; };
+		1908DAC8A5680579B3CCEB83 /* PlaybackTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD79BB807303446727412F04 /* PlaybackTests.swift */; };
+		1B6C09D850F7BD130BD76827 /* UKExpansionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7087031FF46EF1CAAAC2D70 /* UKExpansionUITests.swift */; };
+		1C5E67F669E6E9D3F19891AD /* RadioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93C132C2C10916B73AB1F15 /* RadioPlayer.swift */; };
+		2481369FE1D6CDB377644C0F /* TuningNoise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A5B4C111E6D6CC2FF88156 /* TuningNoise.swift */; };
+		3906D20D308A5BF2355E3481 /* DialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A550E45261F88A859DC0A9EC /* DialUITests.swift */; };
+		3D3AAAF6C8BF04B21F27C1DA /* SettingsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF673B80844F887FE49DD4F8 /* SettingsUITests.swift */; };
+		41E246F36253853CDDF6D7C6 /* RadioSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D93C5116FCD57B017EF6F32 /* RadioSettings.swift */; };
+		46326546EA746C4A304F01BB /* StationSheetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E6BAA1CBE3AB8D6B05AC23 /* StationSheetUITests.swift */; };
+		49ED063970A47E58C20F9662 /* SavedItemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031FB44B2266F8B22D688007 /* SavedItemsTests.swift */; };
+		4C54E7C4DED9DF78916930C3 /* CountryLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ADD35450F4DAFB1C1A28770 /* CountryLocation.swift */; };
+		5092CB1B954A41FC2A273CA4 /* Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64413320FACB17A3579308D2 /* Station.swift */; };
+		5D779A2FBF2128AB239A0F9A /* AlarmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735C27FBDFAC6FF2B383016 /* AlarmTests.swift */; };
+		602F314AF1503F47FBE14D9D /* DialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6BD3CDBD55674A15C4E90C /* DialApp.swift */; };
+		6EC759C058224726100EBF21 /* tuning-static.wav in Resources */ = {isa = PBXBuildFile; fileRef = D1A45EEFA29C0EF989E7DC14 /* tuning-static.wav */; };
+		744061D436CE37560A03BFDF /* StreamMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81178E51A95D84C5A81CEC51 /* StreamMetadata.swift */; };
+		7450D9ACE4CF6F1141EB5667 /* DeclutterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC93B30BFE529FD874FDF3B1 /* DeclutterUITests.swift */; };
+		78B7B4235D4F7E06AC514692 /* CountryLocationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E40E132976C89D97CDE49D /* CountryLocationTests.swift */; };
+		7BE5B06D0A8D7E82FC859BD6 /* Platform.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE914364C1B5586B42015AC /* Platform.swift */; };
+		7E609CBD39FFD346C696169E /* RadioCommandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4A1E68539EE1805A66887A /* RadioCommandTests.swift */; };
+		8175DC0FAD446F76F350B3A9 /* NewFeaturesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FDB32FE4F2A37FD8C3B674 /* NewFeaturesTests.swift */; };
+		82AC60A8FEB5FDF8C003B9F7 /* TuningLocationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8495CD372F381FF5302EAA56 /* TuningLocationUITests.swift */; };
+		85FC6B2792F56122DFBB9C25 /* UKCatalogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE75842D4723850F47B71F9 /* UKCatalogTests.swift */; };
+		861593AB5660E3177A90C296 /* StationLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4FA908EA3C855C5A62E48D /* StationLibrary.swift */; };
+		89481703B28FD971C72E91EF /* CatalogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D83A633108D51FACD381B6 /* CatalogTests.swift */; };
+		8B27E8C2AD6C09C2CC78D23E /* StationAlarmsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801349462B6DCEA9BFE56D6F /* StationAlarmsViews.swift */; };
+		8C9D4E3F4D44AF286FF5198C /* WorldCatalogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C9CA24C62E9F9A9A6967AC2 /* WorldCatalogUITests.swift */; };
+		95E0B9505E04F93FC9F7B9B8 /* USExpansionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C86CAAB2A34C02013126D37 /* USExpansionUITests.swift */; };
+		98F5DC26A97B712002D8F772 /* StationInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8715566B075BA71FEB86FC6 /* StationInfo.swift */; };
+		9B3302CB874A0D096C70DD42 /* Palette.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20B5694DC8D0986BE8D1F6E /* Palette.swift */; };
+		9C142A5A1247156C63EE0DC6 /* SavedItemsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544FB06355D4D2A02B567D1B /* SavedItemsViews.swift */; };
+		A1C41C97081B784812D8A348 /* GapFillUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E185FE192F8965EF100247A0 /* GapFillUITests.swift */; };
+		A571B04B28BE6D50B9B18754 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 74694A4056DEB4B3AA746544 /* PrivacyInfo.xcprivacy */; };
+		B1D208D3358751CD1A27ACE2 /* TuningDial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 713F830665EAE0ABC19AB634 /* TuningDial.swift */; };
+		B3224350B55F52ECA7E52196 /* ListeningSettingsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E726162724FD79D2B0DD8A2 /* ListeningSettingsViews.swift */; };
+		B6DE8114B32E1D67E10BB7ED /* RadioIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6635A08A94E0424B448B3C /* RadioIntents.swift */; };
+		B966037C7C0FEDA38F077CBA /* DialMotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2DD6885C1DCEB806B6EB9AB /* DialMotion.swift */; };
+		BA66732CBF6C05D6F5CD7B19 /* RadioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF1B8AF0F2774BB860408530 /* RadioView.swift */; };
+		BBBD7DF7D7F92310A955D478 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645809281AAA1AD18EB81B46 /* Preferences.swift */; };
+		C6300E81C659BB8F25638FF1 /* stations.json in Resources */ = {isa = PBXBuildFile; fileRef = 2DF3653AE49DEC6664326E55 /* stations.json */; };
+		C668402DA109225563087AD9 /* LiveCatalogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F6B611540BCE89FAE7C3F0 /* LiveCatalogTests.swift */; };
+		CFE798133E4F52F1C6C8C9B0 /* CatalogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A00B5D067E4CCF434D77A23 /* CatalogUITests.swift */; };
+		D6163077FEBC9642C618A987 /* StoreScreenshots.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E43FB36D31A3FDE2FF6D2 /* StoreScreenshots.swift */; };
+		DD6C86AFDC337482CDE7530D /* ListeningBehaviorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C2F7F9CB1BF4766981D681 /* ListeningBehaviorTests.swift */; };
+		E08844756212A13D0C42DBC7 /* TuningLocationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD90E4786C06CA0AB3A90F22 /* TuningLocationTests.swift */; };
+		E135B46FD5FD464DF467CE54 /* station-profiles.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E495AA1F97A6BD2151B71AF /* station-profiles.json */; };
+		F043BE23FB6EE8B28F868E60 /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1EF52B95671789215A339B /* Library.swift */; };
+		F384833D605ED3C388557B6D /* StationAlarms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22912B3352B5D81B55A813 /* StationAlarms.swift */; };
+		F3BE254D1AC4BE003BD51A54 /* ListeningFeaturesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089A5C1A234508D021813F9F /* ListeningFeaturesUITests.swift */; };
+		F52415BB1284E9DDAD416ADE /* LibraryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A830E3701E2979F727348AE /* LibraryTests.swift */; };
+		F68770BB2F8108666B697961 /* SavedItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6001483C67E4763BE9884BBE /* SavedItems.swift */; };
+		F8FD014A4820EE4ADD2D3464 /* ListeningBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84FED1A499787C2B57A2FB2 /* ListeningBehavior.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		480F51AE70944F08B20D38E8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 576B2F9E07E132D9D1C1CFD6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1281736F855920DC3B887CEC;
+			remoteInfo = Dial;
+		};
+		F877B20CF94BD0B242782023 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 576B2F9E07E132D9D1C1CFD6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1281736F855920DC3B887CEC;
+			remoteInfo = Dial;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00E40E132976C89D97CDE49D /* CountryLocationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryLocationTests.swift; sourceTree = "<group>"; };
+		031FB44B2266F8B22D688007 /* SavedItemsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedItemsTests.swift; sourceTree = "<group>"; };
+		05CBACCFF9DCB75DAB59E9DA /* USTuningTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USTuningTests.swift; sourceTree = "<group>"; };
+		06F6B611540BCE89FAE7C3F0 /* LiveCatalogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveCatalogTests.swift; sourceTree = "<group>"; };
+		089A5C1A234508D021813F9F /* ListeningFeaturesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningFeaturesUITests.swift; sourceTree = "<group>"; };
+		0A830E3701E2979F727348AE /* LibraryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryTests.swift; sourceTree = "<group>"; };
+		13646A38C72F0C6C77709DB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1ADD35450F4DAFB1C1A28770 /* CountryLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryLocation.swift; sourceTree = "<group>"; };
+		1C86CAAB2A34C02013126D37 /* USExpansionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USExpansionUITests.swift; sourceTree = "<group>"; };
+		1D46DD39DCCCC04F8D67834E /* MotionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionUITests.swift; sourceTree = "<group>"; };
+		1F6635A08A94E0424B448B3C /* RadioIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioIntents.swift; sourceTree = "<group>"; };
+		22C2F7F9CB1BF4766981D681 /* ListeningBehaviorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningBehaviorTests.swift; sourceTree = "<group>"; };
+		265244DE16FBECBBA5520E01 /* StationActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationActions.swift; sourceTree = "<group>"; };
+		286CEFAAD7964E3B97964C67 /* Dial.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Dial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DE75842D4723850F47B71F9 /* UKCatalogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UKCatalogTests.swift; sourceTree = "<group>"; };
+		2DF3653AE49DEC6664326E55 /* stations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stations.json; sourceTree = "<group>"; };
+		2E495AA1F97A6BD2151B71AF /* station-profiles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "station-profiles.json"; sourceTree = "<group>"; };
+		3D93C5116FCD57B017EF6F32 /* RadioSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioSettings.swift; sourceTree = "<group>"; };
+		40E6BAA1CBE3AB8D6B05AC23 /* StationSheetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationSheetUITests.swift; sourceTree = "<group>"; };
+		43A5B4C111E6D6CC2FF88156 /* TuningNoise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningNoise.swift; sourceTree = "<group>"; };
+		43D83A633108D51FACD381B6 /* CatalogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogTests.swift; sourceTree = "<group>"; };
+		544FB06355D4D2A02B567D1B /* SavedItemsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedItemsViews.swift; sourceTree = "<group>"; };
+		56FDB32FE4F2A37FD8C3B674 /* NewFeaturesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFeaturesTests.swift; sourceTree = "<group>"; };
+		5C4A1E68539EE1805A66887A /* RadioCommandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioCommandTests.swift; sourceTree = "<group>"; };
+		5F22912B3352B5D81B55A813 /* StationAlarms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationAlarms.swift; sourceTree = "<group>"; };
+		6001483C67E4763BE9884BBE /* SavedItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedItems.swift; sourceTree = "<group>"; };
+		64413320FACB17A3579308D2 /* Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Station.swift; sourceTree = "<group>"; };
+		645809281AAA1AD18EB81B46 /* Preferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		6A00B5D067E4CCF434D77A23 /* CatalogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogUITests.swift; sourceTree = "<group>"; };
+		6C9CA24C62E9F9A9A6967AC2 /* WorldCatalogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCatalogUITests.swift; sourceTree = "<group>"; };
+		6E726162724FD79D2B0DD8A2 /* ListeningSettingsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningSettingsViews.swift; sourceTree = "<group>"; };
+		713F830665EAE0ABC19AB634 /* TuningDial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningDial.swift; sourceTree = "<group>"; };
+		74694A4056DEB4B3AA746544 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		787E43FB36D31A3FDE2FF6D2 /* StoreScreenshots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreScreenshots.swift; sourceTree = "<group>"; };
+		7B4FA908EA3C855C5A62E48D /* StationLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationLibrary.swift; sourceTree = "<group>"; };
+		801349462B6DCEA9BFE56D6F /* StationAlarmsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationAlarmsViews.swift; sourceTree = "<group>"; };
+		81178E51A95D84C5A81CEC51 /* StreamMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamMetadata.swift; sourceTree = "<group>"; };
+		8495CD372F381FF5302EAA56 /* TuningLocationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningLocationUITests.swift; sourceTree = "<group>"; };
+		8C6BD3CDBD55674A15C4E90C /* DialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialApp.swift; sourceTree = "<group>"; };
+		8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryStartupTests.swift; sourceTree = "<group>"; };
+		8FE29BA0DDE0C7CA38652422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A550E45261F88A859DC0A9EC /* DialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialUITests.swift; sourceTree = "<group>"; };
+		A65DDA68D06DB5B9110A9CF5 /* StationProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationProfile.swift; sourceTree = "<group>"; };
+		AAE914364C1B5586B42015AC /* Platform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Platform.swift; sourceTree = "<group>"; };
+		AC93B30BFE529FD874FDF3B1 /* DeclutterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeclutterUITests.swift; sourceTree = "<group>"; };
+		AF673B80844F887FE49DD4F8 /* SettingsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsUITests.swift; sourceTree = "<group>"; };
+		BA8733CABD05C7F8E011906D /* Dial-macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Dial-macOS.entitlements"; sourceTree = "<group>"; };
+		BF1B8AF0F2774BB860408530 /* RadioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioView.swift; sourceTree = "<group>"; };
+		C20B5694DC8D0986BE8D1F6E /* Palette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palette.swift; sourceTree = "<group>"; };
+		C735C27FBDFAC6FF2B383016 /* AlarmTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmTests.swift; sourceTree = "<group>"; };
+		CC7B485BB9A591D80B25E2D7 /* DialUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = DialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDB304D3DE82BED733C7BA06 /* DialTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = DialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1A45EEFA29C0EF989E7DC14 /* tuning-static.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "tuning-static.wav"; sourceTree = "<group>"; };
+		D2DD6885C1DCEB806B6EB9AB /* DialMotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialMotion.swift; sourceTree = "<group>"; };
+		DB1EF52B95671789215A339B /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
+		DD79BB807303446727412F04 /* PlaybackTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaybackTests.swift; sourceTree = "<group>"; };
+		E185FE192F8965EF100247A0 /* GapFillUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GapFillUITests.swift; sourceTree = "<group>"; };
+		E7087031FF46EF1CAAAC2D70 /* UKExpansionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UKExpansionUITests.swift; sourceTree = "<group>"; };
+		E84FED1A499787C2B57A2FB2 /* ListeningBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningBehavior.swift; sourceTree = "<group>"; };
+		E8715566B075BA71FEB86FC6 /* StationInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationInfo.swift; sourceTree = "<group>"; };
+		E93C132C2C10916B73AB1F15 /* RadioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioPlayer.swift; sourceTree = "<group>"; };
+		FD90E4786C06CA0AB3A90F22 /* TuningLocationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningLocationTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0C88572E6B0C099D514F2195 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				D1A45EEFA29C0EF989E7DC14 /* tuning-static.wav */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		2F203D3D3F0ABD680DCD2E77 /* DialTests */ = {
+			isa = PBXGroup;
+			children = (
+				C735C27FBDFAC6FF2B383016 /* AlarmTests.swift */,
+				43D83A633108D51FACD381B6 /* CatalogTests.swift */,
+				00E40E132976C89D97CDE49D /* CountryLocationTests.swift */,
+				8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */,
+				0A830E3701E2979F727348AE /* LibraryTests.swift */,
+				22C2F7F9CB1BF4766981D681 /* ListeningBehaviorTests.swift */,
+				06F6B611540BCE89FAE7C3F0 /* LiveCatalogTests.swift */,
+				DD79BB807303446727412F04 /* PlaybackTests.swift */,
+				5C4A1E68539EE1805A66887A /* RadioCommandTests.swift */,
+				031FB44B2266F8B22D688007 /* SavedItemsTests.swift */,
+				FD90E4786C06CA0AB3A90F22 /* TuningLocationTests.swift */,
+				2DE75842D4723850F47B71F9 /* UKCatalogTests.swift */,
+				05CBACCFF9DCB75DAB59E9DA /* USTuningTests.swift */,
+			);
+			path = DialTests;
+			sourceTree = "<group>";
+		};
+		5B51FFB192E0D153A4DD18D4 /* DialUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6A00B5D067E4CCF434D77A23 /* CatalogUITests.swift */,
+				AC93B30BFE529FD874FDF3B1 /* DeclutterUITests.swift */,
+				A550E45261F88A859DC0A9EC /* DialUITests.swift */,
+				E185FE192F8965EF100247A0 /* GapFillUITests.swift */,
+				089A5C1A234508D021813F9F /* ListeningFeaturesUITests.swift */,
+				1D46DD39DCCCC04F8D67834E /* MotionUITests.swift */,
+				56FDB32FE4F2A37FD8C3B674 /* NewFeaturesTests.swift */,
+				AF673B80844F887FE49DD4F8 /* SettingsUITests.swift */,
+				265244DE16FBECBBA5520E01 /* StationActions.swift */,
+				40E6BAA1CBE3AB8D6B05AC23 /* StationSheetUITests.swift */,
+				787E43FB36D31A3FDE2FF6D2 /* StoreScreenshots.swift */,
+				8495CD372F381FF5302EAA56 /* TuningLocationUITests.swift */,
+				E7087031FF46EF1CAAAC2D70 /* UKExpansionUITests.swift */,
+				1C86CAAB2A34C02013126D37 /* USExpansionUITests.swift */,
+				6C9CA24C62E9F9A9A6967AC2 /* WorldCatalogUITests.swift */,
+			);
+			path = DialUITests;
+			sourceTree = "<group>";
+		};
+		63993E8C430E789992270E36 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				286CEFAAD7964E3B97964C67 /* Dial.app */,
+				CDB304D3DE82BED733C7BA06 /* DialTests.xctest */,
+				CC7B485BB9A591D80B25E2D7 /* DialUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D442BB05BEF2152A6E35CCE9 /* Dial */ = {
+			isa = PBXGroup;
+			children = (
+				13646A38C72F0C6C77709DB2 /* Assets.xcassets */,
+				1ADD35450F4DAFB1C1A28770 /* CountryLocation.swift */,
+				BA8733CABD05C7F8E011906D /* Dial-macOS.entitlements */,
+				8C6BD3CDBD55674A15C4E90C /* DialApp.swift */,
+				D2DD6885C1DCEB806B6EB9AB /* DialMotion.swift */,
+				8FE29BA0DDE0C7CA38652422 /* Info.plist */,
+				DB1EF52B95671789215A339B /* Library.swift */,
+				E84FED1A499787C2B57A2FB2 /* ListeningBehavior.swift */,
+				6E726162724FD79D2B0DD8A2 /* ListeningSettingsViews.swift */,
+				C20B5694DC8D0986BE8D1F6E /* Palette.swift */,
+				AAE914364C1B5586B42015AC /* Platform.swift */,
+				645809281AAA1AD18EB81B46 /* Preferences.swift */,
+				74694A4056DEB4B3AA746544 /* PrivacyInfo.xcprivacy */,
+				1F6635A08A94E0424B448B3C /* RadioIntents.swift */,
+				E93C132C2C10916B73AB1F15 /* RadioPlayer.swift */,
+				3D93C5116FCD57B017EF6F32 /* RadioSettings.swift */,
+				BF1B8AF0F2774BB860408530 /* RadioView.swift */,
+				6001483C67E4763BE9884BBE /* SavedItems.swift */,
+				544FB06355D4D2A02B567D1B /* SavedItemsViews.swift */,
+				2E495AA1F97A6BD2151B71AF /* station-profiles.json */,
+				64413320FACB17A3579308D2 /* Station.swift */,
+				5F22912B3352B5D81B55A813 /* StationAlarms.swift */,
+				801349462B6DCEA9BFE56D6F /* StationAlarmsViews.swift */,
+				E8715566B075BA71FEB86FC6 /* StationInfo.swift */,
+				7B4FA908EA3C855C5A62E48D /* StationLibrary.swift */,
+				A65DDA68D06DB5B9110A9CF5 /* StationProfile.swift */,
+				2DF3653AE49DEC6664326E55 /* stations.json */,
+				81178E51A95D84C5A81CEC51 /* StreamMetadata.swift */,
+				713F830665EAE0ABC19AB634 /* TuningDial.swift */,
+				43A5B4C111E6D6CC2FF88156 /* TuningNoise.swift */,
+				0C88572E6B0C099D514F2195 /* Audio */,
+			);
+			path = Dial;
+			sourceTree = "<group>";
+		};
+		DB8A80B7EEF1CBFA48D3B081 = {
+			isa = PBXGroup;
+			children = (
+				D442BB05BEF2152A6E35CCE9 /* Dial */,
+				2F203D3D3F0ABD680DCD2E77 /* DialTests */,
+				5B51FFB192E0D153A4DD18D4 /* DialUITests */,
+				63993E8C430E789992270E36 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1281736F855920DC3B887CEC /* Dial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1725F4955EBCB8FF4A21D8D2 /* Build configuration list for PBXNativeTarget "Dial" */;
+			buildPhases = (
+				0D33E3659B2D6EBC3728BF9B /* Sources */,
+				E428AEE08818E59769A762E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Dial;
+			packageProductDependencies = (
+			);
+			productName = Dial;
+			productReference = 286CEFAAD7964E3B97964C67 /* Dial.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D515E1A4B2AC79A8D4964D57 /* DialUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 83A6ADAF06DC12C017F22A55 /* Build configuration list for PBXNativeTarget "DialUITests" */;
+			buildPhases = (
+				14B3AD149FDF3DC5FEC00D38 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B5A979874AAE789F9B3C3E7A /* PBXTargetDependency */,
+			);
+			name = DialUITests;
+			packageProductDependencies = (
+			);
+			productName = DialUITests;
+			productReference = CC7B485BB9A591D80B25E2D7 /* DialUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		DEA948228B21C2864F649F36 /* DialTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 943DEFD4844B3101EA8045D7 /* Build configuration list for PBXNativeTarget "DialTests" */;
+			buildPhases = (
+				696912D3D872B05DF510132B /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				26CA6515E9005A2CD706AE31 /* PBXTargetDependency */,
+			);
+			name = DialTests;
+			packageProductDependencies = (
+			);
+			productName = DialTests;
+			productReference = CDB304D3DE82BED733C7BA06 /* DialTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		576B2F9E07E132D9D1C1CFD6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					1281736F855920DC3B887CEC = {
+						DevelopmentTeam = QAMM2A6WRQ;
+						ProvisioningStyle = Automatic;
+					};
+					D515E1A4B2AC79A8D4964D57 = {
+						DevelopmentTeam = QAMM2A6WRQ;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 1281736F855920DC3B887CEC;
+					};
+					DEA948228B21C2864F649F36 = {
+						DevelopmentTeam = QAMM2A6WRQ;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 94212438E4D0739CFDF52D92 /* Build configuration list for PBXProject "Dial" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = DB8A80B7EEF1CBFA48D3B081;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 63993E8C430E789992270E36 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1281736F855920DC3B887CEC /* Dial */,
+				DEA948228B21C2864F649F36 /* DialTests */,
+				D515E1A4B2AC79A8D4964D57 /* DialUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E428AEE08818E59769A762E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07EFB0AC22EC0F7D1B14E83A /* Assets.xcassets in Resources */,
+				A571B04B28BE6D50B9B18754 /* PrivacyInfo.xcprivacy in Resources */,
+				E135B46FD5FD464DF467CE54 /* station-profiles.json in Resources */,
+				C6300E81C659BB8F25638FF1 /* stations.json in Resources */,
+				6EC759C058224726100EBF21 /* tuning-static.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0D33E3659B2D6EBC3728BF9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C54E7C4DED9DF78916930C3 /* CountryLocation.swift in Sources */,
+				602F314AF1503F47FBE14D9D /* DialApp.swift in Sources */,
+				B966037C7C0FEDA38F077CBA /* DialMotion.swift in Sources */,
+				F043BE23FB6EE8B28F868E60 /* Library.swift in Sources */,
+				F8FD014A4820EE4ADD2D3464 /* ListeningBehavior.swift in Sources */,
+				B3224350B55F52ECA7E52196 /* ListeningSettingsViews.swift in Sources */,
+				9B3302CB874A0D096C70DD42 /* Palette.swift in Sources */,
+				7BE5B06D0A8D7E82FC859BD6 /* Platform.swift in Sources */,
+				BBBD7DF7D7F92310A955D478 /* Preferences.swift in Sources */,
+				B6DE8114B32E1D67E10BB7ED /* RadioIntents.swift in Sources */,
+				1C5E67F669E6E9D3F19891AD /* RadioPlayer.swift in Sources */,
+				41E246F36253853CDDF6D7C6 /* RadioSettings.swift in Sources */,
+				BA66732CBF6C05D6F5CD7B19 /* RadioView.swift in Sources */,
+				F68770BB2F8108666B697961 /* SavedItems.swift in Sources */,
+				9C142A5A1247156C63EE0DC6 /* SavedItemsViews.swift in Sources */,
+				5092CB1B954A41FC2A273CA4 /* Station.swift in Sources */,
+				F384833D605ED3C388557B6D /* StationAlarms.swift in Sources */,
+				8B27E8C2AD6C09C2CC78D23E /* StationAlarmsViews.swift in Sources */,
+				98F5DC26A97B712002D8F772 /* StationInfo.swift in Sources */,
+				861593AB5660E3177A90C296 /* StationLibrary.swift in Sources */,
+				0C5D9B23C0B1E31A61E50AC3 /* StationProfile.swift in Sources */,
+				744061D436CE37560A03BFDF /* StreamMetadata.swift in Sources */,
+				B1D208D3358751CD1A27ACE2 /* TuningDial.swift in Sources */,
+				2481369FE1D6CDB377644C0F /* TuningNoise.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14B3AD149FDF3DC5FEC00D38 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFE798133E4F52F1C6C8C9B0 /* CatalogUITests.swift in Sources */,
+				7450D9ACE4CF6F1141EB5667 /* DeclutterUITests.swift in Sources */,
+				3906D20D308A5BF2355E3481 /* DialUITests.swift in Sources */,
+				A1C41C97081B784812D8A348 /* GapFillUITests.swift in Sources */,
+				F3BE254D1AC4BE003BD51A54 /* ListeningFeaturesUITests.swift in Sources */,
+				14BE7E4B1AB3BD2641CFCEB4 /* MotionUITests.swift in Sources */,
+				8175DC0FAD446F76F350B3A9 /* NewFeaturesTests.swift in Sources */,
+				3D3AAAF6C8BF04B21F27C1DA /* SettingsUITests.swift in Sources */,
+				13495AEAB353023E50A55472 /* StationActions.swift in Sources */,
+				46326546EA746C4A304F01BB /* StationSheetUITests.swift in Sources */,
+				D6163077FEBC9642C618A987 /* StoreScreenshots.swift in Sources */,
+				82AC60A8FEB5FDF8C003B9F7 /* TuningLocationUITests.swift in Sources */,
+				1B6C09D850F7BD130BD76827 /* UKExpansionUITests.swift in Sources */,
+				95E0B9505E04F93FC9F7B9B8 /* USExpansionUITests.swift in Sources */,
+				8C9D4E3F4D44AF286FF5198C /* WorldCatalogUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		696912D3D872B05DF510132B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5D779A2FBF2128AB239A0F9A /* AlarmTests.swift in Sources */,
+				89481703B28FD971C72E91EF /* CatalogTests.swift in Sources */,
+				78B7B4235D4F7E06AC514692 /* CountryLocationTests.swift in Sources */,
+				0AB6ACD4EF01C6AA5AB5738B /* CountryStartupTests.swift in Sources */,
+				F52415BB1284E9DDAD416ADE /* LibraryTests.swift in Sources */,
+				DD6C86AFDC337482CDE7530D /* ListeningBehaviorTests.swift in Sources */,
+				C668402DA109225563087AD9 /* LiveCatalogTests.swift in Sources */,
+				1908DAC8A5680579B3CCEB83 /* PlaybackTests.swift in Sources */,
+				7E609CBD39FFD346C696169E /* RadioCommandTests.swift in Sources */,
+				49ED063970A47E58C20F9662 /* SavedItemsTests.swift in Sources */,
+				E08844756212A13D0C42DBC7 /* TuningLocationTests.swift in Sources */,
+				85FC6B2792F56122DFBB9C25 /* UKCatalogTests.swift in Sources */,
+				0BA11C77A7158FB632E36A4F /* USTuningTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		26CA6515E9005A2CD706AE31 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1281736F855920DC3B887CEC /* Dial */;
+			targetProxy = 480F51AE70944F08B20D38E8 /* PBXContainerItemProxy */;
+		};
+		B5A979874AAE789F9B3C3E7A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1281736F855920DC3B887CEC /* Dial */;
+			targetProxy = F877B20CF94BD0B242782023 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		291B9F59D96ED59473DC543A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES[sdk=iphone*]" = (
+					AppIconMonogram,
+					AppIconSignal,
+					AppIconPocket,
+				);
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS[sdk=iphone*]" = YES;
+				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 33;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
+				INFOPLIST_FILE = Dial/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Dial;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
+				PRODUCT_NAME = Dial;
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		2C7BCDBC80ADE1C6484BC380 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.DialUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Dial;
+			};
+			name = Release;
+		};
+		2E54C3BCBCEF5E55B2405264 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = QAMM2A6WRQ;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		5F99FDED8FCD5B8191421722 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.DialTests;
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dial.app/Dial";
+				"TEST_HOST[sdk=macosx*]" = "$(BUILT_PRODUCTS_DIR)/Dial.app/Contents/MacOS/Dial";
+			};
+			name = Debug;
+		};
+		7D47C3C0135E5231CD69D6E2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.DialTests;
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dial.app/Dial";
+				"TEST_HOST[sdk=macosx*]" = "$(BUILT_PRODUCTS_DIR)/Dial.app/Contents/MacOS/Dial";
+			};
+			name = Release;
+		};
+		9BC05402DEC9FECBF0D54B54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES[sdk=iphone*]" = (
+					AppIconMonogram,
+					AppIconSignal,
+					AppIconPocket,
+				);
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS[sdk=iphone*]" = YES;
+				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 33;
+				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
+				INFOPLIST_FILE = Dial/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Dial;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
+				PRODUCT_NAME = Dial;
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		A3F8844E262EC6EF6EF85A55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.DialUITests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Dial;
+			};
+			name = Debug;
+		};
+		E796642CD8EF8E9229A949A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = QAMM2A6WRQ;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1725F4955EBCB8FF4A21D8D2 /* Build configuration list for PBXNativeTarget "Dial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				291B9F59D96ED59473DC543A /* Debug */,
+				9BC05402DEC9FECBF0D54B54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		83A6ADAF06DC12C017F22A55 /* Build configuration list for PBXNativeTarget "DialUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3F8844E262EC6EF6EF85A55 /* Debug */,
+				2C7BCDBC80ADE1C6484BC380 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		94212438E4D0739CFDF52D92 /* Build configuration list for PBXProject "Dial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E54C3BCBCEF5E55B2405264 /* Debug */,
+				E796642CD8EF8E9229A949A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		943DEFD4844B3101EA8045D7 /* Build configuration list for PBXNativeTarget "DialTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F99FDED8FCD5B8191421722 /* Debug */,
+				7D47C3C0135E5231CD69D6E2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 576B2F9E07E132D9D1C1CFD6 /* Project object */;
+}

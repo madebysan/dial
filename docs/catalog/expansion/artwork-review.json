@@ -1,0 +1,38 @@
+[
+  {
+    "stationID": "es-ondacero",
+    "oldURL": "https://www.ondacero.es/public/img/logos/logo2.svg",
+    "newURL": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "reason": "Replaced sponsor image with the broadcaster logo."
+  },
+  {
+    "stationID": "jp-nhk-world",
+    "oldURL": "https://www3.nhk.or.jp/nhkworld/assets/images/statics/ja_nw_premium_img_2019.png",
+    "newURL": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+    "reason": "Uses NHK World network branding, not the TV Premium image."
+  },
+  {
+    "stationID": "fr-musique",
+    "oldURL": "https://www.radiofrance.fr/pikapi/images/0c934a62-8d73-43c1-9465-fa44bc8ec7eb/2048",
+    "newURL": "https://www.radiofrance.fr/pikapi/images/33f46583-7f6f-4d09-8ac3-29415de896cb/1200x680",
+    "reason": "Replaced a themed subchannel image with the main France Musique image."
+  },
+  {
+    "stationID": "es-rne",
+    "oldURL": "https://www.rtve.es/favicon.ico",
+    "newURL": "https://css2.rtve.es/css/rtveplay.2021/i/compartir_rtve_play_radio.jpg",
+    "reason": "Uses RNE Audio network artwork."
+  },
+  {
+    "stationID": "es-radio3",
+    "oldURL": "https://css.rtve.es/css/rtve.2021/i/rtve-logos/logos_plus/logo_playPlus_ffffff.svg",
+    "newURL": "https://css2.rtve.es/css/rtveplay.2021/i/compartir_rtve_play_radio.jpg",
+    "reason": "Uses RNE Audio network artwork rather than TV artwork."
+  },
+  {
+    "stationID": "mx-formula",
+    "oldURL": "https://i.iheart.com/v3/re/new_assets/5ea0948ae7d1b1b0a6421948",
+    "newURL": null,
+    "reason": "Wrong frequency in supplied image."
+  }
+]

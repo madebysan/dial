@@ -1,0 +1,105 @@
+[
+  {
+    "id": "us-radio-paradise",
+    "name": "Radio Paradise",
+    "frequency": null,
+    "detail": "Eclectic music",
+    "city": "Eureka",
+    "region": "newYork",
+    "streamURL": "https://stream.radioparadise.com/aac-128",
+    "band": "Live"
+  },
+  {
+    "id": "us-groove-salad",
+    "name": "SomaFM Groove Salad",
+    "frequency": null,
+    "detail": "Ambient & downtempo",
+    "city": "San Francisco",
+    "region": "newYork",
+    "streamURL": "https://ice6.somafm.com/groovesalad-128-mp3",
+    "band": "Live"
+  },
+  {
+    "id": "us-kroq",
+    "name": "KROQ",
+    "frequency": 106.7,
+    "detail": "Alternative rock",
+    "city": "Los Angeles",
+    "region": "newYork",
+    "streamURL": "https://live.amperwave.net/direct/audacy-kroqfmaac-imc",
+    "band": "FM",
+    "tuningArea": "losAngeles"
+  },
+  {
+    "id": "us-kiis",
+    "name": "KIIS FM",
+    "frequency": 102.7,
+    "detail": "Pop & hits",
+    "city": "Los Angeles",
+    "region": "newYork",
+    "streamURL": "https://stream.revma.ihrhls.com/zc185",
+    "band": "FM",
+    "tuningArea": "losAngeles"
+  },
+  {
+    "id": "us-wins",
+    "name": "1010 WINS",
+    "frequency": 92.3,
+    "detail": "News",
+    "city": "New York",
+    "region": "newYork",
+    "streamURL": "https://live.amperwave.net/direct/audacy-winsamaac-imc",
+    "band": "FM",
+    "tuningArea": "newYork"
+  },
+  {
+    "id": "ar-nacional",
+    "name": "Radio Nacional",
+    "frequency": 870,
+    "detail": "News & culture",
+    "city": "Buenos Aires",
+    "region": "argentina",
+    "streamURL": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
+    "band": "AM"
+  },
+  {
+    "id": "es-radio-clasica",
+    "name": "Radio Clásica",
+    "frequency": null,
+    "detail": "Classical music",
+    "city": "National feed",
+    "region": "spain",
+    "streamURL": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
+    "band": "Live"
+  },
+  {
+    "id": "es-radio5",
+    "name": "Radio 5",
+    "frequency": null,
+    "detail": "News",
+    "city": "National feed",
+    "region": "spain",
+    "streamURL": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
+    "band": "Live"
+  },
+  {
+    "id": "fr-culture",
+    "name": "France Culture",
+    "frequency": null,
+    "detail": "Culture & ideas",
+    "city": "National feed",
+    "region": "france",
+    "streamURL": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+    "band": "Live"
+  },
+  {
+    "id": "fr-nova",
+    "name": "Radio Nova",
+    "frequency": null,
+    "detail": "Eclectic music",
+    "city": "National feed",
+    "region": "france",
+    "streamURL": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "band": "Live"
+  }
+]

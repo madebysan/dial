@@ -1,0 +1,82 @@
+[
+  {
+    "id": "us-radio-paradise",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://stream.radioparadise.com/aac-128",
+    "checkedAt": 813368528.435475,
+    "checkedAtISO": "2026-10-10T23:42:08.435475+00:00"
+  },
+  {
+    "id": "us-groove-salad",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://ice6.somafm.com/groovesalad-128-mp3",
+    "checkedAt": 813368530.390536,
+    "checkedAtISO": "2026-10-10T23:42:10.390536+00:00"
+  },
+  {
+    "id": "us-kroq",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://live.amperwave.net/direct/audacy-kroqfmaac-imc",
+    "checkedAt": 813368533.41434,
+    "checkedAtISO": "2026-10-10T23:42:13.414340+00:00"
+  },
+  {
+    "id": "us-kiis",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://stream.revma.ihrhls.com/zc185",
+    "checkedAt": 813368535.042992,
+    "checkedAtISO": "2026-10-10T23:42:15.042992+00:00"
+  },
+  {
+    "id": "us-wins",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://live.amperwave.net/direct/audacy-winsamaac-imc",
+    "checkedAt": 813368537.976172,
+    "checkedAtISO": "2026-10-10T23:42:17.976172+00:00"
+  },
+  {
+    "id": "ar-nacional",
+    "titleObserved": false,
+    "played": true,
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1",
+    "checkedAt": 813368541.504481,
+    "checkedAtISO": "2026-10-10T23:42:21.504481+00:00"
+  },
+  {
+    "played": true,
+    "titleObserved": false,
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
+    "checkedAt": 813368543.007375,
+    "id": "es-radio-clasica",
+    "checkedAtISO": "2026-10-10T23:42:23.007375+00:00"
+  },
+  {
+    "played": true,
+    "titleObserved": false,
+    "url": "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high",
+    "checkedAt": 813368546.042834,
+    "id": "es-radio5",
+    "checkedAtISO": "2026-10-10T23:42:26.042834+00:00"
+  },
+  {
+    "played": true,
+    "titleObserved": false,
+    "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+    "checkedAt": 813368547.702505,
+    "id": "fr-culture",
+    "checkedAtISO": "2026-10-10T23:42:27.702505+00:00"
+  },
+  {
+    "played": true,
+    "titleObserved": false,
+    "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "checkedAt": 813368553.695391,
+    "id": "fr-nova",
+    "checkedAtISO": "2026-10-10T23:42:33.695391+00:00"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
+    "homepage": "https://la100.cienradios.com/",
+    "icons": [
+      "https://la100.cienradios.com/pf/resources/la100/logos/favicon.ico?d=90"
+    ]
+  },
+  {
+    "stationuuid": "4285a122-9c78-417e-879e-5440c0482c56",
+    "homepage": "https://fmaspen.com/#",
+    "icons": [
+      "https://fmaspen.com/favicon.png"
+    ]
+  },
+  {
+    "stationuuid": "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
+    "homepage": "https://www.kissfm.es/",
+    "icons": [
+      "https://www.kissfm.es/wp-content/uploads/2020/09/favicon_KISS.jpg"
+    ]
+  }
+]

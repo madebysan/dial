@@ -1,0 +1,708 @@
+[
+  {
+    "id": "gb-bbc-radio-one",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_one/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_one.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-one-anthems",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_one_anthems/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_one_anthems.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-one-dance",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_one_dance.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-1xtra",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_1xtra/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_1xtra.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc2",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_two/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_two.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-three",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_three/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_three.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-three-unwind",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_three_unwind/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_three_unwind.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-four-extra",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_four_extra/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_four_extra.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-five-live",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_five_live/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_five_live.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-asian-network",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_asian_network/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_asian_network.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc6",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_6music/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_6music.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-sounds-news",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_sounds_news/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_sounds_news.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-world",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_world_service/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_world_service.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-nan-gaidheal",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_nan_gaidheal/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_nan_gaidheal.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-ulster",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_ulster/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_ulster.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-foyle",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_foyle/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_foyle.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-cymru",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_cymru/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_cymru.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-cymru-2",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_cymru_2/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_cymru_2.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-berkshire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_berkshire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_berkshire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-bristol",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_bristol/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_bristol.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-cambridge",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_cambridge/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_cambridge.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-cornwall",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_cornwall/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_cornwall.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-coventry-warwickshire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_coventry_warwickshire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_coventry_warwickshire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-cumbria",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_cumbria/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_cumbria.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-derby",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_derby/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_derby.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-devon",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_devon/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_devon.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-essex",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_essex/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_essex.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-gloucestershire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_gloucestershire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_gloucestershire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-guernsey",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_guernsey/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_guernsey.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-hereford-worcester",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_hereford_worcester/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_hereford_worcester.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-humberside",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_humberside/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_humberside.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-jersey",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_jersey/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_jersey.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-kent",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_kent/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_kent.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-lancashire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_lancashire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_lancashire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-leeds",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_leeds/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_leeds.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-leicester",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_leicester/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_leicester.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-lincolnshire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_lincolnshire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_lincolnshire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-london",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_london/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_london.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-manchester",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_manchester/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_manchester.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-merseyside",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_merseyside/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_merseyside.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-newcastle",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_newcastle/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_newcastle.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-norfolk",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_norfolk/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_norfolk.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-northampton",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_northampton/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_northampton.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-nottingham",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_nottingham/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_nottingham.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-oxford",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_oxford/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_oxford.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-sheffield",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_sheffield/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_sheffield.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-shropshire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_shropshire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_shropshire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-solent",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_solent/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_solent.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-somerset-sound",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_somerset_sound/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_somerset_sound.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-stoke",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_stoke/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_stoke.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-suffolk",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_suffolk/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_suffolk.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-surrey",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_surrey/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_surrey.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-sussex",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_sussex/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_sussex.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-tees",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_tees/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_tees.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-three-counties-radio",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_three_counties_radio/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_three_counties_radio.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-wiltshire",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_wiltshire/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_wiltshire.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-wm",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_wm/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_wm.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc-radio-york",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_york/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_york.png",
+    "dimensions": [
+      "  pixelWidth: 600",
+      "  pixelHeight: 600"
+    ]
+  },
+  {
+    "id": "gb-bbc4",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_four/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_four.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-bbc-radio-scotland-fm",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_scotland/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_scotland.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-bbc-radio-scotland-mw",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_scotland/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_scotland.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-bbc-radio-orkney",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_scotland/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_scotland.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-bbc-radio-shetland",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_scotland/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_scotland.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-bbc-radio-wales-fm",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_wales/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_wales.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-bbc-radio-wales-am",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_wales/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_wales.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-bbc-radio-solent-west-dorset",
+    "url": "https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_solent/blocks-colour_600x600.png",
+    "ok": true,
+    "file": "bbc_radio_solent.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-smooth-london",
+    "url": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+    "ok": true,
+    "file": "gb-smooth-london.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-smooth-chill",
+    "url": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+    "ok": true,
+    "file": "gb-smooth-chill.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-heart-dance",
+    "url": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "ok": true,
+    "file": "gb-heart-dance.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-capital-dance",
+    "url": "https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png",
+    "ok": true,
+    "file": "gb-capital-dance.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-capital-xtra",
+    "url": "https://www.capitalxtra.com/assets_v4r/xtra/img/favicon-196x196.png",
+    "ok": true,
+    "file": "gb-capital-xtra.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-nts1",
+    "url": "https://www.nts.live/apple-touch-icon.png?v=47rE43RRzB",
+    "ok": true,
+    "file": "gb-nts1.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-nts2",
+    "url": "https://www.nts.live/apple-touch-icon.png?v=47rE43RRzB",
+    "ok": true,
+    "file": "gb-nts2.png",
+    "networkBranding": true
+  },
+  {
+    "id": "gb-resonance",
+    "url": "https://resonancefm.com/assets/logo-a79206a34394173ba3e41d66a3388f4c.png",
+    "ok": true,
+    "file": "gb-resonance.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-funkids",
+    "url": "https://www.funkidslive.com/wp-content/themes/funkidslive/_img/logo-sm.png",
+    "ok": true,
+    "file": "gb-funkids.png",
+    "networkBranding": false
+  },
+  {
+    "id": "gb-rinse",
+    "url": "https://www.rinse.fm/favicon/apple-touch-icon.png",
+    "ok": true,
+    "file": "gb-rinse.png",
+    "networkBranding": false
+  }
+]

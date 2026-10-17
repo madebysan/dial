@@ -1,0 +1,35 @@
+{
+  "stations": [
+    {
+      "name": "Futura",
+      "frequency_mhz": 91.1,
+      "region": "Montevideo, Uruguay",
+      "url": "https://radiolatina.live:10849/",
+      "metadata_source": "https://www.radiofutura.com.uy/",
+      "directory_source": "https://de2.api.radio-browser.info/json/stations/search?countrycode=UY&limit=500",
+      "decode_test": "3 seconds decoded to null; exit 0",
+      "checked_date_eastern": "2026-10-10"
+    },
+    {
+      "name": "Diamante",
+      "frequency_mhz": 98.7,
+      "region": "Montevideo, Uruguay",
+      "url": "https://radiolatina.live/8058/stream",
+      "metadata_source": "https://www.radios-uruguay.com/diamante-fm",
+      "directory_source": "https://de2.api.radio-browser.info/json/stations/search?countrycode=UY&limit=500",
+      "decode_test": "3 seconds decoded to null; exit 0",
+      "checked_date_eastern": "2026-10-10"
+    },
+    {
+      "name": "El Puente",
+      "frequency_mhz": 103.3,
+      "region": "Montevideo, Uruguay",
+      "url": "https://as100.globalhost1.com/8082/stream",
+      "metadata_source": "https://www.radios-uruguay.com/el-puente-1033-fm",
+      "directory_source": "https://de2.api.radio-browser.info/json/stations/search?countrycode=UY&limit=500",
+      "decode_test": "3 seconds decoded to null; exit 0",
+      "checked_date_eastern": "2026-10-10"
+    }
+  ],
+  "limits": "Futura and Diamante streams return no station-name metadata. Their mapping is directory-sourced, with independently corroborated station/frequency/location. Océano, DelSol, and Azul were not added because stream DNS resolution failed from this Mac."
+}

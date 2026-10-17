@@ -1,0 +1,62 @@
+[
+  {
+    "stationuuid": "7b03996e-6ea0-4db5-8168-ddd1463faec2",
+    "ok": false,
+    "url": "http://cdn-profiles.tunein.com/s6984/images/logod.jpg",
+    "reason": "Missing HTTPS artwork"
+  },
+  {
+    "stationuuid": "4285a122-9c78-417e-879e-5440c0482c56",
+    "ok": false,
+    "url": "https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png",
+    "inspection": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "stationuuid": "4ff249e9-131b-4fae-88f0-d93c744240ee",
+    "ok": true,
+    "url": "https://cdn-profiles.tunein.com/s25987/images/logog.jpg",
+    "inspection": "(local work folder)/catalog-expansion/images/629f54f8629bb2f749ee\n  pixelWidth: 600\n  pixelHeight: 600\n"
+  },
+  {
+    "stationuuid": "c0cf2d87-993c-4cb6-97ad-f508a3fc5495",
+    "ok": true,
+    "url": "https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",
+    "inspection": "(local work folder)/catalog-expansion/images/1e7092a959df292c748b\n  pixelWidth: 120\n  pixelHeight: 120\n"
+  },
+  {
+    "stationuuid": "bcb3b03a-f0ec-4ceb-b22f-922138858800",
+    "ok": true,
+    "url": "https://fmrockandpop.com/pwa/ios_192x192.png",
+    "inspection": "(local work folder)/catalog-expansion/images/4ed4f134c2bbdd0deacd\n  pixelWidth: 192\n  pixelHeight: 192\n"
+  },
+  {
+    "stationuuid": "b81c57c3-eb05-47ac-a0ea-eb01a6960cc4",
+    "ok": true,
+    "url": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
+    "inspection": "(local work folder)/catalog-expansion/images/80f67b5860d17c8e0b39\n  pixelWidth: 152\n  pixelHeight: 152\n"
+  },
+  {
+    "stationuuid": "692a3b69-0f68-11ea-a87e-52543be04c81",
+    "ok": true,
+    "url": "https://cadenaser00.epimg.net/favicon.png",
+    "inspection": "(local work folder)/catalog-expansion/images/42e025870b5d5f7c8bc0\n  pixelWidth: 64\n  pixelHeight: 64\n"
+  },
+  {
+    "stationuuid": "960c37c6-0601-11e8-ae97-52543be04c81",
+    "ok": true,
+    "url": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png",
+    "inspection": "(local work folder)/catalog-expansion/images/557735138b805c457cb6\n  pixelWidth: 192\n  pixelHeight: 192\n"
+  },
+  {
+    "stationuuid": "743889d5-5472-4e9f-ac61-5f0f04e7efa8",
+    "ok": false,
+    "url": "",
+    "reason": "Missing HTTPS artwork"
+  },
+  {
+    "stationuuid": "84c6f3cc-3c66-415d-aff5-050b5f330adc",
+    "ok": true,
+    "url": "https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png",
+    "inspection": "(local work folder)/catalog-expansion/images/b31bef5faa570937503c\n  pixelWidth: 180\n  pixelHeight: 180\n"
+  }
+]

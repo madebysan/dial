@@ -1,0 +1,46 @@
+[
+  {
+    "station": {
+      "id": "gb-bbc-radio-five-live-sports-extra",
+      "name": "BBC Radio 5 Sports Extra",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8"
+    },
+    "check": {
+      "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8",
+      "checkedAt": "2026-10-10T21:18:36.014708+00:00",
+      "ok": false,
+      "exitCode": 8,
+      "codec": null,
+      "bitrateKbps": null,
+      "streamName": null,
+      "titlesObserved": false,
+      "titleSample": null,
+      "offlinePlaceholder": false,
+      "sampleSeconds": 0,
+      "log": "mime type is not rfc8216 compliant\n[in#0 @ 0x7b5cc1c000] Opening 'https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8' for reading\n[https @ 0x7b5cc18280] HTTP error 410 Gone\n[in#0 @ 0x7b5cc1c000] parse_playlist error Server returned 4XX Client Error, but not one of 40{0,1,3,4} [https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8]\n[in#0 @ 0x7b5cc18000] Error opening input: Server returned 4XX Client Error, but not one of 40{0,1,3,4}\nError opening input file https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8.\nError opening input files: Server returned 4XX Client Error, but not one of 40{0,1,3,4}\n"
+    },
+    "status": "No playable non-UK feed verified; not imported"
+  },
+  {
+    "station": {
+      "id": "gb-bbc-radio-six-indie-forever",
+      "name": "BBC Radio 6 Indie Forever",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8"
+    },
+    "check": {
+      "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8",
+      "checkedAt": "2026-10-10T21:18:36.978819+00:00",
+      "ok": false,
+      "exitCode": 8,
+      "codec": null,
+      "bitrateKbps": null,
+      "streamName": null,
+      "titlesObserved": false,
+      "titleSample": null,
+      "offlinePlaceholder": false,
+      "sampleSeconds": 0,
+      "log": "[https @ 0x7b21024000] HTTP error 404 Not Found\n[in#0 @ 0x7b2101c000] Error opening input: Server returned 404 Not Found\nError opening input file https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8.\nError opening input files: Server returned 404 Not Found\n"
+    },
+    "status": "No playable non-UK feed verified; not imported"
+  }
+]

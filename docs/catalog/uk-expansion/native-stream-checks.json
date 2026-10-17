@@ -1,0 +1,635 @@
+[
+  {
+    "checkedAt": 813360430.451454,
+    "played": true,
+    "id": "gb-bbc-world",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:10.451454+00:00"
+  },
+  {
+    "checkedAt": 813360432.130596,
+    "played": true,
+    "id": "gb-bbc2",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:12.130596+00:00"
+  },
+  {
+    "checkedAt": 813360434.283128,
+    "played": true,
+    "id": "gb-bbc4",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:14.283128+00:00"
+  },
+  {
+    "checkedAt": 813360435.945746,
+    "played": true,
+    "id": "gb-bbc6",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:15.945746+00:00"
+  },
+  {
+    "checkedAt": 813360437.946345,
+    "played": true,
+    "id": "gb-bbc-radio-one",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:17.946345+00:00"
+  },
+  {
+    "checkedAt": 813360440.373454,
+    "played": true,
+    "id": "gb-bbc-radio-one-anthems",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_anthems.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:20.373454+00:00"
+  },
+  {
+    "checkedAt": 813360442.209549,
+    "played": true,
+    "id": "gb-bbc-radio-one-dance",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:22.209549+00:00"
+  },
+  {
+    "checkedAt": 813360444.650809,
+    "played": true,
+    "id": "gb-bbc-1xtra",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:24.650809+00:00"
+  },
+  {
+    "checkedAt": 813360446.282231,
+    "played": true,
+    "id": "gb-bbc-radio-three",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:26.282231+00:00"
+  },
+  {
+    "checkedAt": 813360447.92346,
+    "played": true,
+    "id": "gb-bbc-radio-three-unwind",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_three_unwind.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:27.923460+00:00"
+  },
+  {
+    "checkedAt": 813360449.573666,
+    "played": true,
+    "id": "gb-bbc-radio-four-extra",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_four_extra.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:29.573666+00:00"
+  },
+  {
+    "checkedAt": 813360451.2318,
+    "played": true,
+    "id": "gb-bbc-radio-five-live",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:31.231800+00:00"
+  },
+  {
+    "checkedAt": 813360452.723046,
+    "played": true,
+    "id": "gb-bbc-asian-network",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_asian_network.m3u8",
+    "titleObserved": false,
+    "checkedAtISO": "2026-10-10T21:27:32.723046+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-sounds-news",
+    "checkedAt": 813360455.123158,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_sounds_news.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:35.123158+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-scotland-fm",
+    "checkedAt": 813360457.425988,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_scotland_fm.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:37.425988+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-scotland-mw",
+    "checkedAt": 813360460.005663,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_scotland_mw.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:40.005663+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-orkney",
+    "checkedAt": 813360462.282876,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_orkney.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:42.282876+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-shetland",
+    "checkedAt": 813360465.000474,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_shetland.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:45.000474+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-nan-gaidheal",
+    "checkedAt": 813360467.558641,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_nan_gaidheal.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:47.558641+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-ulster",
+    "checkedAt": 813360469.378057,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_ulster.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:49.378057+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-foyle",
+    "checkedAt": 813360471.929094,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_foyle.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:51.929094+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-wales-fm",
+    "checkedAt": 813360473.57898,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_wales_fm.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:53.578980+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-wales-am",
+    "checkedAt": 813360475.53016,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_wales_am.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:55.530160+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-cymru",
+    "checkedAt": 813360477.779004,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_cymru.m3u8",
+    "checkedAtISO": "2026-10-10T21:27:57.779004+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-cymru-2",
+    "checkedAt": 813360480.178002,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_cymru_2.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:00.178002+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-berkshire",
+    "checkedAt": 813360481.829946,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_berkshire.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:01.829946+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-bristol",
+    "checkedAt": 813360484.131505,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_bristol.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:04.131505+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-cambridge",
+    "checkedAt": 813360486.681514,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_cambridge.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:06.681514+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-cornwall",
+    "checkedAt": 813360489.268911,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_cornwall.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:09.268911+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-coventry-warwickshire",
+    "checkedAt": 813360491.729225,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_coventry_warwickshire.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:11.729225+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-cumbria",
+    "checkedAt": 813360493.247925,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_cumbria.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:13.247925+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-derby",
+    "checkedAt": 813360495.683173,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_derby.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:15.683173+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-devon",
+    "checkedAt": 813360497.956505,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_devon.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:17.956505+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-essex",
+    "checkedAt": 813360500.353352,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_essex.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:20.353352+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-gloucestershire",
+    "checkedAt": 813360503.046497,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_gloucestershire.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:23.046497+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-guernsey",
+    "checkedAt": 813360505.628839,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_guernsey.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:25.628839+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-hereford-worcester",
+    "checkedAt": 813360508.24298,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_hereford_worcester.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:28.242980+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-humberside",
+    "checkedAt": 813360511.128615,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_humberside.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:31.128615+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-jersey",
+    "checkedAt": 813360513.707704,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_jersey.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:33.707704+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-kent",
+    "checkedAt": 813360516.136326,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_kent.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:36.136326+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-lancashire",
+    "checkedAt": 813360518.732923,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_lancashire.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:38.732923+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-leeds",
+    "checkedAt": 813360521.127244,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_leeds.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:41.127244+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-leicester",
+    "checkedAt": 813360523.750477,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_leicester.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:43.750477+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-lincolnshire",
+    "checkedAt": 813360526.023319,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_lincolnshire.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:46.023319+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-london",
+    "checkedAt": 813360527.709317,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_london.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:47.709317+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-manchester",
+    "checkedAt": 813360530.125458,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_manchester.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:50.125458+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-merseyside",
+    "checkedAt": 813360532.51443,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_merseyside.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:52.514430+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-newcastle",
+    "checkedAt": 813360534.915683,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_newcastle.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:54.915683+00:00"
+  },
+  {
+    "titleObserved": false,
+    "played": true,
+    "id": "gb-bbc-radio-norfolk",
+    "checkedAt": 813360536.712149,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_norfolk.m3u8",
+    "checkedAtISO": "2026-10-10T21:28:56.712149+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_northampton.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360539.303,
+    "played": true,
+    "id": "gb-bbc-radio-northampton",
+    "checkedAtISO": "2026-10-10T21:28:59.303000+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_nottingham.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360541.701845,
+    "played": true,
+    "id": "gb-bbc-radio-nottingham",
+    "checkedAtISO": "2026-10-10T21:29:01.701845+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_oxford.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360544.191394,
+    "played": true,
+    "id": "gb-bbc-radio-oxford",
+    "checkedAtISO": "2026-10-10T21:29:04.191394+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_sheffield.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360546.490934,
+    "played": true,
+    "id": "gb-bbc-radio-sheffield",
+    "checkedAtISO": "2026-10-10T21:29:06.490934+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_shropshire.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360548.889768,
+    "played": true,
+    "id": "gb-bbc-radio-shropshire",
+    "checkedAtISO": "2026-10-10T21:29:08.889768+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_solent.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360551.288144,
+    "played": true,
+    "id": "gb-bbc-radio-solent",
+    "checkedAtISO": "2026-10-10T21:29:11.288144+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_solent_west_dorset.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360553.723494,
+    "played": true,
+    "id": "gb-bbc-radio-solent-west-dorset",
+    "checkedAtISO": "2026-10-10T21:29:13.723494+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_somerset_sound.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360556.278707,
+    "played": true,
+    "id": "gb-bbc-radio-somerset-sound",
+    "checkedAtISO": "2026-10-10T21:29:16.278707+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_stoke.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360558.533401,
+    "played": true,
+    "id": "gb-bbc-radio-stoke",
+    "checkedAtISO": "2026-10-10T21:29:18.533401+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_suffolk.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360561.079469,
+    "played": true,
+    "id": "gb-bbc-radio-suffolk",
+    "checkedAtISO": "2026-10-10T21:29:21.079469+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_surrey.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360563.792335,
+    "played": true,
+    "id": "gb-bbc-radio-surrey",
+    "checkedAtISO": "2026-10-10T21:29:23.792335+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_sussex.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360566.370797,
+    "played": true,
+    "id": "gb-bbc-radio-sussex",
+    "checkedAtISO": "2026-10-10T21:29:26.370797+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_tees.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360568.681346,
+    "played": true,
+    "id": "gb-bbc-tees",
+    "checkedAtISO": "2026-10-10T21:29:28.681346+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_three_counties_radio.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360571.58487,
+    "played": true,
+    "id": "gb-bbc-three-counties-radio",
+    "checkedAtISO": "2026-10-10T21:29:31.584870+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_wiltshire.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360574.66051,
+    "played": true,
+    "id": "gb-bbc-radio-wiltshire",
+    "checkedAtISO": "2026-10-10T21:29:34.660510+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_wm.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360577.308293,
+    "played": true,
+    "id": "gb-bbc-wm",
+    "checkedAtISO": "2026-10-10T21:29:37.308293+00:00"
+  },
+  {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_york.m3u8",
+    "titleObserved": false,
+    "checkedAt": 813360579.707422,
+    "played": true,
+    "id": "gb-bbc-radio-york",
+    "checkedAtISO": "2026-10-10T21:29:39.707422+00:00"
+  },
+  {
+    "url": "https://media-the.musicradio.com/SmoothLondonMP3",
+    "titleObserved": true,
+    "titleSample": "Diana Ross - When You Tell Me That You Love Me",
+    "checkedAt": 813360581.651869,
+    "played": true,
+    "id": "gb-smooth-london",
+    "checkedAtISO": "2026-10-10T21:29:41.651869+00:00"
+  },
+  {
+    "url": "https://radio.virginradio.co.uk/stream",
+    "titleObserved": false,
+    "checkedAt": 813360584.709988,
+    "played": true,
+    "id": "gb-virgin",
+    "checkedAtISO": "2026-10-10T21:29:44.709988+00:00"
+  },
+  {
+    "url": "https://timesradio.wireless.radio/stream",
+    "titleObserved": true,
+    "titleSample": "_",
+    "checkedAt": 813360588.642622,
+    "played": true,
+    "id": "gb-times",
+    "checkedAtISO": "2026-10-10T21:29:48.642622+00:00"
+  },
+  {
+    "url": "https://media-ssl.musicradio.com/ChillMP3",
+    "titleObserved": true,
+    "titleSample": "White Elephant - Sir John",
+    "checkedAt": 813360590.165816,
+    "played": true,
+    "id": "gb-smooth-chill",
+    "checkedAtISO": "2026-10-10T21:29:50.165816+00:00"
+  },
+  {
+    "url": "https://media-ssl.musicradio.com/CapitalDance",
+    "titleObserved": false,
+    "checkedAt": 813360591.495062,
+    "played": true,
+    "id": "gb-capital-dance",
+    "checkedAtISO": "2026-10-10T21:29:51.495062+00:00"
+  },
+  {
+    "url": "https://media-ssl.musicradio.com/HeartDanceMP3",
+    "titleObserved": true,
+    "titleSample": "Swedish House Mafia feat. John Martin - Don't You Worry Child",
+    "checkedAt": 813360592.977539,
+    "played": true,
+    "id": "gb-heart-dance",
+    "checkedAtISO": "2026-10-10T21:29:52.977539+00:00"
+  },
+  {
+    "url": "https://stream-relay-geo.ntslive.net/stream",
+    "titleObserved": true,
+    "titleSample": "NTS 1 - MUSIC TO EASE YOUR DISEASE",
+    "checkedAt": 813360598.031293,
+    "played": true,
+    "id": "gb-nts1",
+    "checkedAtISO": "2026-10-10T21:29:58.031293+00:00"
+  },
+  {
+    "url": "https://stream-relay-geo.ntslive.net/stream2",
+    "titleObserved": true,
+    "titleSample": "NTS 2 - DEEP GAY W/ KIM LANA (R)",
+    "checkedAt": 813360601.985111,
+    "played": true,
+    "id": "gb-nts2",
+    "checkedAtISO": "2026-10-10T21:30:01.985111+00:00"
+  },
+  {
+    "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "titleObserved": false,
+    "checkedAt": 813360605.018718,
+    "played": true,
+    "id": "gb-rinse",
+    "checkedAtISO": "2026-10-10T21:30:05.018718+00:00"
+  },
+  {
+    "url": "https://stream.resonance.fm/resonance",
+    "titleObserved": true,
+    "titleSample": "MSCTY Radio Tokyo - Resonance 104.4FM",
+    "checkedAt": 813360607.775658,
+    "played": true,
+    "id": "gb-resonance",
+    "checkedAtISO": "2026-10-10T21:30:07.775658+00:00"
+  },
+  {
+    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+    "titleObserved": true,
+    "titleSample": "Leon Bridges - Beyond",
+    "checkedAt": 813360612.707525,
+    "played": true,
+    "id": "gb-funkids",
+    "checkedAtISO": "2026-10-10T21:30:12.707525+00:00"
+  },
+  {
+    "url": "https://media-the.musicradio.com/CapitalXTRALondonMP3",
+    "titleObserved": true,
+    "titleSample": "Drake / Giggs - No Long Talk",
+    "checkedAt": 813360614.198268,
+    "played": true,
+    "id": "gb-capital-xtra",
+    "checkedAtISO": "2026-10-10T21:30:14.198268+00:00"
+  }
+]

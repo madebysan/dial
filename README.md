@@ -18,7 +18,7 @@ Turn a real dial through your city's FM and AM stations, with no ads and no acco
 
 ![Dial on iPhone: the tuner on WNYC 93.9 FM, the Stations grid, and the station details sheet](assets/screenshots.png)
 
-Most radio apps hand you a database of tens of thousands of streams. Dial gives you a tuner: pick a city and turn through its real frequencies. Download it for Mac, or build it for your iPhone with Xcode; both are under [Install](#install).
+Most radio apps hand you a database of tens of thousands of streams. Dial gives you a tuner: pick a city and turn through its real frequencies. Download it for Mac or build it for iPhone; see [Install](#install).
 
 - 249 live stations in 12 countries as of October 2026, each stream checked before it was added.
 - Live song titles when a station sends them, with one tap to search Apple Music, Spotify or Tidal.
@@ -34,7 +34,7 @@ Dial has no ads, accounts, analytics or servers of its own. Streams play directl
 
 ## Limits
 
-No recording, song recognition, podcasts or favorites sync between devices. Alarms are iPhone only and need iOS 26.1; they ring through the system and offer Play station, because they can't start internet radio from a closed app. Streams can move or go offline without notice. Station names, logos and streams belong to their broadcasters; Dial shows them only to identify each station and isn't affiliated with or endorsed by any of them.
+No recording, song recognition, podcasts or favorites sync between devices. Alarms are iPhone only and need iOS 26.1; they ring through the system and offer Play station, because they can't start internet radio from a closed app. Streams can move or go offline without notice. Dial isn't affiliated with any broadcaster.
 
 ## Install
 
@@ -44,7 +44,7 @@ No recording, song recognition, podcasts or favorites sync between devices. Alar
 2. Open it and drag Dial to Applications.
 3. Open Dial. It lives in the menu bar, not the Dock: click the radio icon to show the player. The power button at the top of the player quits.
 
-It needs macOS 14 or later and is signed and notarized by Apple, so it opens without warnings. It doesn't update itself yet; download a newer release.
+It needs macOS 14 or later and is signed and notarized by Apple. It doesn't update itself yet; download a newer release.
 
 **iPhone: build it yourself.** You need a Mac with Xcode 26 and an Apple account; a free one works.
 

@@ -5,7 +5,7 @@
 <p>A radio tuner for iPhone and Mac.<br>
 Turn a real dial through your city's FM and AM stations, with no ads and no account.</p>
 
-<p><strong>Version 1.0</strong> · iOS 17+ · macOS 14+</p>
+<p><strong>Version 1.1</strong> · iOS 17+ · macOS 14+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Swift-f05138" alt="Swift">
@@ -40,7 +40,7 @@ No recording, song recognition or podcasts. Alarms are iPhone only and need iOS 
 
 **Mac: download it.**
 
-1. Download `Dial-1.0.dmg` from the [latest release](https://github.com/madebysan/dial/releases/latest).
+1. Download the `.dmg` file from the [latest release](https://github.com/madebysan/dial/releases/latest).
 2. Open it and drag Dial to Applications.
 3. Open Dial. It lives in the menu bar, not the Dock: click the radio icon to show the player. The power button at the top of the player quits.
 

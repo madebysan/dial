@@ -20,10 +20,12 @@ Favorites sync through iCloud key-value storage in the person's own iCloud accou
 
 ## Status
 
-Version 1.0 is distributed for Mac as a notarized download on [GitHub Releases](https://github.com/madebysan/dial/releases/latest). It is not on the App Store; iPhone users build it from source. One app with the same code runs on both: Mac secondary screens open inside the player window, and iPhone uses sheets.
+Dial is distributed for Mac as a notarized download on [GitHub Releases](https://github.com/madebysan/dial/releases/latest). It is not on the App Store; iPhone users build it from source. One app with the same code runs on both: Mac secondary screens open inside the player window, and iPhone uses sheets.
 
 ## Documentation
 
+- [Behavior and catalogue](behavior.md): how the player, Stations and the catalogue behave
+- [Source files](source-files.md): which file owns what, and how to build and test
 - [Mac app](macos.md): how iPhone and Mac share code, the menu bar app, sandbox and release build
 - [Settings](settings.md), [tuning locations](tuning-locations.md), [motion](motion.md) and [listening features](features-v25.md)
-- Catalogue evidence: [expansion](catalog-expansion.md), [US](us-expansion.md), [UK and BBC](uk-expansion.md), [gap fill](gap-fill.md) and [city dials](city-dials.md)
+- Catalogue evidence: [expansion](catalog-expansion.md), [US](us-expansion.md), [North America](na-expansion.md), [UK and BBC](uk-expansion.md), [gap fill](gap-fill.md), [city dials](city-dials.md) and the [All Locations ranking](all-locations-ranking.md)

@@ -11,3 +11,4 @@ build/
 *.dSYM/
 __pycache__/
 .claude/settings.local.json
+_archived/

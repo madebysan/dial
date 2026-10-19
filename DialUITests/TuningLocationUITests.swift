@@ -11,14 +11,21 @@ final class TuningLocationUITests: XCTestCase {
         app.openAllStations()
         app.searchFields.firstMatch.tap()
         app.searchFields.firstMatch.typeText("MPR News")
-        app.buttons["station-us-know"].tap()
+        app.chooseStation("us-know")
         XCTAssertTrue(app.buttons["open-stations"].label.contains("Minneapolis–Saint Paul"))
-        XCTAssertTrue(app.buttons["open-stations"].label.contains("2 FM stations in Dial"))
-        capture(app, "Minneapolis scope with two FM stations")
+        // Ten Twin Cities FM stations since the Oct 18, 2026 North America batch.
+        XCTAssertTrue(app.buttons["open-stations"].label.contains("10 FM stations in Dial"))
+        capture(app, "Minneapolis scope with ten FM stations")
         app.buttons["next-station"].tap()
-        XCTAssertEqual(app.buttons["open-station-info"].label, "The Current")
-        app.buttons["next-station"].tap()
+        XCTAssertEqual(app.buttons["open-station-info"].label, "KS95")
+        app.buttons["previous-station"].tap()
         XCTAssertEqual(app.buttons["open-station-info"].label, "MPR News")
+        app.buttons["previous-station"].tap()
+        XCTAssertEqual(app.buttons["open-station-info"].label, "KFAI 90.3")
+        app.buttons["previous-station"].tap()
+        XCTAssertEqual(app.buttons["open-station-info"].label, "KMOJ 89.9")
+        app.buttons["previous-station"].tap()
+        XCTAssertEqual(app.buttons["open-station-info"].label, "The Current")
     }
 
     private func capture(_ app: XCUIApplication, _ name: String) {
@@ -57,14 +64,19 @@ final class TuningLocationUITests: XCTestCase {
         app.openAllStations()
         app.buttons["toggle-station-layout"].tap()
         app.searchFields.firstMatch.tap()
-        app.searchFields.firstMatch.typeText("91.1")
+        // Submit to close the keyboard: with more 91.1 stations, WFMU's row sits where the keyboard was.
+        app.searchFields.firstMatch.typeText("91.1\n")
         XCTAssertTrue(app.buttons["station-wfmu"].exists)
         XCTAssertTrue(app.buttons["station-us-know"].exists)
         XCTAssertEqual(app.staticTexts["location-wfmu"].label, "United States · Jersey City")
         XCTAssertEqual(app.staticTexts["location-us-know"].label, "United States · Minneapolis–Saint Paul")
         capture(app, "Same frequency with distinct city labels")
-        app.buttons["station-wfmu"].tap()
+        app.chooseStation("wfmu")
         XCTAssertTrue(app.buttons["open-stations"].label.contains("New York metro"))
+        // Let the selection land (and be saved) before quitting.
+        let selected = NSPredicate(format: "label == %@", "WFMU")
+        expectation(for: selected, evaluatedWith: app.buttons["open-station-info"])
+        waitForExpectations(timeout: 10)
         app.terminate()
         app.launchArguments = ["--ui-testing"]
         app.launch()

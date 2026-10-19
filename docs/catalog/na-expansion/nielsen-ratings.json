@@ -1,0 +1,1083 @@
+{
+ "Los Angeles": {
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KRTH-FM",
+    "name": "K-Earth 101",
+    "share": 5.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KLVE-FM",
+    "name": "107.5 Amor",
+    "share": 4.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KFI-AM",
+    "name": "KFI AM 640",
+    "share": 3.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KPCC-FM",
+    "name": "LAist 89.3",
+    "share": 3.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KNX-AM",
+    "name": "KNX News 1070",
+    "share": 3.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KKJZ-FM",
+    "name": "K-Jazz 88.1",
+    "share": 2.3,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "San Francisco": {
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KCBS-AM",
+    "name": "All News 106.9 & 740 KCBS",
+    "share": 8.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KOIT-FM",
+    "name": "96.5 KOIT",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KLLC-FM",
+    "name": "Alice @ 97.3",
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KDFC-FM",
+    "name": "Classical California KDFC",
+    "share": 3.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KRZZ-FM",
+    "name": "93.3 La Raza",
+    "share": 2.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KITS-FM",
+    "name": "Live 105",
+    "share": 2.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KMEL-FM",
+    "name": "106.1 KMEL",
+    "share": 2.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KCSM-FM",
+    "name": "Jazz 91",
+    "share": 1.1,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Seattle": {
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KIRO-AM",
+    "name": "Seattle Sports 710",
+    "share": 7.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KISW-FM",
+    "name": "99.9 The Rock KISW",
+    "share": 4.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KNDD-FM",
+    "name": "107.7 The End",
+    "share": 4.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KZOK-FM",
+    "name": "102.5 KZOK",
+    "share": 4.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KKWF-FM",
+    "name": "100.7 The Wolf",
+    "share": 3.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KIRO-FM",
+    "name": "KIRO NewsRadio 97.3",
+    "share": 3.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KING-FM",
+    "name": "Classical KING-FM 98.1",
+    "share": 3.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KNKX-FM",
+    "name": "88.5 KNKX",
+    "share": 3.0,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Portland": {
+  "source": "https://radioinsight.com/ratings/portland/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KXL-FM",
+    "name": "FM News 101 KXL",
+    "share": 6.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KINK-FM",
+    "name": "101.9 KINK FM",
+    "share": 6.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KQAC-FM",
+    "name": "All Classical Radio",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KXJM-FM",
+    "name": "Jam'n 107.5",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KNRK-FM",
+    "name": "94-7 FM",
+    "share": 3.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KGON-FM",
+    "name": "92-3 KGON",
+    "share": 3.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KWJJ-FM",
+    "name": "99.5 The Wolf",
+    "share": 2.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KBOO-FM",
+    "name": "K-Boo 90.7",
+    "share": 0.3,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Chicago": {
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WBBM-AM",
+    "name": "WBBM Newsradio 780 & 105.9",
+    "share": 5.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WXRT-FM",
+    "name": "93XRT",
+    "share": 5.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WDRV-FM",
+    "name": "97.1 The Drive",
+    "share": 4.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WUSN-FM",
+    "name": "US99",
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WVAZ-FM",
+    "name": "V103",
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WGN-AM",
+    "name": "720 WGN",
+    "share": 3.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WSCR-FM",
+    "name": "104.3 The Score",
+    "share": 3.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WGCI-FM",
+    "name": "107.5 WGCI",
+    "share": 2.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WOJO-FM",
+    "name": "Que Buena 105.1",
+    "share": 2.7,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Boston": {
+  "source": "https://radioinsight.com/ratings/boston/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WXKS-FM",
+    "name": "Kiss 108",
+    "share": 6.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WZLX-FM",
+    "name": "100.7 WZLX",
+    "share": 5.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCRB-FM",
+    "name": "CRB Classical 99.5",
+    "share": 5.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WEEI-FM",
+    "name": "SportsRadio 93.7",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WXRV-FM",
+    "name": "92.5 The River",
+    "share": 3.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WKLB-FM",
+    "name": "Country 102.5",
+    "share": 3.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WBZ-AM",
+    "name": "WBZ NewsRadio 1030",
+    "share": 2.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WERS-FM",
+    "name": "88.9 WERS",
+    "share": 1.9,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Philadelphia": {
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WMMR-FM",
+    "name": "93.3 WMMR",
+    "share": 10.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WIP-FM",
+    "name": "SportsRadio 94 WIP",
+    "share": 7.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WDAS-FM",
+    "name": "105.3 WDAS-FM",
+    "share": 7.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WMGK-FM",
+    "name": "102.9 MGK",
+    "share": 6.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KYW-AM",
+    "name": "KYW Newsradio 1060 & 103.9",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WXTU-FM",
+    "name": "92.5 XTU",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WUSL-FM",
+    "name": "Power 99 FM",
+    "share": 3.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRTI-FM",
+    "name": "WRTI 90.1 FM",
+    "share": 1.1,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Washington, DC": {
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WTOP-FM",
+    "name": "WTOP Radio",
+    "share": 9.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WHUR-FM",
+    "name": "96.3 WHUR",
+    "share": 6.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WWDC-FM",
+    "name": "DC101",
+    "share": 5.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WPGC-FM",
+    "name": "WPGC 95.5",
+    "share": 3.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WKYS-FM",
+    "name": "93.9 WKYS",
+    "share": 2.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WLZL-FM",
+    "name": "El Zol 107.9",
+    "share": 2.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WJFK-FM",
+    "name": "106-7 The Fan",
+    "share": 2.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WMZQ-FM",
+    "name": "98.7 WMZQ",
+    "share": 1.9,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Austin": {
+  "source": "https://radioinsight.com/ratings/austin/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KBPA-FM",
+    "name": "103.5 Bob FM",
+    "share": 7.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KLBJ-FM",
+    "name": "93.7 KLBJ",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KASE-FM",
+    "name": "KASE 100.7",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KLBJ-AM",
+    "name": "NewsRadio KLBJ 590",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KHFI-FM",
+    "name": "96.7 Kiss FM",
+    "share": 3.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KMFA-FM",
+    "name": "KMFA Classical 89.5",
+    "share": 3.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KROX-FM",
+    "name": "101X",
+    "share": 2.9,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "New Orleans": {
+  "source": "https://radioinsight.com/ratings/new-orleans/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WYLD-FM",
+    "name": null,
+    "share": 12.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WQUE-FM",
+    "name": null,
+    "share": 11.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WNOE-FM",
+    "name": null,
+    "share": 5.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRNO-FM",
+    "name": null,
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WEZB-FM",
+    "name": null,
+    "share": 3.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WKBU-FM",
+    "name": null,
+    "share": 3.3,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Minneapolis–Saint Paul": {
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KFXN-FM",
+    "name": "100.3 KFAN",
+    "share": 10.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KQQL-FM",
+    "name": "Kool 108",
+    "share": 7.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KDWB-FM",
+    "name": "101.3 KDWB",
+    "share": 5.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KEEY-FM",
+    "name": "K102",
+    "share": 5.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KSTP-FM",
+    "name": "KS95",
+    "share": 5.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KSJN-FM",
+    "name": "99.5 Classical MPR",
+    "share": 3.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCCO-AM",
+    "name": "NewsTalk 830 WCCO",
+    "share": 3.1,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Miami": {
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WAMR-FM",
+    "name": "Amor 107.5",
+    "share": 6.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WMIA-FM",
+    "name": "Magic 93.9",
+    "share": 6.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WHQT-FM",
+    "name": "Hot 105",
+    "share": 5.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCMQ-FM",
+    "name": "Zeta 92.3",
+    "share": 4.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WXDJ-FM",
+    "name": "El Zol 106.7",
+    "share": 3.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WKIS-FM",
+    "name": "Kiss Country 99.9",
+    "share": 3.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WEDR-FM",
+    "name": "99 Jamz",
+    "share": 2.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WHYI-FM",
+    "name": "Y100",
+    "share": 2.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WBGG-FM",
+    "name": "Big 105.9",
+    "share": 2.7,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Atlanta": {
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WAMJ-FM",
+    "name": "Majic 107.5/97.5",
+    "share": 8.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WSB-AM",
+    "name": "95.5 WSB",
+    "share": 7.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WVEE-FM",
+    "name": "V-103",
+    "share": 5.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WSRV-FM",
+    "name": "97.1 The River",
+    "share": 5.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WABE-FM",
+    "name": "90.1 WABE",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WZGC-FM",
+    "name": "92-9 The Game",
+    "share": 4.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WUBL-FM",
+    "name": "94.9 The Bull",
+    "share": 3.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WHTA-FM",
+    "name": "Hot 107.9",
+    "share": 2.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCLK-FM",
+    "name": "Jazz 91.9",
+    "share": 1.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRAS-FM",
+    "name": "88.5 GPB Atlanta/Album 88",
+    "share": 0.4,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Dallas–Fort Worth": {
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KHKS-FM",
+    "name": "106.1 Kiss FM",
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KRLD-FM",
+    "name": "105.3 The Fan",
+    "share": 4.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KERA-FM",
+    "name": "KERA 90.1",
+    "share": 3.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KKDA-FM",
+    "name": "K104",
+    "share": 3.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KMVK-FM",
+    "name": "La Grande 107.5",
+    "share": 3.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KZPS-FM",
+    "name": "Lone Star 92.5",
+    "share": 2.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRR-FM",
+    "name": "Classical 101",
+    "share": 2.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KKXT-FM",
+    "name": "KXT 91.7",
+    "share": 1.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KNTU-FM",
+    "name": "Indie 88.1",
+    "share": 1.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KRLD-AM",
+    "name": "NewsRadio 1080 KRLD",
+    "share": 1.4,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Houston": {
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KODA-FM",
+    "name": "Sunny 99.1",
+    "share": 10.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KGLK-FM",
+    "name": "The Eagle 106.9 & 107.5",
+    "share": 7.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KTBZ-FM",
+    "name": "94.5 The Buzz",
+    "share": 6.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KMJQ-FM",
+    "name": "Majic 102.1",
+    "share": 5.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KKBQ-FM",
+    "name": "93Q",
+    "share": 5.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KOVE-FM",
+    "name": "Amor 106.5",
+    "share": 5.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KTRH-AM",
+    "name": "NewsRadio 740",
+    "share": 3.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KBXX-FM",
+    "name": "97.9 The Box",
+    "share": 2.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KUHF-FM",
+    "name": "News 88.7",
+    "share": 2.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KTSU-FM",
+    "name": "90.9 The Choice",
+    "share": 1.8,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Denver": {
+  "source": "https://radioinsight.com/ratings/denver/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KTCL-FM",
+    "name": "Channel 93.3",
+    "share": 6.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KYGO-FM",
+    "name": "98.5 KYGO",
+    "share": 5.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KBCO-FM",
+    "name": "97.3 KBCO",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KCFR-FM",
+    "name": "CPR News 90.1",
+    "share": 4.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KRFX-FM",
+    "name": "103.5 The Fox",
+    "share": 4.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KOA-AM",
+    "name": "KOA Newsradio 850AM & 94.1 FM",
+    "share": 3.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KQKS-FM",
+    "name": "KS107.5",
+    "share": 2.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KVOD-FM",
+    "name": "CPR Classical 88.1",
+    "share": 2.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KUVO-FM",
+    "name": "Ku-Vo Jazz 89.3",
+    "share": 2.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KVOQ-FM",
+    "name": "indie 102.3",
+    "share": 1.9,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Detroit": {
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WXYT-FM",
+    "name": "97.1 The Ticket",
+    "share": 9.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WYCD-FM",
+    "name": "99.5 WYCD",
+    "share": 7.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WMXD-FM",
+    "name": "Mix 92.3",
+    "share": 7.0,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRIF-FM",
+    "name": "101 WRIF",
+    "share": 5.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WWJ-AM",
+    "name": "Newsradio 950 WWJ",
+    "share": 4.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCSX-FM",
+    "name": "94.7 WCSX",
+    "share": 4.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WJLB-FM",
+    "name": "97.9 WJLB",
+    "share": 3.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WUOM-FM",
+    "name": "Michigan Radio 91.7",
+    "share": 2.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WDET-FM",
+    "name": "101.9 WDET",
+    "share": 2.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WRCJ-FM",
+    "name": "90.9 WRCJ",
+    "share": 1.5,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "Nashville": {
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "WJXA-FM",
+    "name": "Mix 92.9",
+    "share": 12.8,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WPLN-FM",
+    "name": "90.3 WPLN News",
+    "share": 9.5,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WCJK-FM",
+    "name": "96.3 Jack FM",
+    "share": 7.7,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WNRQ-FM",
+    "name": "105.9 The Rock",
+    "share": 5.6,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WSIX-FM",
+    "name": "97.9 The Big 98",
+    "share": 4.1,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WUBT-FM",
+    "name": "101.1 The Beat",
+    "share": 3.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WNXP-FM",
+    "name": "91 One",
+    "share": 0.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "WMOT-FM",
+    "name": "Roots Radio 89.5",
+    "share": 0.5,
+    "month": "SEP 26"
+   }
+  ]
+ },
+ "San Diego": {
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "retrieved": "2026-10-18",
+  "note": "Share figures for imported stations only, as published by RadioInsight from Nielsen Audio.",
+  "stations": [
+   {
+    "call": "KXSN-FM",
+    "name": "Sunny 98.1",
+    "share": 8.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KWFN-FM",
+    "name": "97.3 The Fan",
+    "share": 6.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KPBS-FM",
+    "name": "KPBS 89.5",
+    "share": 5.9,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KLNV-FM",
+    "name": "Que Buena 106.5",
+    "share": 5.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KYXY-FM",
+    "name": "KYXY 96.5",
+    "share": 5.2,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KSON-FM",
+    "name": "103.7 KSON",
+    "share": 4.3,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KIOZ-FM",
+    "name": "Rock 105-3",
+    "share": 3.4,
+    "month": "SEP 26"
+   },
+   {
+    "call": "KOGO-AM",
+    "name": "Newsradio 600 KOGO",
+    "share": 2.6,
+    "month": "SEP 26"
+   }
+  ]
+ }
+}

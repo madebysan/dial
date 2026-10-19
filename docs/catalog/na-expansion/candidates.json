@@ -1,0 +1,3722 @@
+[
+ {
+  "key": "Los Angeles|KFI|AM",
+  "name": "KFI AM 640",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc177",
+    "via": "iHeartRadio directory (KFI AM 640)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KNX|AM",
+  "name": "KNX News",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-knxamaac-imc",
+    "via": "iHeartRadio directory (KNX News 1070 AM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KLOS|FM",
+  "name": "95.5 KLOS",
+  "kind": "rated",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/pls/KLOSFM.pls",
+    "via": "Broadcaster mount found via TuneIn s33826, TuneIn parameters removed",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KRTH|FM",
+  "name": "K-Earth 101",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-krthfmaac-imc",
+    "via": "iHeartRadio directory (K-Earth 101)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KPCC|FM",
+  "name": "LAist 89.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://laist.streamguys1.com/kpcc-mp3?aw_0_1st.playerId=laist",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KKJZ|FM",
+  "name": "KJazz 88.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://streaming.live365.com/a49833/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KLVE|FM",
+  "name": "Amor 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://tu.streamguys1.com/klvefm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+    "via": "iHeartRadio directory (K-LOVE 107.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KPFK|FM",
+  "name": "KPFK 90.7",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Los Angeles|KDAY|FM",
+  "name": "93.5 KDAY",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Los Angeles|KTWV|FM",
+  "name": "94.7 The Wave",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-ktwvfmaac-imc",
+    "via": "iHeartRadio directory (94.7 The Wave)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KYSR|FM",
+  "name": "Alt 98.7",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc201",
+    "via": "iHeartRadio directory (ALT 98.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Los Angeles|KXLU|FM",
+  "name": "KXLU 88.9",
+  "kind": "press",
+  "backup": true,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "San Francisco|KCBS|AM",
+  "name": "KCBS Radio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kcbsamaac-imc",
+    "via": "iHeartRadio directory (106.9 / 740 KCBS)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KDFC|FM",
+  "name": "Classical KDFC",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC96.aac",
+    "via": "StreamTheWorld mount for KDFC (Radio Browser record “Classical California KDFC AAC”)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KOIT|FM",
+  "name": "96.5 KOIT",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC.aac",
+    "via": "iHeartRadio directory (96.5 KOIT)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KMEL|FM",
+  "name": "106 KMEL",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc293",
+    "via": "iHeartRadio directory (106.1 KMEL)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KITS|FM",
+  "name": "Live 105",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kitsfmaac-imc",
+    "via": "iHeartRadio directory (Live 105)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KLLC|FM",
+  "name": "Alice 97.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kllcfmaac-imc",
+    "via": "iHeartRadio directory (Alice @ 97.3)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KRZZ|FM",
+  "name": "La Raza 93.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://liveaudio.lamusica.com/SF_KRZZ_icy?aw_0_1st.playerId=lamusica.iheart",
+    "via": "iHeartRadio directory (La Raza 93.3)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KCSM|FM",
+  "name": "KCSM Jazz 91",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice5.securenetsystems.net/KCSM",
+    "via": "iHeartRadio directory (91.1 KCSM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KNBR|AM",
+  "name": "KNBR 680",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC.aac",
+    "via": "iHeartRadio directory (680 / 104.5 KNBR)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KALX|FM",
+  "name": "KALX 90.7",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://stream.kalx.berkeley.edu:8443/kalx-320.aac",
+    "via": "Radio Browser",
+    "ok": false
+   },
+   {
+    "url": "https://stream.kalx.berkeley.edu:8443/kalx-128.mp3",
+    "via": "Radio Browser alternate",
+    "ok": false
+   },
+   {
+    "url": "https://stream.kalx.berkeley.edu:8443/kalx.flac",
+    "via": "Radio Browser alternate",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KFJC|FM",
+  "name": "KFJC 89.7",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://netcast.kfjc.org/kfjc-128k-mp3",
+    "via": "KFJC's own Icecast mount (netcast.kfjc.org); the bare host redirects to HTTP",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KPOO|FM",
+  "name": "KPOO 89.5",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kpoo.streamguys1.com/xstream",
+    "via": "Broadcaster's listen page (kpoo.com/listen)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KPFA|FM",
+  "name": "KPFA 94.1",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://streams.kpfa.org:8443/kpfa",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KISQ|FM",
+  "name": "98.1 The Breeze",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc285",
+    "via": "iHeartRadio directory (98.1 The Breeze)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Francisco|KMVQ|FM",
+  "name": "99.7 Now",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC.aac",
+    "via": "iHeartRadio directory (99.7 NOW)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KIRO|FM",
+  "name": "KIRO Newsradio 97.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://bonneville.cdnstream1.com/2643_48.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KIRO|AM",
+  "name": "Seattle Sports 710",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://bonneville.cdnstream1.com/2642_48.aac",
+    "via": "Bonneville stream for KIRO 710 (Radio Browser and iHeartRadio directory list the same mount)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KISW|FM",
+  "name": "99.9 KISW",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kiswfmaac-imc",
+    "via": "iHeartRadio directory (99.9 KISW)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KNDD|FM",
+  "name": "107.7 The End",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-knddfmaac-imc",
+    "via": "iHeartRadio directory (107.7 The End)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KZOK|FM",
+  "name": "102.5 KZOK",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc7787",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KING|FM",
+  "name": "Classical KING FM",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://classicalking.streamguys1.com/king-fm-aac-128k",
+    "via": "Radio Browser record “Classical KING FM”",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KNKX|FM",
+  "name": "KNKX 88.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://knkx-live-a.edge.audiocdn.com/6284_128k",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KKWF|FM",
+  "name": "100.7 The Wolf",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kkwffmaac-imc",
+    "via": "iHeartRadio directory (100.7 The Wolf)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Seattle|KBCS|FM",
+  "name": "KBCS 91.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Seattle|KUBE|FM",
+  "name": "KUBE 93.3",
+  "kind": "press",
+  "backup": true,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Seattle|KJEB|FM",
+  "name": "95.7 The Jet",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2569",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KINK|FM",
+  "name": "101.9 KINK",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/alphacorporate-kinkfmmp3-ibc4",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KXL|FM",
+  "name": "FM News 101 KXL",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/alphacorporate-kxlfmaac-ibc4",
+    "via": "iHeartRadio directory (FM News 101 KXL)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KQAC|FM",
+  "name": "All Classical",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://allclassical.streamguys1.com/ac96k",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KXJM|FM",
+  "name": "Jam'n 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc4319",
+    "via": "iHeartRadio directory (JAM'N 107-5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KNRK|FM",
+  "name": "94/7 Alternative",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-knrkfmaac-imc",
+    "via": "Audacy stream",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KGON|FM",
+  "name": "92.3 KGON",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kgonfmaac-imc",
+    "via": "iHeartRadio directory (92.3 KGON)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KWJJ|FM",
+  "name": "99.5 The Wolf",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kwjjfmaac-imc",
+    "via": "iHeartRadio directory (99.5 The Wolf)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KBOO|FM",
+  "name": "KBOO 90.7",
+  "kind": "press",
+  "backup": false,
+  "status": "rejected: Stream server lacks forward secrecy, so App Transport Security blocks it in Dial",
+  "streamsTried": [
+   {
+    "url": "https://live.kboo.fm:8443/high",
+    "via": "Broadcaster mount found via TuneIn s31809, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KLTH|FM",
+  "name": "106.7 The Eagle",
+  "kind": "rated",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc4315",
+    "via": "iHeartRadio directory (106.7 The Eagle)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Portland|KEX|AM",
+  "name": "Newsradio 1190 KEX",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1949",
+    "via": "iHeartRadio directory (NewsRadio 1190 KEX)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WBBM|AM",
+  "name": "WBBM Newsradio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wbbmamaac-imc",
+    "via": "iHeartRadio directory (NewsRadio 780 / 105.9 WBBM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WXRT|FM",
+  "name": "93XRT",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://prod-98-94-96-30.amperwave.net/audacy-wxrtfmaac-hlsc.m3u8?source=TuneIn&lat=41.8874&long=-87.6318",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WGN|AM",
+  "name": "WGN Radio 720",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://prod-44-203-50-103.amperwave.net/wgnam-wgnamaac-imc2?session-id=86606f34b346849b7ac4b30105121df6",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WVAZ|FM",
+  "name": "V103",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc865",
+    "via": "iHeartRadio directory (V103)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WGCI|FM",
+  "name": "WGCI 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc841",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WUSN|FM",
+  "name": "US99",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wusnfmaac-imc",
+    "via": "iHeartRadio directory (US 99)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WDRV|FM",
+  "name": "97.1 The Drive",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRVFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WSCR|FM",
+  "name": "670 The Score",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wscrfmaac-imc",
+    "via": "Audacy stream",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WOJO|FM",
+  "name": "Que Buena 105.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://tu.streamguys1.com/wojofm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+    "via": "iHeartRadio directory (Que Buena 105.1)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WCXP|FM",
+  "name": "CHIRP Radio",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://peridot.streamguys1.com:5185/live",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WTMX|FM",
+  "name": "101.9 The Mix",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMXFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Chicago|WHPK|FM",
+  "name": "WHPK 88.5",
+  "kind": "press",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://whpk-stream.uchicago.edu/stream",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WBZ|AM",
+  "name": "WBZ NewsRadio 1030",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc7729",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WZLX|FM",
+  "name": "100.7 WZLX",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc7730",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WCRB|FM",
+  "name": "CRB Classical 99.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wgbh-live.streamguys1.com/classical-hi",
+    "via": "Radio Browser record “WCRB”",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WXKS|FM",
+  "name": "Kiss 108",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1097",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WEEI|FM",
+  "name": "WEEI 93.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-weeifmaac-imc",
+    "via": "iHeartRadio directory (WEEI 93.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WXRV|FM",
+  "name": "92.5 The River",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://nebcoradio.com:8443/WXRV",
+    "via": "Broadcaster mount found via TuneIn s24062, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WKLB|FM",
+  "name": "Country 102.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKLBFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WERS|FM",
+  "name": "WERS 88.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WERSFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WMBR|FM",
+  "name": "WMBR 88.1",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wmbr.org:8002/hi",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WZBC|FM",
+  "name": "WZBC 90.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.wzbc.org/wzbc",
+    "via": "Radio Browser record (WZBC)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Boston|WROR|FM",
+  "name": "105.7 WROR",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WMMR|FM",
+  "name": "93.3 WMMR",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMMRFMAAC.aac",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WIP|FM",
+  "name": "94WIP",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wipfmaac-imc",
+    "via": "iHeartRadio directory (SportsRadio 94WIP)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WDAS|FM",
+  "name": "105.3 WDAS",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1993",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WMGK|FM",
+  "name": "102.9 MGK",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAAC.aac",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|KYW|AM",
+  "name": "KYW Newsradio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kywamaac-imc",
+    "via": "iHeartRadio directory (NewsRadio 1060 / 103.9 KYW)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WXTU|FM",
+  "name": "92.5 XTU",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXTUFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WUSL|FM",
+  "name": "Power 99",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2009",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WRTI|FM",
+  "name": "WRTI 90.1",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wrti-live.streamguys1.com/jazz-mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WPRB|FM",
+  "name": "WPRB 103.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wprb.streamguys1.com/live",
+    "via": "Radio Browser record (WPRB 103.3), HTTPS form of its listed URL",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WKDU|FM",
+  "name": "WKDU 91.7",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://streams.wkdu.org/listen.aac",
+    "via": "Broadcaster mount found via TuneIn s30144, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WBEB|FM",
+  "name": "B101.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wbebfmaac-imc",
+    "via": "iHeartRadio directory (B101 Philly)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Philadelphia|WRFF|FM",
+  "name": "Alt 104.5",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc3401",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WTOP|FM",
+  "name": "WTOP News",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WHUR|FM",
+  "name": "96.3 WHUR",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://futuri-das.cdnstream1.com/7167_48k.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WWDC|FM",
+  "name": "DC101",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2525",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WPGC|FM",
+  "name": "WPGC 95.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wpgcfmaac-imc",
+    "via": "iHeartRadio directory (WPGC 95.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WKYS|FM",
+  "name": "93.9 WKYS",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WMZQ|FM",
+  "name": "98.7 WMZQ",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2513/hls.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WPFW|FM",
+  "name": "WPFW 89.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Washington, DC|WJFK|FM",
+  "name": "106.7 The Fan",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wjfkfmaac-imc",
+    "via": "iHeartRadio directory (106.7 The Fan)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WLZL|FM",
+  "name": "El Zol 107.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wlzlfmaac-imc",
+    "via": "iHeartRadio directory (El Zol 107.9)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WASH|FM",
+  "name": "97.1 WASH-FM",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://n1bb-e2.revma.ihrhls.com/zc2501",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Washington, DC|WBIG|FM",
+  "name": "Big 100",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2505",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KBPA|FM",
+  "name": "103.5 Bob FM",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://waterloo.streamguys1.com/kbpa-fm_icy",
+    "via": "iHeartRadio directory (103.5 Bob FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KLBJ|FM",
+  "name": "93.7 KLBJ",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://waterloo.streamguys1.com/klbj-fm_icy",
+    "via": "iHeartRadio directory (93.7 KLBJ)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KLBJ|AM",
+  "name": "NewsRadio KLBJ",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://waterloo.streamguys1.com/klbj-am_icy",
+    "via": "iHeartRadio directory (NewsRadio 590 / 99.7 KLBJ)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KASE|FM",
+  "name": "KASE 101",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2165",
+    "via": "iHeartRadio directory (KASE 100.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KMFA|FM",
+  "name": "KMFA 89.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kmfa.streamguys1.com/KMFA-mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KROX|FM",
+  "name": "101X",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice6.securenetsystems.net/KROX?playSessionID=CC703E5A-1F4F-4E47-A153D5105D1A4585",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KHFI|FM",
+  "name": "96.7 Kiss FM",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2173",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KOOP|FM",
+  "name": "KOOP 91.7",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://streaming.koop.org/stream.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KAZI|FM",
+  "name": "KAZI 88.7",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice8.securenetsystems.net/KAZI",
+    "via": "Radio Browser record (KAZI 88.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KVET|FM",
+  "name": "98.1 KVET",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc8403/hls.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Austin|KAMX|FM",
+  "name": "Mix 94.7",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kamxfmaac-imc",
+    "via": "iHeartRadio directory (Mix 94.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WYLD|FM",
+  "name": "WYLD 98.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1053",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WQUE|FM",
+  "name": "Q93",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1037",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WWL|AM",
+  "name": "WWL 870",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wwlamaac-imc",
+    "via": "iHeartRadio directory (870 / 105.3 WWL)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WRNO|FM",
+  "name": "WRNO 99.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1033",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WEZB|FM",
+  "name": "B97",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wezbfmaac-imc",
+    "via": "iHeartRadio directory (B97)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WNOE|FM",
+  "name": "Kicks 101.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1045",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WKBU|FM",
+  "name": "Bayou 95.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wkbufmaac-imc",
+    "via": "iHeartRadio directory (Bayou 95.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WTUL|FM",
+  "name": "WTUL 91.5",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.wtulneworleans.com/",
+    "via": "Broadcaster mount found via TuneIn s23307, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "New Orleans|WHIV|FM",
+  "name": "WHIV 102.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "New Orleans|WLMG|FM",
+  "name": "Magic 101.9",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wlmgfmaac-imc",
+    "via": "iHeartRadio directory (Magic 101.9)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KFXN|FM",
+  "name": "100.3 KFAN",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1209",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KQQL|FM",
+  "name": "Kool 108",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1217/hls.m3u8?streamid=1217&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9393373802&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=a8e941c281de9ef4f1d4b557dcd9e13f&playedFrom=157&pname=live_profile&profileId=9393373802&stationid=1217&terminalId=159&territory=US",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KDWB|FM",
+  "name": "101.3 KDWB",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1201",
+    "via": "iHeartRadio directory (101.3 KDWB)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KSTP|FM",
+  "name": "KS95",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KEEY|FM",
+  "name": "K102",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1205",
+    "via": "iHeartRadio directory (K102)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KSJN|FM",
+  "name": "Classical MPR",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cms.stream.publicradio.org/cms.aac",
+    "via": "Radio Browser record (YourClassical MPR, Minnesota Public Radio simulcast)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|WCCO|AM",
+  "name": "WCCO 830",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wccoamaac-imc",
+    "via": "iHeartRadio directory (NewsTalk 830 WCCO)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KFAI|FM",
+  "name": "KFAI 90.3",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kfai.broadcasttool.stream/kfai-1",
+    "via": "Broadcaster mount found via TuneIn s32577, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KMOJ|FM",
+  "name": "KMOJ 89.9",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kmojfm.streamguys1.com/live",
+    "via": "Radio Browser record (KMOJ)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KTCZ|FM",
+  "name": "Cities 97.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1221",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Minneapolis–Saint Paul|KZJK|FM",
+  "name": "104.1 Jack FM",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kzjkfmaac-imc",
+    "via": "iHeartRadio directory (104.1 Jack FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WAMR|FM",
+  "name": "Amor 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://tu.streamguys1.com/wamrfm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+    "via": "iHeartRadio directory (Amor 107.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WMIA|FM",
+  "name": "Magic 93.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc4243",
+    "via": "iHeartRadio directory (Magic 93.9)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WHQT|FM",
+  "name": "Hot 105",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/mia1051/mia1051-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+    "via": "iHeartRadio directory (Hot 105)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WCMQ|FM",
+  "name": "Zeta 92.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WXDJ|FM",
+  "name": "El Zol 106.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://liveaudio.lamusica.com/MIA_WXDJ/playlist.m3u8?aw_0_1st.playerId=lamusica.iheart",
+    "via": "iHeartRadio directory (El Zol 106.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WEDR|FM",
+  "name": "99 Jamz",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/mia991/mia991-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+    "via": "iHeartRadio directory (99 Jamz)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WHYI|FM",
+  "name": "Y100",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc561",
+    "via": "iHeartRadio directory (Y100.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WKIS|FM",
+  "name": "Kiss Country 99.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wkisfmaac-imc",
+    "via": "Audacy stream for WKIS (iHeartRadio directory lists the same address)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WBGG|FM",
+  "name": "Big 105.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc557",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WFEZ|FM",
+  "name": "Easy 93.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/mia931/mia931-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+    "via": "iHeartRadio directory (Easy 93.1)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Miami|WLYF|FM",
+  "name": "101.5 Lite FM",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wlyffmaac-imc",
+    "via": "iHeartRadio directory (101.5 Lite FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WABE|FM",
+  "name": "WABE 90.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1_SC.mp3",
+    "via": "Radio Browser record “WABE”",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WSB|AM",
+  "name": "WSB Radio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/atl750/atl750-encoder.aac/playlist.m3u8",
+    "via": "WSB 750 stream listed in the iHeartRadio directory, partner parameter removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WVEE|FM",
+  "name": "V-103",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wveefmaac-imc",
+    "via": "iHeartRadio directory (V-103)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WAMJ|FM",
+  "name": "Majic 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WSRV|FM",
+  "name": "97.1 The River",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/atl971/atl971-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+    "via": "iHeartRadio directory (97.1 The River)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WZGC|FM",
+  "name": "92.9 The Game",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wzgcfmaac-imc",
+    "via": "iHeartRadio directory (92-9 The Game)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WUBL|FM",
+  "name": "94.9 The Bull",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2829",
+    "via": "iHeartRadio directory (94.9 The Bull)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WHTA|FM",
+  "name": "Hot 107.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WCLK|FM",
+  "name": "Jazz 91.9 WCLK",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFMAAC.aac",
+    "via": "iHeartRadio directory (91.9 WCLK)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WRAS|FM",
+  "name": "Album 88",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://gpb.streamguys1.com/gpb-atlanta-aac-website",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WREK|FM",
+  "name": "WREK 91.1",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://streaming.wrek.org/main/320kb.mp3",
+    "via": "Radio Browser record (WREK Atlanta 91.1)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WRFG|FM",
+  "name": "WRFG 89.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://s2.radio.co/s2133c4bad/listen",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WSTR|FM",
+  "name": "Star 94",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc253",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Atlanta|WALR|FM",
+  "name": "Kiss 104.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://cmg.streamguys1.com/atl1041/atl1041-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+    "via": "iHeartRadio directory (Kiss 104.1)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KERA|FM",
+  "name": "KERA 90.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kera-ice.streamguys1.com:8443/kera32-iheart",
+    "via": "iHeartRadio directory (90.1 KERA)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KKXT|FM",
+  "name": "KXT 91.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kera-ice.streamguys1.com/kxtlive64aacplus",
+    "via": "iHeartRadio directory (91.7 KXT)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|WRR|FM",
+  "name": "Classical WRR 101.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kera.streamguys1.com/wrrlive-aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KRLD|AM",
+  "name": "NewsRadio 1080 KRLD",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-krldamaac-imc",
+    "via": "iHeartRadio directory (NewsRadio 1080 KRLD)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KRLD|FM",
+  "name": "105.3 The Fan",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-krldfmaac-imc",
+    "via": "iHeartRadio directory (105.3 The Fan)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KHKS|FM",
+  "name": "106.1 Kiss FM",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2245",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KKDA|FM",
+  "name": "K104",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKDAFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KMVK|FM",
+  "name": "La Grande 107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kmvkfmaac-imc",
+    "via": "iHeartRadio directory (La Grande 107.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KZPS|FM",
+  "name": "Lone Star 92.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc3379",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KNTU|FM",
+  "name": "Indie 88",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice41.securenetsystems.net/KNTU",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KNON|FM",
+  "name": "KNON 89.3",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://knon.streamguys1.com/live",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KDGE|FM",
+  "name": "Star 102.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2815",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KJKK|FM",
+  "name": "100.3 Jack FM",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kjkkfmaac-imc",
+    "via": "iHeartRadio directory (100.3 Jack FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Dallas–Fort Worth|KVIL|FM",
+  "name": "Alt 103.7",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kvilfmaac-imc",
+    "via": "iHeartRadio directory (Alt 103.7)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KUHF|FM",
+  "name": "Houston Public Media News 88.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.houstonpublicmedia.org/news-mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KTSU|FM",
+  "name": "KTSU 90.9 The Choice",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice6.securenetsystems.net/KTSUFM",
+    "via": "Radio Browser record, HTTPS form of its listed URL",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KODA|FM",
+  "name": "Sunny 99.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2273",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KGLK|FM",
+  "name": "The Eagle 106.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KGLKFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KTBZ|FM",
+  "name": "94.5 The Buzz",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2281",
+    "via": "iHeartRadio directory (94.5 The Buzz)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KMJQ|FM",
+  "name": "Majic 102.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJQFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KKBQ|FM",
+  "name": "93Q Country",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKBQFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KTRH|AM",
+  "name": "KTRH NewsRadio 740",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2285/hls.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KBXX|FM",
+  "name": "97.9 The Box",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBXXFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KOVE|FM",
+  "name": "Amor 106.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://tu.streamguys1.com/kovefm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+    "via": "iHeartRadio directory (Amor 106.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KPFT|FM",
+  "name": "KPFT 90.1",
+  "kind": "reddit",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Houston|KTRU|FM",
+  "name": "KTRU",
+  "kind": "reddit",
+  "backup": false,
+  "status": "rejected: The KTRU call sign now belongs to a station in La Harpe, Kansas; Rice's KTRU has no Houston FM licence",
+  "streamsTried": []
+ },
+ {
+  "key": "Houston|KRBE|FM",
+  "name": "104.1 KRBE",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC.aac",
+    "via": "iHeartRadio directory (104.1 KRBE)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Houston|KHMX|FM",
+  "name": "Mix 96.5",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-khmxfmaac-imc",
+    "via": "iHeartRadio directory (MIX 96.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KCFR|FM",
+  "name": "CPR News",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream1.cprnetwork.org/cpr1_lo",
+    "via": "Broadcaster mount found via TuneIn s36422, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KVOD|FM",
+  "name": "CPR Classical",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream1.cprnetwork.org/cpr2_lo",
+    "via": "Radio Browser record (CPR Classical)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KUVO|FM",
+  "name": "KUVO Jazz 89.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kuvo.streamguys1.com/kuvo-aac-128",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KBCO|FM",
+  "name": "97.3 KBCO",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2804",
+    "via": "iHeartRadio directory (97.3 KBCO)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KTCL|FM",
+  "name": "Channel 93.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc397",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KYGO|FM",
+  "name": "98.5 KYGO",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://bonneville.cdnstream1.com/2710_48.aac?aw_0_1st.playerid=IHM",
+    "via": "iHeartRadio directory (98.5 KYGO)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KOA|AM",
+  "name": "KOA Newsradio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc389",
+    "via": "iHeartRadio directory (850 / 94.1 KOA)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KQKS|FM",
+  "name": "KS107.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kqksfmaac-imc",
+    "via": "iHeartRadio directory (KS107.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KRFX|FM",
+  "name": "103.5 The Fox",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc393",
+    "via": "iHeartRadio directory (103.5 The Fox)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KVOQ|FM",
+  "name": "Indie 102.3",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream2.cprnetwork.org:8443/cpr3_aac",
+    "via": "iHeartRadio directory (Indie 102.3)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KOSI|FM",
+  "name": "KOSI 101.1",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://bonneville.cdnstream1.com/2709_48.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Denver|KXPK|FM",
+  "name": "La Tricolor 96.5",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPKFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WDET|FM",
+  "name": "WDET 101.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wdet.cdnstream1.com/4550_256.aac?esPlayer&cb=893951.m4a",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WUOM|FM",
+  "name": "Michigan Public 91.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WRCJ|FM",
+  "name": "WRCJ 90.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wrcj.streamguys1.com/live.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WWJ|AM",
+  "name": "WWJ Newsradio 950",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wwjamaac-imc",
+    "via": "iHeartRadio directory (NewsRadio 950 WWJ)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WXYT|FM",
+  "name": "97.1 The Ticket",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wxytfmaac-imc",
+    "via": "iHeartRadio directory (97.1 The Ticket)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WRIF|FM",
+  "name": "101 WRIF",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAAC.aac",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WJLB|FM",
+  "name": "97.9 WJLB",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1141",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WMXD|FM",
+  "name": "Mix 92.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1149",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WYCD|FM",
+  "name": "99.5 WYCD",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-wycdfmaac-imc",
+    "via": "iHeartRadio directory (99.5 WYCD)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WCSX|FM",
+  "name": "94.7 WCSX",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WOMC|FM",
+  "name": "104.3 WOMC",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-womcfmaac-imc",
+    "via": "iHeartRadio directory (104.3 WOMC)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Detroit|WNIC|FM",
+  "name": "100.3 WNIC",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc1153?streamid=1153",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WPLN|FM",
+  "name": "WPLN News 90.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wpln.streamguys1.com/wplnfm.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WNXP|FM",
+  "name": "Nashville Public Radio 91 One",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wpln.streamguys1.com/wnxpfm.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WMOT|FM",
+  "name": "WMOT Roots Radio",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WRLT|FM",
+  "name": "Lightning 100",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRLTFM.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WSM|AM",
+  "name": "WSM 650",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ais-sa8.cdnstream1.com/3666_96.aac",
+    "via": "iHeartRadio directory (650 WSM Radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WSIX|FM",
+  "name": "The Big 98",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2157",
+    "via": "iHeartRadio directory (The BIG 98)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WJXA|FM",
+  "name": "Mix 92.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXAFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WNRQ|FM",
+  "name": "105.9 The Rock",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2780",
+    "via": "iHeartRadio directory (105.9 The Rock)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WUBT|FM",
+  "name": "101.1 The Beat",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2153",
+    "via": "iHeartRadio directory (101.1 The Beat)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WCJK|FM",
+  "name": "96.3 Jack FM",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCJKFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WXNA|FM",
+  "name": "WXNA 101.5",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://wxna.broadcasttool.stream/play",
+    "via": "Broadcaster's player (WXNA, via its RadioRethink tuner page)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Nashville|WBUZ|FM",
+  "name": "102.9 The Buzz",
+  "kind": "rated",
+  "backup": true,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Nashville|WRVW|FM",
+  "name": "107.5 The River",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc2784",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KPBS|FM",
+  "name": "KPBS 89.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://kpbs.streamguys1.com/kpbs-mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KSDS|FM",
+  "name": "Jazz 88.3",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ksds-ice.streamguys1.com/ksds.mp3",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KXSN|FM",
+  "name": "Sunny 98.1",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kxsnfmaac-imc",
+    "via": "iHeartRadio directory (Sunny 98.1)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KWFN|FM",
+  "name": "97.3 The Fan",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kwfnfmaac-imc",
+    "via": "iHeartRadio directory (97.3 The Fan)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KSON|FM",
+  "name": "KSON 103.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-ksonfmaac-imc",
+    "via": "iHeartRadio directory (103.7 KSON)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|XETRA|FM",
+  "name": "91X",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.kxul.com/listen.mp3",
+    "via": "Broadcaster mount found via TuneIn s26584, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KIOZ|FM",
+  "name": "Rock 105.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc245",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KYXY|FM",
+  "name": "KYXY 96.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kyxyfmaac-imc",
+    "via": "iHeartRadio directory (KyXy 96.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KLNV|FM",
+  "name": "Que Buena 106.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://tu.streamguys1.com/klnvfm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+    "via": "iHeartRadio directory (Que Buena 106.5)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KOGO|AM",
+  "name": "Newsradio 600 KOGO",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ample.revma.ihrhls.com/zc257",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KGB|FM",
+  "name": "101.5 KGB",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://stream.revma.ihrhls.com/zc237",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "San Diego|KBZT|FM",
+  "name": "Alt 94.9",
+  "kind": "rated",
+  "backup": true,
+  "status": "backup not needed",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/audacy-kbztfmaac-imc",
+    "via": "iHeartRadio directory (Alt 94.9)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CBLA|FM",
+  "name": "CBC Radio One Toronto",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "via": "CBC's own live radio list (https://www.cbc.ca/listen/live-radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CBL|FM",
+  "name": "CBC Music Toronto",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+    "via": "CBC's own live radio list (https://www.cbc.ca/listen/live-radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CHFI|FM",
+  "name": "98.1 CHFI",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CFTR|AM",
+  "name": "680 News",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CFRB|AM",
+  "name": "Newstalk 1010",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC.aac",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CKIS|FM",
+  "name": "KiSS 92.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CFNY|FM",
+  "name": "102.1 The Edge",
+  "kind": "rated",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Toronto|CJRT|FM",
+  "name": "Jazz FM91",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CILQ|FM",
+  "name": "Q107",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/townsquare-ktbqfmaac-ibc3.aac",
+    "via": "Broadcaster mount found via TuneIn s35586, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CIND|FM",
+  "name": "Indie88",
+  "kind": "press",
+  "backup": false,
+  "status": "rejected: Stream plays a 'not available' placeholder loop",
+  "streamsTried": [
+   {
+    "url": "https://localradio.streamb.live/SB00348",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CIUT|FM",
+  "name": "CIUT 89.5",
+  "kind": "reddit",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice23.securenetsystems.net/CIUT",
+    "via": "Radio Browser record (CIUT 89.5FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CFMZ|FM",
+  "name": "Classical 96.3",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.amperwave.net/direct/mzmedia-cfmzfmaac-ibc2.aac",
+    "via": "Broadcaster mount found via TuneIn s12364, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Toronto|CHUM|FM",
+  "name": "104.5 CHUM FM",
+  "kind": "press",
+  "backup": true,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Montreal|CBF|FM",
+  "name": "ICI Radio-Canada Première",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8",
+    "via": "Radio Browser record (ICI Radio-Canada Première Montréal)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CBFX|FM",
+  "name": "ICI Musique",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC.mp3",
+    "via": "Broadcaster mount found via TuneIn s1917, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CBME|FM",
+  "name": "CBC Radio One Montreal",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "via": "Radio Browser record (CBC Radio One Montréal)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CHMP|FM",
+  "name": "98.5 Montréal",
+  "kind": "rated",
+  "backup": false,
+  "status": "rejected: Geo-blocked outside Canada: redirects to a recorded geo-block message",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
+    "via": "StreamTheWorld mount listed in Radio Browser (98.5 Montréal)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CJAD|AM",
+  "name": "CJAD 800",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://18853.live.streamtheworld.com/CJADAM_SC",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CKOI|FM",
+  "name": "CKOI 96.9",
+  "kind": "press",
+  "backup": false,
+  "status": "rejected: Geo-blocked outside Canada: redirects to a recorded geo-block message",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CITE|FM",
+  "name": "Rouge 107.3",
+  "kind": "press",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Montreal|CHOM|FM",
+  "name": "CHOM 97.7",
+  "kind": "press",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CFGL|FM",
+  "name": "Rythme 105.7",
+  "kind": "rated",
+  "backup": false,
+  "status": "rejected: Geo-blocked outside Canada: redirects to a recorded geo-block message",
+  "streamsTried": [
+   {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFGLFM.mp3",
+    "via": "StreamTheWorld mount",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CKBE|FM",
+  "name": "The Beat 92.5",
+  "kind": "rated",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://hel-ais-relay3.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8",
+    "via": "Radio Browser record (The Beat 92.5)",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CJFM|FM",
+  "name": "Virgin Radio 96",
+  "kind": "press",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": []
+ },
+ {
+  "key": "Montreal|CIBL|FM",
+  "name": "CIBL 101.5",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream2.statsradio.com/8106/stream",
+    "via": "Broadcaster mount found via TuneIn s24677, TuneIn parameters removed",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CKUT|FM",
+  "name": "CKUT 90.3",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://delray.ckut.ca:8001/ckut-live-128",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CBM|FM",
+  "name": "CBC Music Montreal",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+    "via": "CBC's own live radio list (CBC Music Eastern feed, which Montreal's 93.5 carries)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CISM|FM",
+  "name": "CISM 89.3",
+  "kind": "press",
+  "backup": true,
+  "status": "rejected: Stream server lacks forward secrecy; App Transport Security blocks it (TLS error -9824 in AVPlayer)",
+  "streamsTried": [
+   {
+    "url": "https://stream03.ustream.ca/cism128.mp3",
+    "via": "Radio Browser record (CISM 89,3), HTTPS form of its listed URL",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CJPX|FM",
+  "name": "QUB radio 99.5",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream-cjpx-rr01.leclerccom.com/cjpx.aac",
+    "via": "Radio Browser record (Qub Radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Montreal|CKVL|FM",
+  "name": "CKVL 100.1",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.statsradio.com:8072/stream",
+    "via": "Radio Browser record (CKVL-FM 100.1 LaSalle)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CBU|AM",
+  "name": "CBC Radio One Vancouver",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+    "via": "CBC's own live radio list (https://www.cbc.ca/listen/live-radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CBU|FM",
+  "name": "CBC Music Vancouver",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
+    "via": "CBC's own live radio list (https://www.cbc.ca/listen/live-radio)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKNW|AM",
+  "name": "CKNW 980",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://corus.leanstream.co/CKNWAM-MP3",
+    "via": "Corus stream",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKWX|AM",
+  "name": "News 1130",
+  "kind": "press",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8",
+    "via": "Radio Browser record (News 1130)",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CJAX|FM",
+  "name": "JACK 96.9",
+  "kind": "rated",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CFOX|FM",
+  "name": "CFOX 99.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "no working HTTPS stream found",
+  "streamsTried": [
+   {
+    "url": "https://corus.leanstream.co/CFOXFM",
+    "via": "Radio Browser",
+    "ok": false
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKZZ|FM",
+  "name": "Virgin Radio 95.3",
+  "kind": "rated",
+  "backup": false,
+  "status": "rejected: Stream plays a placeholder loop",
+  "streamsTried": [
+   {
+    "url": "https://corus.leanstream.co/CKZZFM-MP3",
+    "via": "Corus stream",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKPK|FM",
+  "name": "102.7 The Peak",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.jpbgdigital.com/CKPK/HEAAC/48k/playlist.m3u8",
+    "via": "Radio Browser record (102.7 The Peak)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CITR|FM",
+  "name": "CiTR 101.9",
+  "kind": "press",
+  "backup": false,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://live.citr.ca/live.aac",
+    "via": "Radio Browser",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CJJR|FM",
+  "name": "JR Country 93.7",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8",
+    "via": "Radio Browser record (CJJR 93.7 JR Country)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKKS|FM",
+  "name": "KiSS 104.9",
+  "kind": "press",
+  "backup": true,
+  "status": "rejected: Wikipedia places CKKS at 107.5 in Chilliwack, outside Vancouver; the 104.9 stream is a different service",
+  "streamsTried": [
+   {
+    "url": "https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8",
+    "via": "Radio Browser record (CKKS KiSS)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CKYE|FM",
+  "name": "RED FM 93.1",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://ice24.securenetsystems.net/CKYE",
+    "via": "Radio Browser record (CKYE 93.1 RED FM)",
+    "ok": true
+   }
+  ]
+ },
+ {
+  "key": "Vancouver|CBUF|FM",
+  "name": "ICI Radio-Canada Première Colombie-Britannique",
+  "kind": "press",
+  "backup": true,
+  "status": "imported",
+  "streamsTried": [
+   {
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8",
+    "via": "Radio Browser record (ICI Première Colombie-Britannique)",
+    "ok": true
+   }
+  ]
+ }
+]

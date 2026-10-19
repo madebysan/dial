@@ -31,18 +31,21 @@ final class DeclutterUITests: XCTestCase {
         app.openAllStations()
         let filter = app.buttons["city-filter"]
         let count = app.staticTexts["station-count"]
-        XCTAssertEqual(count.label, "249 stations")
+        XCTAssertEqual(count.label, "459 stations")
         XCTAssertEqual(filter.frame.midY, count.frame.midY, accuracy: 8)
-        XCTAssertTrue(app.staticTexts["location-wnyu"].exists)
+        // Worldwide rows name their city; which station sorts first changes as the catalogue grows.
+        XCTAssertTrue(app.staticTexts.matching(NSPredicate(format: "identifier BEGINSWITH 'location-'")).firstMatch.exists)
         capture(app, "Compact worldwide library")
         filter.tap()
         app.buttons["browse-country-newYork"].tap()
-        let seattle = app.buttons["location-newYork-Seattle"]
-        XCTAssertEqual(seattle.label, "Seattle, United States")
+        // Seattle sits near the end of a 19-city menu.
+        let seattle = app.revealMenuItem("location-newYork-Seattle")
+        // iOS 27 drops the custom label inside a nested menu and reads the visible title.
+        XCTAssertTrue(["Seattle, United States", "Seattle"].contains(seattle.label), seattle.label)
         capture(app, "Dial-location menu")
         seattle.tap()
         XCTAssertTrue(filter.label.contains("Seattle · United States"))
-        XCTAssertEqual(count.label, "2 stations")
+        XCTAssertEqual(count.label, "10 stations")
         XCTAssertFalse(app.staticTexts["location-us-kexp"].exists)
         capture(app, "Single-city grid without repeated location")
         app.filterStations(country: "newYork", location: "newYork")

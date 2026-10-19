@@ -27,4 +27,4 @@ Stations opens at the dial's current city/metro; All Locations widens it to the 
 
 ## Verification
 
-Verification owns current build/install evidence and limitations. Relevant retained evidence includes the original scope check, final scope/model run, onboarding/location flow, single-line player control, all twelve country flows, Other stations mode menu, and simplified location-row permission flow. Build-by-build changes remain in the [changelog](../CHANGELOG.md).
+Verification owns current build/install evidence and limitations. Build-by-build changes remain in the [changelog](../CHANGELOG.md).

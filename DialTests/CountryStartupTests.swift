@@ -44,6 +44,7 @@ final class CountryStartupTests: XCTestCase {
     func testRegionMappingRejectsUnsupportedCountries() {
         XCTAssertEqual(RadioRegion(countryCode: "gb"), .unitedKingdom)
         XCTAssertEqual(RadioRegion(countryCode: "UY"), .montevideo)
+        XCTAssertEqual(RadioRegion(countryCode: "CA"), .canada)
         XCTAssertNil(RadioRegion(countryCode: "NZ"))
     }
 }

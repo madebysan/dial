@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "us-kfi",
+  "url": "https://stream.revma.ihrhls.com/zc177",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:14.302776+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KFI",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-knx",
+  "url": "https://live.amperwave.net/direct/audacy-knxamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:15.080500+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "KNX 1070 NEWSRADIO",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-krth",
+  "url": "https://live.amperwave.net/direct/audacy-krthfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:21.282263+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "K-EARTH 101",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kpcc",
+  "url": "https://laist.streamguys1.com/kpcc-mp3?aw_0_1st.playerId=laist",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:30.910553+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 192,
+  "streamName": "LAist 474 Omnia",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kkjz",
+  "url": "https://streaming.live365.com/a49833/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:32.612471+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-klve",
+  "url": "https://tu.streamguys1.com/klvefm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:22.376152+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 63,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kcbs",
+  "url": "https://live.amperwave.net/direct/audacy-kcbsamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:26.890956+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "KCBS All News 106.9FM and 740AM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kdfc",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC96.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:41.018927+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 96,
+  "streamName": "KDFCFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-koit",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:27.618711+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 48,
+  "streamName": "96.5 KOIT",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kmel",
+  "url": "https://stream.revma.ihrhls.com/zc293",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:29.378513+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KMEL-FM ZC Main",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kits",
+  "url": "https://live.amperwave.net/direct/audacy-kitsfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:30.017713+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Live 105",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kllc",
+  "url": "https://live.amperwave.net/direct/audacy-kllcfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:30.928809+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Alice @ 97.3",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krzz",
+  "url": "https://liveaudio.lamusica.com/SF_KRZZ_icy?aw_0_1st.playerId=lamusica.iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:32.506610+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "La Raza 93.3 (KRZZ)",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kcsm",
+  "url": "https://ice5.securenetsystems.net/KCSM",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:33.945336+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "KCSM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-knbr",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:47.138003+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 48,
+  "streamName": "KNBRAM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kfjc",
+  "url": "https://netcast.kfjc.org/kfjc-128k-mp3",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:32:09.454771+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "KFJC 128k MP3",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kpoo",
+  "url": "https://kpoo.streamguys1.com/xstream",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:07.282902+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "Instreamer",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kpfa",
+  "url": "https://streams.kpfa.org:8443/kpfa",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:35.217742+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 120,
+  "streamName": "KPFA AIR",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kiro-fm",
+  "url": "https://bonneville.cdnstream1.com/2643_48.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:36.168533+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 47,
+  "streamName": "Bonneville - KIROFM OOM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kiro-am",
+  "url": "https://bonneville.cdnstream1.com/2642_48.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:42.757133+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 47,
+  "streamName": "Bonneville - KIROAM OOM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kisw",
+  "url": "https://live.amperwave.net/direct/audacy-kiswfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:38.059768+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Seattle's Rock Station",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kndd",
+  "url": "https://live.amperwave.net/direct/audacy-knddfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:38.727510+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "107.7 The End",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kzok",
+  "url": "https://stream.revma.ihrhls.com/zc7787",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:38.394096+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "102.5 KZOK",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-king",
+  "url": "https://classicalking.streamguys1.com/king-fm-aac-128k",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:44.783197+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 256,
+  "streamName": "Classical KING FM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-knkx",
+  "url": "https://knkx-live-a.edge.audiocdn.com/6284_128k",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:41.934310+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "StreamTitle     : Gary Peacock Trio - Vignette",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kkwf",
+  "url": "https://live.amperwave.net/direct/audacy-kkwffmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:39.929243+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "100.7 The Wolf",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kink",
+  "url": "https://live.amperwave.net/direct/alphacorporate-kinkfmmp3-ibc4",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:43.185526+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "KINK - 101.9",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kxl",
+  "url": "https://live.amperwave.net/direct/alphacorporate-kxlfmaac-ibc4",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:40.983328+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 64,
+  "streamName": "FM News 101 KXL",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kqac",
+  "url": "https://allclassical.streamguys1.com/ac96k",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:44.241789+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 96,
+  "streamName": "ACP 96k aac",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kxjm",
+  "url": "https://stream.revma.ihrhls.com/zc4319",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:42.296713+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-knrk",
+  "url": "https://live.amperwave.net/direct/audacy-knrkfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:42.620901+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "94/7 FM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kgon",
+  "url": "https://live.amperwave.net/direct/audacy-kgonfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:43.861354+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "92.3 KGON",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kwjj",
+  "url": "https://live.amperwave.net/direct/audacy-kwjjfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:44.686450+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "99.5 The Wolf",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-klth",
+  "url": "https://stream.revma.ihrhls.com/zc4315",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:47.571261+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wbbm",
+  "url": "https://live.amperwave.net/direct/audacy-wbbmamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:48.303673+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "WBBM Newsradio 780 AM &amp; 105.9 FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wxrt",
+  "url": "https://prod-98-94-96-30.amperwave.net/audacy-wxrtfmaac-hlsc.m3u8?source=TuneIn&lat=41.8874&long=-87.6318",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:45.379690+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wgn",
+  "url": "https://prod-44-203-50-103.amperwave.net/wgnam-wgnamaac-imc2?session-id=86606f34b346849b7ac4b30105121df6",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:46.207955+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "WGN-AM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wvaz",
+  "url": "https://stream.revma.ihrhls.com/zc865",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:49.424538+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "WVAZ-FM ZC Backup",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wgci",
+  "url": "https://stream.revma.ihrhls.com/zc841",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:47.571614+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "WGCI-FM ZC Backup",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wusn",
+  "url": "https://live.amperwave.net/direct/audacy-wusnfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:49.736741+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "US 99",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wdrv",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRVFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:50.524058+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "97.1 FM The Drive",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wscr",
+  "url": "https://live.amperwave.net/direct/audacy-wscrfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:51.831889+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "1043 The Score",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wojo",
+  "url": "https://tu.streamguys1.com/wojofm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:53.301053+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wcxp",
+  "url": "https://peridot.streamguys1.com:5185/live",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:48.044694+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "CHIRP",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wbz",
+  "url": "https://stream.revma.ihrhls.com/zc7729",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:52.834464+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "WBZ-AM Backup",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wzlx",
+  "url": "https://stream.revma.ihrhls.com/zc7730",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:53.288202+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "100.7 WZLX",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wcrb",
+  "url": "https://wgbh-live.streamguys1.com/classical-hi",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:47.402122+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 258,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wxks",
+  "url": "https://stream.revma.ihrhls.com/zc1097",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:55.567216+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KISS 108",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-weei",
+  "url": "https://live.amperwave.net/direct/audacy-weeifmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:57.979497+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "WEEI 93.7",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wxrv",
+  "url": "https://nebcoradio.com:8443/WXRV",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:18:59.298959+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "92.5 The River",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wklb",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKLBFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:01.649467+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WKLBFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wers",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WERSFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:02.901219+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 48,
+  "streamName": "WERSFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wmbr",
+  "url": "https://wmbr.org:8002/hi",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:55.951134+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "WMBR Live Stream",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wzbc",
+  "url": "https://stream.wzbc.org/wzbc",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:32:10.295082+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "wzbcmp3",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wmmr",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMMRFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:05.584589+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "93.3 WMMR – Everything That Rocks",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wip",
+  "url": "https://live.amperwave.net/direct/audacy-wipfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:07.127441+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "SportsRadio 94WIP",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wdas",
+  "url": "https://stream.revma.ihrhls.com/zc1993",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:57.024320+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "105.3 WDAS FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wmgk",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:08.465273+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "102.9 MGK - Philadelphia's Classic Rock",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kyw",
+  "url": "https://live.amperwave.net/direct/audacy-kywamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:09.542447+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "KYW Newsradio",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wxtu",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXTUFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:10.576782+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WXTUFM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wusl",
+  "url": "https://stream.revma.ihrhls.com/zc2009",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:57.521461+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "Power 99",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wrti",
+  "url": "https://wrti-live.streamguys1.com/jazz-mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:58.046604+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "WRTI Jazz Stream",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wprb",
+  "url": "https://wprb.streamguys1.com/live",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:22:03.540639+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 96,
+  "streamName": "103.3 WPRB, Princeton",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wkdu",
+  "url": "https://streams.wkdu.org/listen.aac",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:49.541073+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "listen.aac",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wtop",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:08:59.960736+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WTOP News",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-whur",
+  "url": "https://futuri-das.cdnstream1.com/7167_48k.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:01.556489+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 96,
+  "streamName": "Duration: N/A, bitrate: 95 kb/s",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wwdc",
+  "url": "https://stream.revma.ihrhls.com/zc2525",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:02.147523+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "DC101",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wpgc",
+  "url": "https://live.amperwave.net/direct/audacy-wpgcfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:13.309086+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "WPGC 95.5",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wkys",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:14.790581+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WKYSFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wmzq",
+  "url": "https://stream.revma.ihrhls.com/zc2513/hls.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:02.582262+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wjfk",
+  "url": "https://live.amperwave.net/direct/audacy-wjfkfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:16.440028+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "106.7 The Fan",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wlzl",
+  "url": "https://live.amperwave.net/direct/audacy-wlzlfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:17.468619+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "El Zol 107.9",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kbpa",
+  "url": "https://waterloo.streamguys1.com/kbpa-fm_icy",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:18.986416+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 66,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-klbj-fm",
+  "url": "https://waterloo.streamguys1.com/klbj-fm_icy",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:20.717313+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 66,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-klbj-am",
+  "url": "https://waterloo.streamguys1.com/klbj-am_icy",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:22.274681+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 66,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kase",
+  "url": "https://stream.revma.ihrhls.com/zc2165",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:23.782483+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KASE 101",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kmfa",
+  "url": "https://kmfa.streamguys1.com/KMFA-mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:04.481684+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "KMFA 89.5",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krox",
+  "url": "https://ice6.securenetsystems.net/KROX?playSessionID=CC703E5A-1F4F-4E47-A153D5105D1A4585",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:05.632658+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 32,
+  "streamName": "Streaming by Securenet Systems Cirrus(R)",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-khfi",
+  "url": "https://stream.revma.ihrhls.com/zc2173",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:07.243250+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-koop",
+  "url": "https://streaming.koop.org/stream.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:07.630526+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "KOOPRadio - 91.7 FM - Austin, TX",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kazi",
+  "url": "https://ice8.securenetsystems.net/KAZI",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:32:10.775260+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 32,
+  "streamName": "KAZI",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wyld",
+  "url": "https://stream.revma.ihrhls.com/zc1053",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:08.915401+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "98.5 WYLD - New Orleans",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wque",
+  "url": "https://stream.revma.ihrhls.com/zc1037",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:09.367421+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "Q93 - New Orleans",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wwl",
+  "url": "https://live.amperwave.net/direct/audacy-wwlamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:25.152452+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "WWL",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wrno",
+  "url": "https://stream.revma.ihrhls.com/zc1033",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:09.726193+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "News Talk 99.5 WRNO",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wezb",
+  "url": "https://live.amperwave.net/direct/audacy-wezbfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:26.099811+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "B97",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wnoe",
+  "url": "https://stream.revma.ihrhls.com/zc1045",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:10.372511+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wkbu",
+  "url": "https://live.amperwave.net/direct/audacy-wkbufmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:27.140702+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Bayou 95.7",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wtul",
+  "url": "https://stream.wtulneworleans.com/",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:28.464866+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 160,
+  "streamName": "WTUL New Orleans",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kfxn",
+  "url": "https://stream.revma.ihrhls.com/zc1209",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:10.829372+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KFXN-FM ZC Backup",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kqql",
+  "url": "https://stream.revma.ihrhls.com/zc1217/hls.m3u8?streamid=1217&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9393373802&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=a8e941c281de9ef4f1d4b557dcd9e13f&playedFrom=157&pname=live_profile&profileId=9393373802&stationid=1217&terminalId=159&territory=US",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:11.150732+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kdwb",
+  "url": "https://stream.revma.ihrhls.com/zc1201",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:31.745231+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "101.3 KDWB",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kstp",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:32.342807+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "KS95",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-keey",
+  "url": "https://stream.revma.ihrhls.com/zc1205",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:33.700411+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KEEY-FM ZC Backup",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-ksjn",
+  "url": "https://cms.stream.publicradio.org/cms.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:24:51.662386+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 127,
+  "streamName": "Classical Minnesota Public Radio",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wcco",
+  "url": "https://live.amperwave.net/direct/audacy-wccoamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:34.047758+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "830 WCCO",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kfai",
+  "url": "https://kfai.broadcasttool.stream/kfai-1",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:35.612072+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 192,
+  "streamName": "no name",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kmoj",
+  "url": "https://kmojfm.streamguys1.com/live",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:22:03.861636+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "The Peoples Station",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wamr",
+  "url": "https://tu.streamguys1.com/wamrfm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:38.948576+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 63,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wmia",
+  "url": "https://stream.revma.ihrhls.com/zc4243",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:41.525919+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-whqt",
+  "url": "https://cmg.streamguys1.com/mia1051/mia1051-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:41.851493+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wcmq",
+  "url": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:14.446334+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 320,
+  "streamName": "Zeta 92.3 (WCMQ)",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wxdj",
+  "url": "https://liveaudio.lamusica.com/MIA_WXDJ/playlist.m3u8?aw_0_1st.playerId=lamusica.iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:46.839452+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wedr",
+  "url": "https://cmg.streamguys1.com/mia991/mia991-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:50.558624+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-whyi",
+  "url": "https://stream.revma.ihrhls.com/zc561",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:19:55.235912+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "Y100",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wkis",
+  "url": "https://live.amperwave.net/direct/audacy-wkisfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:49.008186+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "KISS Country 99.9",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wbgg",
+  "url": "https://stream.revma.ihrhls.com/zc557",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:17.209803+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wabe",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1_SC.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:50.729737+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WABE-FM-HD1",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wsb",
+  "url": "https://cmg.streamguys1.com/atl750/atl750-encoder.aac/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:52.210049+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wvee",
+  "url": "https://live.amperwave.net/direct/audacy-wveefmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:02.223529+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "V-103",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wamj",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:03.085622+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WAMJFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wsrv",
+  "url": "https://cmg.streamguys1.com/atl971/atl971-encoder.aac/playlist.m3u8?aw_0_1st.playerId=cmg_iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:04.562928+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wzgc",
+  "url": "https://live.amperwave.net/direct/audacy-wzgcfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:09.510928+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "92-9 The Game",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wubl",
+  "url": "https://stream.revma.ihrhls.com/zc2829",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:30:57.846329+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "icy-url         :",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-whta",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:12.809573+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WHTAFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wclk",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:15.110923+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "WCLK-FM JAZZ",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wras",
+  "url": "https://gpb.streamguys1.com/gpb-atlanta-aac-website",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:22.643339+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 256,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wrek",
+  "url": "https://streaming.wrek.org/main/320kb.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:49.996306+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 320,
+  "streamName": "WREK Atlanta 91.1",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wrfg",
+  "url": "https://s2.radio.co/s2133c4bad/listen",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:52.688994+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 192,
+  "streamName": "WRFG 89.3 FM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kera",
+  "url": "https://kera-ice.streamguys1.com:8443/kera32-iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:21.986074+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "KERA - NPR News and Information for North Texas and the world",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kkxt",
+  "url": "https://kera-ice.streamguys1.com/kxtlive64aacplus",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:23.357080+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "KXT 91.7",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wrr",
+  "url": "https://kera.streamguys1.com/wrrlive-aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:24.263075+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krld-am",
+  "url": "https://live.amperwave.net/direct/audacy-krldamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:24.541447+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "NewsRadio 1080 KRLD",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krld-fm",
+  "url": "https://live.amperwave.net/direct/audacy-krldfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:26.827785+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "105.3 The Fan",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-khks",
+  "url": "https://stream.revma.ihrhls.com/zc2245",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:25.478905+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "106.1 KISS FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kkda",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKDAFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:28.375929+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "KKDAFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kmvk",
+  "url": "https://live.amperwave.net/direct/audacy-kmvkfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:30.109772+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "La Grande 107.5 FM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kzps",
+  "url": "https://stream.revma.ihrhls.com/zc3379",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:25.847772+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "Lone Star 92.5",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kntu",
+  "url": "https://ice41.securenetsystems.net/KNTU",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:26.245592+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 96,
+  "streamName": "KNTU",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-knon",
+  "url": "https://knon.streamguys1.com/live",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:53.748302+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 80,
+  "streamName": "KNON 89.3FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kuhf",
+  "url": "https://stream.houstonpublicmedia.org/news-mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:27.865068+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "Houston Public Media News",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-ktsu",
+  "url": "https://ice6.securenetsystems.net/KTSUFM",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:14:43.471069+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 64,
+  "streamName": "Streaming by Securenet Systems Cirrus(R)",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-koda",
+  "url": "https://stream.revma.ihrhls.com/zc2273",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:29.158575+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "SUNNY 99.1 Houston",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kglk",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KGLKFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:34.352632+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "KGLKFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-ktbz",
+  "url": "https://stream.revma.ihrhls.com/zc2281",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:35.524585+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "94.5 The Buzz",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kmjq",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJQFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:35.823090+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "KMJQFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kkbq",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKBQFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:38.275655+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "KKBQFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-ktrh",
+  "url": "https://stream.revma.ihrhls.com/zc2285/hls.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:29.468283+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kbxx",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBXXFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:40.500630+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "KBXXFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kove",
+  "url": "https://tu.streamguys1.com/kovefm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:42.181458+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krbe",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:32:12.361713+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 48,
+  "streamName": "104.1 KRBE",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kcfr",
+  "url": "https://stream1.cprnetwork.org/cpr1_lo",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:45.792048+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "CPR News",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kvod",
+  "url": "https://stream1.cprnetwork.org/cpr2_lo",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:14:44.959718+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "CPR Classical",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kuvo",
+  "url": "https://kuvo.streamguys1.com/kuvo-aac-128",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:30.344296+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 129,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kbco",
+  "url": "https://stream.revma.ihrhls.com/zc2804",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:47.084854+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "97.3 KBCO",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-ktcl",
+  "url": "https://stream.revma.ihrhls.com/zc397",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:31.511570+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "93.3 KTCL",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kygo",
+  "url": "https://bonneville.cdnstream1.com/2710_48.aac?aw_0_1st.playerid=IHM",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:47.452015+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 64,
+  "streamName": "Bonneville - KYGOFM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-koa",
+  "url": "https://stream.revma.ihrhls.com/zc389",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:49.358332+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "KOA-AM ZC Main",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kqks",
+  "url": "https://live.amperwave.net/direct/audacy-kqksfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:50.101044+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "KS107.5",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-krfx",
+  "url": "https://stream.revma.ihrhls.com/zc393",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:51.000621+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "103.5 The Fox",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kvoq",
+  "url": "https://stream2.cprnetwork.org:8443/cpr3_aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:51.367852+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 48,
+  "streamName": "CPR - Indie1023",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wdet",
+  "url": "https://wdet.cdnstream1.com/4550_256.aac?esPlayer&cb=893951.m4a",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:34.938475+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 128,
+  "streamName": "StreamTitle     :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wuom",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:35.316673+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WUOM-FM_WFUM_WVGR",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wrcj",
+  "url": "https://wrcj.streamguys1.com/live.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:37.031185+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "WRCJ-AAC",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wwj",
+  "url": "https://live.amperwave.net/direct/audacy-wwjamaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:54.372255+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "WWJ Newsradio 950",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wxyt",
+  "url": "https://live.amperwave.net/direct/audacy-wxytfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:55.784557+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 64,
+  "streamName": "97.1 The Ticket",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wrif",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:56.834747+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "WRIFFM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wjlb",
+  "url": "https://stream.revma.ihrhls.com/zc1141",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:37.527834+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "97.9 WJLB",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wmxd",
+  "url": "https://stream.revma.ihrhls.com/zc1149",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:38.175034+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "Mix 92.3",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wycd",
+  "url": "https://live.amperwave.net/direct/audacy-wycdfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:20:58.941461+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "99.5 WYCD",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wcsx",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:00.234860+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WCSXFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wpln",
+  "url": "https://wpln.streamguys1.com/wplnfm.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:38.947248+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WPLN-FM",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wnxp",
+  "url": "https://wpln.streamguys1.com/wnxpfm.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:40.330438+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WNXP",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wmot",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:02.928028+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WMOT-FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wrlt",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRLTFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:41.534816+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 96,
+  "streamName": "WRLTFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wsm",
+  "url": "https://ais-sa8.cdnstream1.com/3666_96.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:04.162704+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 96,
+  "streamName": "StreamTitle     : Mindy McCready - Guys Do It All the Time",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-wsix",
+  "url": "https://stream.revma.ihrhls.com/zc2157",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:04.651954+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "The BIG 98",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wjxa",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXAFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:05.027073+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WJXAFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wnrq",
+  "url": "https://stream.revma.ihrhls.com/zc2780",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:06.276849+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "105.9 The Rock",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wubt",
+  "url": "https://stream.revma.ihrhls.com/zc2153",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:06.582844+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "101.1 The Beat",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wcjk",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCJKFM.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:06.960471+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 64,
+  "streamName": "WCJKFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-wxna",
+  "url": "https://wxna.broadcasttool.stream/play",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:13.173634+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "wxna",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kpbs",
+  "url": "https://kpbs.streamguys1.com/kpbs-mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:43.289797+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "KPBS Radio",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-ksds",
+  "url": "https://ksds-ice.streamguys1.com/ksds.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:44.448234+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": null,
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kxsn",
+  "url": "https://live.amperwave.net/direct/audacy-kxsnfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:08.297445+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Sunny 98.1",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kwfn",
+  "url": "https://live.amperwave.net/direct/audacy-kwfnfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:09.621891+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "97.3 The Fan",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kson",
+  "url": "https://live.amperwave.net/direct/audacy-ksonfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:10.799250+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "103.7 KSON",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-xetra",
+  "url": "https://stream.kxul.com/listen.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:12.244967+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "91X KXUL",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kioz",
+  "url": "https://stream.revma.ihrhls.com/zc245",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:44.753073+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "ROCK 105.3",
+  "titlesObserved": false
+ },
+ {
+  "id": "us-kyxy",
+  "url": "https://live.amperwave.net/direct/audacy-kyxyfmaac-imc",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:12.944695+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "KyXy 96.5",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-klnv",
+  "url": "https://tu.streamguys1.com/klnvfm-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed&aw_0_1st.playerId=iheart",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:14.149597+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "icy-url         :",
+  "titlesObserved": true
+ },
+ {
+  "id": "us-kogo",
+  "url": "https://ample.revma.ihrhls.com/zc257",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:45.135989+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": null,
+  "streamName": "AM 600",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbla",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:15:23.953416+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbl",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:15:18.388517+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-chfi",
+  "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:45.975181+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cftr",
+  "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:56.727142+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cfrb",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:15:16.925476+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 56,
+  "streamName": "EN_Newstalk 1010 Toronto - CFRBAM",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-ckis",
+  "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:09:59.631568+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cjrt",
+  "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:10:02.681527+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "icy-genre       : various",
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-cilq",
+  "url": "https://live.amperwave.net/direct/townsquare-ktbqfmaac-ibc3.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:21.899517+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": 64,
+  "streamName": "Classic Rock Q107",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-ciut",
+  "url": "https://ice23.securenetsystems.net/CIUT",
+  "ok": true,
+  "checkedAt": "2026-10-19T01:23:53.953214+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 32,
+  "streamName": "Streaming by Securenet Systems Cirrus(R)",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cfmz",
+  "url": "https://live.amperwave.net/direct/mzmedia-cfmzfmaac-ibc2.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:17:39.377431+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": 128,
+  "streamName": "Classical FM",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbf",
+  "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:14:54.994979+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbfx",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC.mp3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:17:33.091331+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "CBFXFM",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbme",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:14:58.221559+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cjad",
+  "url": "https://18853.live.streamtheworld.com/CJADAM_SC",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:10:07.609808+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 48,
+  "streamName": "EN_CJAD 800 AM Montreal - CJADAM",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cibl",
+  "url": "https://stream2.statsradio.com/8106/stream",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:21:25.992435+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "no name",
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-ckut",
+  "url": "https://delray.ckut.ca:8001/ckut-live-128",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:10:11.210937+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "903fm-128-stereo",
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-cbm",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:15:18.388517+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cjpx",
+  "url": "https://stream-cjpx-rr01.leclerccom.com/cjpx.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T20:47:02.881838+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 96,
+  "streamName": "CJPX-FM - AAC 96 kbps",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-ckvl",
+  "url": "https://stream.statsradio.com:8072/stream",
+  "ok": true,
+  "checkedAt": "2026-10-18T20:47:03.980258+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "no name",
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-cbu-am",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:23:37.460860+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbu-fm",
+  "url": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:23:43.301409+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cknw",
+  "url": "https://corus.leanstream.co/CKNWAM-MP3",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:14:53.412081+00:00",
+  "codec": "mp3 (mp3float)",
+  "bitrateKbps": 128,
+  "streamName": "icy-genre       : various",
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-cjax",
+  "url": "https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:10:13.310556+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-ckpk",
+  "url": "https://stream.jpbgdigital.com/CKPK/HEAAC/48k/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:15:07.727437+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-citr",
+  "url": "https://live.citr.ca/live.aac",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:10:17.359269+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": true
+ },
+ {
+  "id": "ca-cjjr",
+  "url": "https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:23:02.826371+00:00",
+  "codec": "aac (HE-AAC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-ckye",
+  "url": "https://ice24.securenetsystems.net/CKYE",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:23:08.596615+00:00",
+  "codec": "aac (HE-AACv2)",
+  "bitrateKbps": 32,
+  "streamName": "CKYE",
+  "titlesObserved": false
+ },
+ {
+  "id": "ca-cbuf",
+  "url": "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8",
+  "ok": true,
+  "checkedAt": "2026-10-18T19:23:09.679460+00:00",
+  "codec": "aac (LC)",
+  "bitrateKbps": null,
+  "streamName": null,
+  "titlesObserved": false
+ }
+]

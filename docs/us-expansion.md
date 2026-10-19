@@ -33,4 +33,4 @@ Seventeen additions have inspected broadcaster artwork bundled locally. Seven us
 
 ## Verification
 
-The signed build and installation succeeded. All 26 targeted tests passed, including native playback of every new feed. US city search, local next/previous tuning, favorites, restored selections, the original New York-area group and its saved band keys were verified. Settings already includes System, Light and Dark appearance choices; the existing choices and dark-state persistence were verified against the updated player, station details and expanded catalogue. See the test summary and verification record.
+The signed build and installation succeeded. All 26 targeted tests passed, including native playback of every new feed. US city search, local next/previous tuning, favorites, restored selections, the original New York-area group and its saved band keys were verified. Settings already includes System, Light and Dark appearance choices; the existing choices and dark-state persistence were verified against the updated player, station details and expanded catalogue. See the verification record.

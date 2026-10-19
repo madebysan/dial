@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1 (34), October 18, 2026
+
+- 210 more stations in North America, for 459 stations in 13 countries. Every US city outside New York now has at least ten; Atlanta, Dallas–Fort Worth, Houston, Denver, Detroit, Nashville and San Diego get their first dials; and Canada joins with Toronto, Montreal and Vancouver. The picks come from the latest Nielsen and Numeris ratings, a few local favourites, and the stations each city's Reddit radio threads name most. See [North America expansion](docs/na-expansion.md).
+- New FM dials for Paris, Madrid, Milan and Santiago, using stations Dial already had, so favorites still work. See [city dials](docs/city-dials.md).
+- All Locations opens with the most-listened stations instead of dial order. A city or Favorites keeps dial order. See [All Locations ranking](docs/all-locations-ranking.md).
+- Favorites sync between iPhone and Mac through your own iCloud account. Without iCloud they stay on the device.
+- Now Playing on the Lock Screen and in Control Center shows the station's artwork.
+- Building for iPhone with a free Apple account now means removing iCloud under Signing & Capabilities; see [Install](README.md#install).
+
 ## 1.0 (33), October 17, 2026
 
 First public release.

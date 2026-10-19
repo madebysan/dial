@@ -20,16 +20,12 @@ final class CatalogUITests: XCTestCase {
                 if id == ids.first { capture(app, "\(region) catalogue grid") }
                 XCTAssertFalse(app.buttons["info-\(id)"].exists)
                 XCTAssertFalse(app.buttons["save-\(id)"].exists)
-                app.buttons["station-\(id)"].tap()
+                app.chooseStation(id)
                 let status = app.buttons["play-pause"]
                 expectation(for: NSPredicate(format: "value == %@", "playing"), evaluatedWith: status)
                 waitForExpectations(timeout: 30)
-                if region == "spain" {
-                    XCTAssertFalse(app.otherElements["tuning-dial"].exists)
-                    XCTAssertTrue(app.buttons["open-station-artwork"].exists)
-                } else {
-                    XCTAssertTrue(app.otherElements["tuning-dial"].exists)
-                }
+                // Both groups are on a local FM dial: Buenos Aires and, since Oct 18, 2026, Madrid.
+                XCTAssertTrue(app.otherElements["tuning-dial"].exists)
                 if id == "es-los40" || id == "ar-metro" { capture(app, "\(id) playing") }
             }
         }

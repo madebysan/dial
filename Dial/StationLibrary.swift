@@ -38,13 +38,20 @@ struct StationLibrary: View {
 
     private var filtered: [Station] {
         let source = favoritesOnly ? radio.library.favorites : radio.library.stations
-        return source.filter { station in
+        let matches = source.filter { station in
             (favoritesOnly || ((selectedCountry == nil || station.region == selectedCountry)
                 && (selectedLocation == nil || Self.locationID(station) == selectedLocation)))
                 && (search.isEmpty
                     || "\(station.name) \(station.detail) \(station.city) \(station.region.country) \(station.frequencyText) \(station.band.displayName)"
                         .localizedCaseInsensitiveContains(search))
         }
+        // All Locations leads with the most-listened stations; a city or favorites keeps dial order.
+        guard !favoritesOnly, selectedCountry == nil, selectedLocation == nil else { return matches }
+        let rank = Station.allLocationsRank
+        return matches.enumerated().sorted { lhs, rhs in
+            let left = rank[lhs.element.id] ?? Int.max, right = rank[rhs.element.id] ?? Int.max
+            return left != right ? left < right : lhs.offset < rhs.offset
+        }.map(\.element)
     }
 
     var body: some View {

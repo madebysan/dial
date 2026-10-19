@@ -1,3 +1,4 @@
+import CoreLocation
 import XCTest
 
 final class ListeningFeaturesUITests: XCTestCase {
@@ -39,6 +40,8 @@ final class ListeningFeaturesUITests: XCTestCase {
     }
 
     func testApproximateLocationChoosesCountry() {
+        // Simulate New York so the test doesn't depend on the simulator's own location setting.
+        XCUIDevice.shared.location = XCUILocation(location: CLLocation(latitude: 40.7128, longitude: -74.0060))
         let app = launch(["--initial-country=UY"])
         app.openAllStations()
         app.buttons["city-filter"].tap()

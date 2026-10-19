@@ -86,7 +86,11 @@ final class USExpansionUITests: XCTestCase {
         app.buttons["next-station"].tap()
         XCTAssertEqual(app.buttons["open-station-info"].label, "KUOW")
         XCTAssertTrue(app.buttons["open-stations"].label.contains("Seattle"))
+        // Seattle's FM dial continues past KUOW since the North America batch.
         app.buttons["next-station"].tap()
+        XCTAssertEqual(app.buttons["open-station-info"].label, "KIRO Newsradio 97.3")
+        app.buttons["previous-station"].tap()
+        app.buttons["previous-station"].tap()
         XCTAssertEqual(app.buttons["open-station-info"].label, "KEXP")
         app.toggleCurrentFavorite()
         app.openAllStations()

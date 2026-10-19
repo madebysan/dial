@@ -7,8 +7,10 @@ final class Library {
     private(set) var selected: Station
     private(set) var favoriteIDs: Set<String>
     @ObservationIgnored private let defaults: UserDefaults
+    @ObservationIgnored private let cloud: FavoritesCloudStore?
 
-    init(stations: [Station] = Station.sample, defaults: UserDefaults = .standard, initialCountryCode: String? = "US") {
+    init(stations: [Station] = Station.sample, defaults: UserDefaults = .standard, initialCountryCode: String? = "US",
+         cloud: FavoritesCloudStore? = nil) {
         precondition(!stations.isEmpty)
         self.stations = stations.sorted {
             let first = $0.frequency ?? .infinity
@@ -17,6 +19,7 @@ final class Library {
             return $0.name.localizedStandardCompare($1.name) == .orderedAscending
         }
         self.defaults = defaults
+        self.cloud = cloud
         let saved = defaults.string(forKey: "lastStation")
         let restored = stations.first { $0.id == saved }
         let region = initialCountryCode.flatMap(RadioRegion.init(countryCode:))
@@ -27,6 +30,38 @@ final class Library {
             .intersection(stations.map(\.id))
         // The dial always has a location: an unsupported region starts in New York.
         defaults.set(selected.id, forKey: "lastStation")
+        cloud?.onExternalChange = { [weak self] change in self?.applyCloudFavorites(merging: change == .joined) }
+        applyCloudFavorites(merging: false)
+    }
+
+    /// Merging keeps both sides' favorites (until this device has seen iCloud's list once, or after an
+    /// account change); otherwise iCloud's list wins, so a removal on one device removes it everywhere.
+    private func applyCloudFavorites(merging requested: Bool) {
+        guard let cloud else { return }
+        let merging = requested || !defaults.bool(forKey: "favoritesJoinedCloud")
+        guard let remote = cloud.favoriteIDs() else {
+            // Nothing downloaded yet. Offer this device's favorites; iCloud reports its own list as a join.
+            if !favoriteIDs.isEmpty { pushFavorites() }
+            return
+        }
+        let known = Set(remote).intersection(stations.map(\.id))
+        let merged = merging ? favoriteIDs.union(known) : known
+        if merged != favoriteIDs {
+            favoriteIDs = merged
+            defaults.set(favoriteIDs.sorted(), forKey: "favorites")
+        }
+        if merging {
+            defaults.set(true, forKey: "favoritesJoinedCloud")
+            pushFavorites()
+        }
+    }
+
+    private func pushFavorites() {
+        guard let cloud else { return }
+        // Keep favorites this catalogue doesn't know, such as stations added in a newer version on another device.
+        let unknown = Set(cloud.favoriteIDs() ?? []).subtracting(stations.map(\.id))
+        let ids = favoriteIDs.union(unknown).sorted()
+        if cloud.favoriteIDs() != ids { cloud.setFavoriteIDs(ids) }
     }
 
     var favorites: [Station] { stations.filter { favoriteIDs.contains($0.id) } }
@@ -102,6 +137,7 @@ final class Library {
     func toggleFavorite(_ station: Station) {
         if !favoriteIDs.insert(station.id).inserted { favoriteIDs.remove(station.id) }
         defaults.set(favoriteIDs.sorted(), forKey: "favorites")
+        pushFavorites()
     }
 
     func adjacent(_ direction: Int) -> Station {

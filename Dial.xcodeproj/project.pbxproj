@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		054CD5F66A76851F6D420F0E /* all-locations-order.json in Resources */ = {isa = PBXBuildFile; fileRef = E8FA7F8A2BBC9DB01CFBC848 /* all-locations-order.json */; };
 		07EFB0AC22EC0F7D1B14E83A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13646A38C72F0C6C77709DB2 /* Assets.xcassets */; };
 		0AB6ACD4EF01C6AA5AB5738B /* CountryStartupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */; };
 		0BA11C77A7158FB632E36A4F /* USTuningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CBACCFF9DCB75DAB59E9DA /* USTuningTests.swift */; };
@@ -19,6 +20,7 @@
 		2481369FE1D6CDB377644C0F /* TuningNoise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A5B4C111E6D6CC2FF88156 /* TuningNoise.swift */; };
 		3906D20D308A5BF2355E3481 /* DialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A550E45261F88A859DC0A9EC /* DialUITests.swift */; };
 		3D3AAAF6C8BF04B21F27C1DA /* SettingsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF673B80844F887FE49DD4F8 /* SettingsUITests.swift */; };
+		40B51C0E867EB6A90655D300 /* FavoritesSyncTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746FE1D1367F4ABFF5086E64 /* FavoritesSyncTests.swift */; };
 		41E246F36253853CDDF6D7C6 /* RadioSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D93C5116FCD57B017EF6F32 /* RadioSettings.swift */; };
 		46326546EA746C4A304F01BB /* StationSheetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E6BAA1CBE3AB8D6B05AC23 /* StationSheetUITests.swift */; };
 		49ED063970A47E58C20F9662 /* SavedItemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031FB44B2266F8B22D688007 /* SavedItemsTests.swift */; };
@@ -27,6 +29,7 @@
 		5D779A2FBF2128AB239A0F9A /* AlarmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735C27FBDFAC6FF2B383016 /* AlarmTests.swift */; };
 		602F314AF1503F47FBE14D9D /* DialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6BD3CDBD55674A15C4E90C /* DialApp.swift */; };
 		6EC759C058224726100EBF21 /* tuning-static.wav in Resources */ = {isa = PBXBuildFile; fileRef = D1A45EEFA29C0EF989E7DC14 /* tuning-static.wav */; };
+		721E0A9AA6FB74E4E86EEBC1 /* FavoritesSync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5841B506990E68328FEDBB98 /* FavoritesSync.swift */; };
 		744061D436CE37560A03BFDF /* StreamMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81178E51A95D84C5A81CEC51 /* StreamMetadata.swift */; };
 		7450D9ACE4CF6F1141EB5667 /* DeclutterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC93B30BFE529FD874FDF3B1 /* DeclutterUITests.swift */; };
 		78B7B4235D4F7E06AC514692 /* CountryLocationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E40E132976C89D97CDE49D /* CountryLocationTests.swift */; };
@@ -45,12 +48,15 @@
 		9C142A5A1247156C63EE0DC6 /* SavedItemsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544FB06355D4D2A02B567D1B /* SavedItemsViews.swift */; };
 		A1C41C97081B784812D8A348 /* GapFillUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E185FE192F8965EF100247A0 /* GapFillUITests.swift */; };
 		A571B04B28BE6D50B9B18754 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 74694A4056DEB4B3AA746544 /* PrivacyInfo.xcprivacy */; };
+		AA09A416A5362E41B2338DB7 /* AllLocationsOrderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9046A9C374F899D82D2C0BEC /* AllLocationsOrderTests.swift */; };
+		AAAD96544CA5F3AEB4E7B70C /* CarPlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3020976C157D6F3958CD7E /* CarPlay.swift */; };
 		B1D208D3358751CD1A27ACE2 /* TuningDial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 713F830665EAE0ABC19AB634 /* TuningDial.swift */; };
 		B3224350B55F52ECA7E52196 /* ListeningSettingsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E726162724FD79D2B0DD8A2 /* ListeningSettingsViews.swift */; };
 		B6DE8114B32E1D67E10BB7ED /* RadioIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6635A08A94E0424B448B3C /* RadioIntents.swift */; };
 		B966037C7C0FEDA38F077CBA /* DialMotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2DD6885C1DCEB806B6EB9AB /* DialMotion.swift */; };
 		BA66732CBF6C05D6F5CD7B19 /* RadioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF1B8AF0F2774BB860408530 /* RadioView.swift */; };
 		BBBD7DF7D7F92310A955D478 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645809281AAA1AD18EB81B46 /* Preferences.swift */; };
+		C2C43130F760B1601DAA1B3A /* ArtworkImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831520CE1DEED3DFE322DDA5 /* ArtworkImages.swift */; };
 		C6300E81C659BB8F25638FF1 /* stations.json in Resources */ = {isa = PBXBuildFile; fileRef = 2DF3653AE49DEC6664326E55 /* stations.json */; };
 		C668402DA109225563087AD9 /* LiveCatalogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F6B611540BCE89FAE7C3F0 /* LiveCatalogTests.swift */; };
 		CFE798133E4F52F1C6C8C9B0 /* CatalogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A00B5D067E4CCF434D77A23 /* CatalogUITests.swift */; };
@@ -107,7 +113,9 @@
 		43D83A633108D51FACD381B6 /* CatalogTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogTests.swift; sourceTree = "<group>"; };
 		544FB06355D4D2A02B567D1B /* SavedItemsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedItemsViews.swift; sourceTree = "<group>"; };
 		56FDB32FE4F2A37FD8C3B674 /* NewFeaturesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFeaturesTests.swift; sourceTree = "<group>"; };
+		5841B506990E68328FEDBB98 /* FavoritesSync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesSync.swift; sourceTree = "<group>"; };
 		5C4A1E68539EE1805A66887A /* RadioCommandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioCommandTests.swift; sourceTree = "<group>"; };
+		5DB95CE2E7AD37E6C0696B20 /* Dial-iOS-Simulator.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Dial-iOS-Simulator.entitlements"; sourceTree = "<group>"; };
 		5F22912B3352B5D81B55A813 /* StationAlarms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationAlarms.swift; sourceTree = "<group>"; };
 		6001483C67E4763BE9884BBE /* SavedItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedItems.swift; sourceTree = "<group>"; };
 		64413320FACB17A3579308D2 /* Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Station.swift; sourceTree = "<group>"; };
@@ -117,14 +125,18 @@
 		6E726162724FD79D2B0DD8A2 /* ListeningSettingsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningSettingsViews.swift; sourceTree = "<group>"; };
 		713F830665EAE0ABC19AB634 /* TuningDial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningDial.swift; sourceTree = "<group>"; };
 		74694A4056DEB4B3AA746544 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		746FE1D1367F4ABFF5086E64 /* FavoritesSyncTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesSyncTests.swift; sourceTree = "<group>"; };
 		787E43FB36D31A3FDE2FF6D2 /* StoreScreenshots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreScreenshots.swift; sourceTree = "<group>"; };
 		7B4FA908EA3C855C5A62E48D /* StationLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationLibrary.swift; sourceTree = "<group>"; };
+		7F3020976C157D6F3958CD7E /* CarPlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarPlay.swift; sourceTree = "<group>"; };
 		801349462B6DCEA9BFE56D6F /* StationAlarmsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationAlarmsViews.swift; sourceTree = "<group>"; };
 		81178E51A95D84C5A81CEC51 /* StreamMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamMetadata.swift; sourceTree = "<group>"; };
+		831520CE1DEED3DFE322DDA5 /* ArtworkImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkImages.swift; sourceTree = "<group>"; };
 		8495CD372F381FF5302EAA56 /* TuningLocationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningLocationUITests.swift; sourceTree = "<group>"; };
 		8C6BD3CDBD55674A15C4E90C /* DialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialApp.swift; sourceTree = "<group>"; };
 		8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryStartupTests.swift; sourceTree = "<group>"; };
 		8FE29BA0DDE0C7CA38652422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9046A9C374F899D82D2C0BEC /* AllLocationsOrderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllLocationsOrderTests.swift; sourceTree = "<group>"; };
 		A550E45261F88A859DC0A9EC /* DialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialUITests.swift; sourceTree = "<group>"; };
 		A65DDA68D06DB5B9110A9CF5 /* StationProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationProfile.swift; sourceTree = "<group>"; };
 		AAE914364C1B5586B42015AC /* Platform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Platform.swift; sourceTree = "<group>"; };
@@ -144,7 +156,9 @@
 		E7087031FF46EF1CAAAC2D70 /* UKExpansionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UKExpansionUITests.swift; sourceTree = "<group>"; };
 		E84FED1A499787C2B57A2FB2 /* ListeningBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeningBehavior.swift; sourceTree = "<group>"; };
 		E8715566B075BA71FEB86FC6 /* StationInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationInfo.swift; sourceTree = "<group>"; };
+		E8FA7F8A2BBC9DB01CFBC848 /* all-locations-order.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "all-locations-order.json"; sourceTree = "<group>"; };
 		E93C132C2C10916B73AB1F15 /* RadioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioPlayer.swift; sourceTree = "<group>"; };
+		F2AAC8AAA6D4B257B34BA670 /* Dial-iOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Dial-iOS.entitlements"; sourceTree = "<group>"; };
 		FD90E4786C06CA0AB3A90F22 /* TuningLocationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuningLocationTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -161,9 +175,11 @@
 			isa = PBXGroup;
 			children = (
 				C735C27FBDFAC6FF2B383016 /* AlarmTests.swift */,
+				9046A9C374F899D82D2C0BEC /* AllLocationsOrderTests.swift */,
 				43D83A633108D51FACD381B6 /* CatalogTests.swift */,
 				00E40E132976C89D97CDE49D /* CountryLocationTests.swift */,
 				8DF217D29E3EF2502D65D495 /* CountryStartupTests.swift */,
+				746FE1D1367F4ABFF5086E64 /* FavoritesSyncTests.swift */,
 				0A830E3701E2979F727348AE /* LibraryTests.swift */,
 				22C2F7F9CB1BF4766981D681 /* ListeningBehaviorTests.swift */,
 				06F6B611540BCE89FAE7C3F0 /* LiveCatalogTests.swift */,
@@ -212,11 +228,17 @@
 		D442BB05BEF2152A6E35CCE9 /* Dial */ = {
 			isa = PBXGroup;
 			children = (
+				E8FA7F8A2BBC9DB01CFBC848 /* all-locations-order.json */,
+				831520CE1DEED3DFE322DDA5 /* ArtworkImages.swift */,
 				13646A38C72F0C6C77709DB2 /* Assets.xcassets */,
+				7F3020976C157D6F3958CD7E /* CarPlay.swift */,
 				1ADD35450F4DAFB1C1A28770 /* CountryLocation.swift */,
+				5DB95CE2E7AD37E6C0696B20 /* Dial-iOS-Simulator.entitlements */,
+				F2AAC8AAA6D4B257B34BA670 /* Dial-iOS.entitlements */,
 				BA8733CABD05C7F8E011906D /* Dial-macOS.entitlements */,
 				8C6BD3CDBD55674A15C4E90C /* DialApp.swift */,
 				D2DD6885C1DCEB806B6EB9AB /* DialMotion.swift */,
+				5841B506990E68328FEDBB98 /* FavoritesSync.swift */,
 				8FE29BA0DDE0C7CA38652422 /* Info.plist */,
 				DB1EF52B95671789215A339B /* Library.swift */,
 				E84FED1A499787C2B57A2FB2 /* ListeningBehavior.swift */,
@@ -366,6 +388,7 @@
 			files = (
 				07EFB0AC22EC0F7D1B14E83A /* Assets.xcassets in Resources */,
 				A571B04B28BE6D50B9B18754 /* PrivacyInfo.xcprivacy in Resources */,
+				054CD5F66A76851F6D420F0E /* all-locations-order.json in Resources */,
 				E135B46FD5FD464DF467CE54 /* station-profiles.json in Resources */,
 				C6300E81C659BB8F25638FF1 /* stations.json in Resources */,
 				6EC759C058224726100EBF21 /* tuning-static.wav in Resources */,
@@ -379,9 +402,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2C43130F760B1601DAA1B3A /* ArtworkImages.swift in Sources */,
+				AAAD96544CA5F3AEB4E7B70C /* CarPlay.swift in Sources */,
 				4C54E7C4DED9DF78916930C3 /* CountryLocation.swift in Sources */,
 				602F314AF1503F47FBE14D9D /* DialApp.swift in Sources */,
 				B966037C7C0FEDA38F077CBA /* DialMotion.swift in Sources */,
+				721E0A9AA6FB74E4E86EEBC1 /* FavoritesSync.swift in Sources */,
 				F043BE23FB6EE8B28F868E60 /* Library.swift in Sources */,
 				F8FD014A4820EE4ADD2D3464 /* ListeningBehavior.swift in Sources */,
 				B3224350B55F52ECA7E52196 /* ListeningSettingsViews.swift in Sources */,
@@ -433,9 +459,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D779A2FBF2128AB239A0F9A /* AlarmTests.swift in Sources */,
+				AA09A416A5362E41B2338DB7 /* AllLocationsOrderTests.swift in Sources */,
 				89481703B28FD971C72E91EF /* CatalogTests.swift in Sources */,
 				78B7B4235D4F7E06AC514692 /* CountryLocationTests.swift in Sources */,
 				0AB6ACD4EF01C6AA5AB5738B /* CountryStartupTests.swift in Sources */,
+				40B51C0E867EB6A90655D300 /* FavoritesSyncTests.swift in Sources */,
 				F52415BB1284E9DDAD416ADE /* LibraryTests.swift in Sources */,
 				DD6C86AFDC337482CDE7530D /* ListeningBehaviorTests.swift in Sources */,
 				C668402DA109225563087AD9 /* LiveCatalogTests.swift in Sources */,
@@ -474,21 +502,22 @@
 				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS[sdk=iphone*]" = YES;
+				"CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]" = "Dial/Dial-iOS.entitlements";
+				"CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]" = "Dial/Dial-iOS-Simulator.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 33;
+				CURRENT_PROJECT_VERSION = 34;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Dial/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Dial;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
 				PRODUCT_NAME = Dial;
 				SDKROOT = auto;
@@ -635,21 +664,22 @@
 				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS[sdk=iphone*]" = YES;
+				"CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]" = "Dial/Dial-iOS.entitlements";
+				"CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]" = "Dial/Dial-iOS-Simulator.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 33;
+				CURRENT_PROJECT_VERSION = 34;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Dial/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Dial;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
 				PRODUCT_NAME = Dial;
 				SDKROOT = auto;

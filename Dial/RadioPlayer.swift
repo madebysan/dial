@@ -337,13 +337,22 @@ final class RadioPlayer {
     }
 
     private func updateNowPlaying() {
-        MPNowPlayingInfoCenter.default().nowPlayingInfo = [
+        var info: [String: Any] = [
             MPMediaItemPropertyTitle: liveTitle ?? selected.name,
             MPMediaItemPropertyArtist: "\(selected.name) · \(selected.frequencyLabel) · \(selected.city)",
             MPNowPlayingInfoPropertyIsLiveStream: true,
             MPNowPlayingInfoPropertyPlaybackRate: state == .playing ? 1.0 : 0.0,
             MPNowPlayingInfoPropertyMediaType: MPNowPlayingInfoMediaType.audio.rawValue
         ]
+        // Lock Screen, Control Center and CarPlay's Now Playing show the station's artwork.
+        let station = selected
+        if let image = ArtworkImages.image(for: station, loaded: { [weak self] image in
+            guard let self, image != nil, self.selected == station, self.state != .idle else { return }
+            self.updateNowPlaying()
+        }) {
+            info[MPMediaItemPropertyArtwork] = MPMediaItemArtwork(boundsSize: image.size) { _ in image }
+        }
+        MPNowPlayingInfoCenter.default().nowPlayingInfo = info
         #if os(macOS)
         // macOS's Now Playing widget reads the state separately from the info dictionary.
         MPNowPlayingInfoCenter.default().playbackState = state == .playing ? .playing : .paused

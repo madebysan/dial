@@ -9,7 +9,7 @@ final class WorldCatalogUITests: XCTestCase {
         app.launchArguments = ["--ui-testing", "--reset-state"]
         app.launch()
         app.openAllStations()
-        XCTAssertTrue(app.staticTexts["249 stations"].exists)
+        XCTAssertTrue(app.staticTexts["459 stations"].exists)
         XCTAssertTrue(app.scrollViews["station-grid"].exists)
         capture(app, "Worldwide grid")
         let search = app.searchFields.firstMatch
@@ -32,7 +32,7 @@ final class WorldCatalogUITests: XCTestCase {
         XCTAssertTrue(app.buttons["open-stations"].label.contains("Mexico"))
         app.openAllStations()
         app.buttons["city-filter"].tap()
-        app.buttons["browse-country-newYork"].tap(); app.buttons["location-newYork"].tap()
+        app.buttons["browse-country-newYork"].tap(); app.revealMenuItem("location-newYork").tap()
         search.tap()
         search.typeText("Alfa")
         XCTAssertTrue(app.staticTexts["No stations found"].waitForExistence(timeout: 5))
@@ -52,30 +52,35 @@ final class WorldCatalogUITests: XCTestCase {
         let app = XCUIApplication()
         app.launchArguments = ["--ui-testing", "--reset-state"]
         app.launch()
-        let countries = [("newYork", "United States", 56), ("montevideo", "Uruguay", 14),
+        let countries = [("newYork", "United States", 238), ("canada", "Canada", 28), ("montevideo", "Uruguay", 14),
                          ("argentina", "Argentina", 11), ("spain", "Spain", 12),
                          ("brazil", "Brazil", 10), ("mexico", "Mexico", 10),
                          ("colombia", "Colombia", 10), ("chile", "Chile", 10),
                          ("unitedKingdom", "United Kingdom", 84), ("france", "France", 12),
                          ("italy", "Italy", 10), ("japan", "Japan", 10)]
-        let otherCounts = ["newYork": 9, "montevideo": 7, "argentina": 2, "spain": 12,
-                           "brazil": 6, "mexico": 1, "colombia": 7, "chile": 10,
-                           "unitedKingdom": 81, "france": 12, "italy": 10, "japan": 10]
+        // Each country's Other stations, or its city dial where every station has a local frequency.
+        let probes: [String: (location: String, label: String, count: Int)] = [
+            "newYork": ("newYork-online", "Other stations", 9), "canada": ("canada-Toronto", "Toronto", 10), "montevideo": ("montevideo-online", "Other stations", 7),
+            "argentina": ("argentina-online", "Other stations", 2), "spain": ("spain-online", "Other stations", 2),
+            "brazil": ("brazil-online", "Other stations", 6), "mexico": ("mexico-online", "Other stations", 1),
+            "colombia": ("colombia-online", "Other stations", 7), "chile": ("chile-Santiago", "Santiago", 10),
+            "unitedKingdom": ("unitedKingdom-online", "Other stations", 81), "france": ("france-Paris", "Paris", 12),
+            "italy": ("italy-Milan", "Milan", 10), "japan": ("japan-online", "Other stations", 10)]
         for (id, name, _) in countries {
             app.openAllStations()
             if id == "mexico" {
                 app.filterStations(country: id, location: "mexico-Mexico City")
                 XCTAssertEqual(app.staticTexts["station-count"].label, "9 stations")
             }
-            app.filterStations(country: id, location: "\(id)-online")
-            XCTAssertTrue(app.buttons["city-filter"].label.contains("Other stations"))
-            let otherCount = otherCounts[id]!
+            let probe = probes[id]!
+            app.filterStations(country: id, location: probe.location)
+            XCTAssertTrue(app.buttons["city-filter"].label.contains(probe.label))
             XCTAssertEqual(app.staticTexts["station-count"].label,
-                           "\(otherCount) \(otherCount == 1 ? "station" : "stations")", "Other stations in \(name)")
-            capture(app, "Other stations - \(name)")
+                           "\(probe.count) \(probe.count == 1 ? "station" : "stations")", "\(probe.label) in \(name)")
+            capture(app, "\(probe.label) - \(name)")
             app.buttons.matching(NSPredicate(format: "identifier BEGINSWITH 'station-'")).firstMatch.tap()
             XCTAssertTrue(app.buttons["open-stations"].label.contains(name))
-            XCTAssertTrue(app.buttons["open-stations"].label.contains("Other stations"))
+            XCTAssertTrue(app.buttons["open-stations"].label.contains(probe.label))
             app.openAllStations()
             XCTAssertTrue(app.scrollViews["station-grid"].exists)
             let image = XCTAttachment(screenshot: app.screenshot())

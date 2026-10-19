@@ -1,0 +1,2412 @@
+[
+ {
+  "id": "gb-bbc2",
+  "name": "BBC Radio 2",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 12370000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/rajars-q2-2026-gb-news-posts-strong-growth-bbc-stations-dip/",
+  "note": null
+ },
+ {
+  "id": "gb-bbc4",
+  "name": "BBC Radio 4",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 8900000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/rajars-q2-2026-gb-news-posts-strong-growth-bbc-stations-dip/",
+  "note": null
+ },
+ {
+  "id": "gb-capital",
+  "name": "Capital",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 8800000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://global.com/rajar-q2-2026/",
+  "note": "Brand total"
+ },
+ {
+  "id": "gb-bbc-radio-one",
+  "name": "BBC Radio 1",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 7550000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": "Brand total"
+ },
+ {
+  "id": "fr-inter",
+  "name": "France Inter",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 6914000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "12.1% daily reach of people 13+"
+ },
+ {
+  "id": "it-rtl",
+  "name": "RTL 102.5",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 6318000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "it-italia",
+  "name": "Radio Italia",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 5780000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "it-rds",
+  "name": "RDS",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 5634000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "gb-bbc-radio-five-live",
+  "name": "BBC Radio 5 Live",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 5500000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://radiotoday.co.uk/2026/08/commercial-radio-passes-40m-as-bbc-falls-to-30-9m/",
+  "note": null
+ },
+ {
+  "id": "it-deejay",
+  "name": "Radio Deejay",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 5079000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "fr-rtl",
+  "name": "RTL",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 4857000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "8.5% daily reach of people 13+"
+ },
+ {
+  "id": "it-105",
+  "name": "Radio 105",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 4782000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "fr-info",
+  "name": "France Info",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 4743000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "8.3% daily reach of people 13+"
+ },
+ {
+  "id": "es-ser",
+  "name": "Cadena SER",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 4403000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "gb-classic",
+  "name": "Classic FM",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 4290000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": "Brand total"
+ },
+ {
+  "id": "us-lite",
+  "name": "Lite FM",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 3705600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "gb-lbc",
+  "name": "LBC",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 3690000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/rajars-q2-2026-gb-news-posts-strong-growth-bbc-stations-dip/",
+  "note": null
+ },
+ {
+  "id": "gb-talksport",
+  "name": "talkSPORT",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 3670000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/rajars-q2-2026-gb-news-posts-strong-growth-bbc-stations-dip/",
+  "note": null
+ },
+ {
+  "id": "fr-nrj",
+  "name": "NRJ Paris",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 3657000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "6.4% daily reach of people 13+; national NRJ figure"
+ },
+ {
+  "id": "fr-nostalgie",
+  "name": "Nostalgie",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 3200000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "5.6% daily reach of people 13+"
+ },
+ {
+  "id": "fr-skyrock",
+  "name": "Skyrock",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 3200000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "5.6% daily reach of people 13+"
+ },
+ {
+  "id": "it-rai1",
+  "name": "Rai Radio 1",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 3124000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "it-virgin",
+  "name": "Virgin Radio Italia",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 3113000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "es-los40",
+  "name": "LOS40",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 2898000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "fr-rmc",
+  "name": "RMC",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 2743000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "4.8% daily reach of people 13+"
+ },
+ {
+  "id": "it-rai2",
+  "name": "Rai Radio 2",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 2727000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "gb-bbc6",
+  "name": "BBC Radio 6 Music",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 2590000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": null
+ },
+ {
+  "id": "fr-europe1",
+  "name": "Europe 1",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 2571000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "4.5% daily reach of people 13+"
+ },
+ {
+  "id": "us-ktu",
+  "name": "KTU",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 2379300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-z100",
+  "name": "Z100",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 2372200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "es-ondacero",
+  "name": "Onda Cero",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 2265000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "it-montecarlo",
+  "name": "Radio Monte Carlo Italia",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 2228000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "fr-culture",
+  "name": "France Culture",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 2171000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "3.8% daily reach of people 13+"
+ },
+ {
+  "id": "fr-nova",
+  "name": "Radio Nova",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 2114000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "3.7% daily reach of people 13+"
+ },
+ {
+  "id": "us-krth",
+  "name": "K-Earth 101",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 2100700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-koda",
+  "name": "Sunny 99.1",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 1980900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "gb-radiox",
+  "name": "Radio X",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 1900000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": null
+ },
+ {
+  "id": "gb-bbc-radio-three",
+  "name": "BBC Radio 3",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 1880000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": null
+ },
+ {
+  "id": "us-q1043",
+  "name": "Q104.3",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1866800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "es-cadena100",
+  "name": "Cadena 100",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 1762000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-kiis",
+  "name": "KIIS FM",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 1601700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-mega",
+  "name": "Mega 97.9",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1601700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wins",
+  "name": "1010 WINS",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1559300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "es-cadenadial",
+  "name": "Cadena Dial",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 1538000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-power1051",
+  "name": "Power 105.1",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1315500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wbls",
+  "name": "WBLS",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1279300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "it-rai3",
+  "name": "Rai Radio 3",
+  "city": "Milan",
+  "region": "italy",
+  "listeners": 1236000,
+  "metric": "daily listeners (Audiradio, Apr–Jun 2026)",
+  "source": "https://www.engage.it/dati-e-ricerche/radiofonia-le-emittenti-piu-ascoltate-nel-secondo-trimestre-del-2026.aspx",
+  "note": null
+ },
+ {
+  "id": "es-kissfm",
+  "name": "KISS FM",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 1219000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-kroq",
+  "name": "KROQ",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 1212900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-hot97",
+  "name": "Hot 97",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1151300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-koit",
+  "name": "96.5 KOIT",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 1107300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wdrv",
+  "name": "97.1 The Drive",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 1050400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-wfan",
+  "name": "WFAN",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 1044900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "es-rac1",
+  "name": "RAC1",
+  "city": "National feed",
+  "region": "spain",
+  "listeners": 1035000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "fr-musique",
+  "name": "France Musique",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 1029000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "1.8% daily reach of people 13+"
+ },
+ {
+  "id": "us-kglk",
+  "name": "The Eagle 106.9 & 107.5",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 1008300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-wxrt",
+  "name": "93XRT",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 979200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "gb-bbc-world",
+  "name": "BBC World Service",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 943000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/rajars-q2-2026-gb-news-posts-strong-growth-bbc-stations-dip/",
+  "note": "UK listeners only; worldwide audience is far larger"
+ },
+ {
+  "id": "us-klve",
+  "name": "K-Love 107.5",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 928500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "es-rne",
+  "name": "RNE Radio Nacional",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 895000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-kkbq",
+  "name": "93Q Country",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 886200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-khks",
+  "name": "106.1 Kiss FM",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 856900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-ktbz",
+  "name": "94.5 The Buzz",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 796700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "gb-bbc-1xtra",
+  "name": "BBC Radio 1Xtra",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 769000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": null
+ },
+ {
+  "id": "us-wip",
+  "name": "94WIP",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 766100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-kllc",
+  "name": "Alice 97.3",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 757900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wmgk",
+  "name": "102.9 MGK",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 754200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "fr-fip",
+  "name": "FIP",
+  "city": "Paris",
+  "region": "france",
+  "listeners": 743000,
+  "metric": "daily listeners (Médiamétrie, Apr–Jun 2026)",
+  "source": "https://melles750.fr/articles/2026/2026-07-10-audiences-radio-mediametrie-avril-juin-2026-france-inter-nova-rtl",
+  "note": "1.3% daily reach of people 13+"
+ },
+ {
+  "id": "us-wbbm",
+  "name": "WBBM Newsradio",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 741100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-wusn",
+  "name": "US99",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 734300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-wtop",
+  "name": "WTOP News",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 717300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "es-catalunya",
+  "name": "Catalunya Ràdio",
+  "city": "National feed",
+  "region": "spain",
+  "listeners": 717000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-kmjq",
+  "name": "Majic 102.1",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 712900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-wvaz",
+  "name": "V103",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 699300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-kqed",
+  "name": "KQED",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 693700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wxks",
+  "name": "Kiss 108",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 689300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-kxsn",
+  "name": "Sunny 98.1",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 686400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-kqql",
+  "name": "Kool 108",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 672800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "gb-times",
+  "name": "Times Radio",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 660000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.advanced-television.com/2026/08/06/data-time-radio-attracts-record-audiences-in-q2",
+  "note": null
+ },
+ {
+  "id": "us-kcbs",
+  "name": "KCBS Radio",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 653800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wmmr",
+  "name": "93.3 WMMR",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 646400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-wxyt",
+  "name": "97.1 The Ticket",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 643200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-wscr",
+  "name": "104.3 The Score",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 635700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-wvee",
+  "name": "V-103",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 629000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-wmia",
+  "name": "Magic 93.9",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 628900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-kusc",
+  "name": "Classical KUSC",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 596100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-wdas",
+  "name": "105.3 WDAS",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 579500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-knx",
+  "name": "KNX News",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 570000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-kndd",
+  "name": "107.7 The End",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 565800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-kdwb",
+  "name": "101.3 KDWB",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 559700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "wnyc",
+  "name": "WNYC",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 552100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wamu",
+  "name": "WAMU",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 552100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-kkda",
+  "name": "K104",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 551000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "gb-bbc-asian-network",
+  "name": "BBC Asian Network",
+  "city": "National feed",
+  "region": "unitedKingdom",
+  "listeners": 548000,
+  "metric": "weekly reach (RAJAR, Apr–Jun 2026)",
+  "source": "https://www.musicweek.com/media/read/rajar-q2-kiss-sees-ratings-revival-bbc-radio-2-and-6-music-stable-as-radio-1-enters-its-brand-era/094671",
+  "note": null
+ },
+ {
+  "id": "us-wsrv",
+  "name": "97.1 The River",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 546700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-wcsx",
+  "name": "94.7 WCSX",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 543400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-kits",
+  "name": "Live 105",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 540900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wzlx",
+  "name": "100.7 WZLX",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 537800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-kstp",
+  "name": "KS95",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 525200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-wamj",
+  "name": "Majic 107.5",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 523700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-kpcc",
+  "name": "LAist 89.3",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 523100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-kyw",
+  "name": "KYW Newsradio",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 518100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-wgci",
+  "name": "WGCI 107.5",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 506300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-kcrw",
+  "name": "KCRW",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 502600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-kzok",
+  "name": "102.5 KZOK",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 501100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-wycd",
+  "name": "99.5 WYCD",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 500500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-kbxx",
+  "name": "97.9 The Box",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 500300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-kmel",
+  "name": "106 KMEL",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 495700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-kyxy",
+  "name": "KYXY 96.5",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 495100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-wmxd",
+  "name": "Mix 92.3",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 494300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-whur",
+  "name": "96.3 WHUR",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 484000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-kzps",
+  "name": "Lone Star 92.5",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 483600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-wamr",
+  "name": "Amor 107.5",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 483300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-wwdc",
+  "name": "DC101",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 483200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-wusl",
+  "name": "Power 99",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 464900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-kbpa",
+  "name": "103.5 Bob FM",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 461100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wxtu",
+  "name": "92.5 XTU",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 455100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-wrif",
+  "name": "101 WRIF",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 447300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-kove",
+  "name": "Amor 106.5",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 441100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-wjlb",
+  "name": "97.9 WJLB",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 437900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-wbez",
+  "name": "WBEZ",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 437700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-whyi",
+  "name": "Y100",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 435600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-kera",
+  "name": "KERA 90.1",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 435200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-keey",
+  "name": "K102",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 431900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-klth",
+  "name": "106.7 The Eagle",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 429900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-kfxn",
+  "name": "100.3 KFAN",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 427000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-wojo",
+  "name": "Que Buena 105.1",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 423900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-kiro-am",
+  "name": "Seattle Sports 710",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 420600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-wpgc",
+  "name": "WPGC 95.5",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 414500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-krld-fm",
+  "name": "105.3 The Fan",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 412000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-kfi",
+  "name": "KFI AM 640",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 408500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "us-wsb",
+  "name": "WSB 750",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 393000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-kisw",
+  "name": "99.9 KISW",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 390200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-kkjz",
+  "name": "KJazz 88.1",
+  "city": "Los Angeles",
+  "region": "newYork",
+  "listeners": 389500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/los-angeles/",
+  "note": null
+ },
+ {
+  "id": "wabc",
+  "name": "WABC",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 379800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wedr",
+  "name": "99 Jamz",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 379600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-whqt",
+  "name": "Hot 105",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 376800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-wbgg",
+  "name": "Big 105.9",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 373200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "es-radio3",
+  "name": "RNE Radio 3",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 373000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-wjxa",
+  "name": "Mix 92.9",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 370600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-know",
+  "name": "MPR News",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 366200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-wcmq",
+  "name": "Zeta 92.3",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 365900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-ktcl",
+  "name": "Channel 93.3",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 356500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wxdj",
+  "name": "El Zol 106.7",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 355900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-kmvk",
+  "name": "La Grande 107.5",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 352600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-wwj",
+  "name": "WWJ Newsradio 950",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 350000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-weei",
+  "name": "WEEI 93.7",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 346900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-krfx",
+  "name": "103.5 The Fox",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 346100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "wqxr",
+  "name": "WQXR",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 345000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wkys",
+  "name": "93.9 WKYS",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 344500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-wcjk",
+  "name": "96.3 Jack FM",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 337100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-wklb",
+  "name": "Country 102.5",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 331100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-krzz",
+  "name": "La Raza 93.3",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 328000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-kink",
+  "name": "101.9 KINK",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 326200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-wxrv",
+  "name": "92.5 The River",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 325700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "wfuv",
+  "name": "WFUV",
+  "city": "The Bronx",
+  "region": "newYork",
+  "listeners": 324100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wkis",
+  "name": "Kiss Country 99.9",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 321900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-kuow",
+  "name": "KUOW",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 321200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-wubl",
+  "name": "94.9 The Bull",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 317700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-kntu",
+  "name": "Indie 88",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 316400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-kbco",
+  "name": "97.3 KBCO",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 314300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wor",
+  "name": "WOR",
+  "city": "New York",
+  "region": "newYork",
+  "listeners": 309400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wbur",
+  "name": "WBUR",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 309200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-whta",
+  "name": "Hot 107.9",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 308800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-kkwf",
+  "name": "100.7 The Wolf",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 300500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-kcmp",
+  "name": "The Current",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 297900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-xetra",
+  "name": "91X",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 288600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-weta",
+  "name": "WETA Classical",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 287300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-wrr",
+  "name": "Classical WRR 101.1",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 286700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "es-radio5",
+  "name": "Radio 5",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 284000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-wgn",
+  "name": "WGN Radio 720",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 283500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-kdfc",
+  "name": "Classical KDFC",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 280400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-ktrh",
+  "name": "KTRH NewsRadio 740",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 280100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-kgon",
+  "name": "92.3 KGON",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 279200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-kygo",
+  "name": "98.5 KYGO",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 278600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wabe",
+  "name": "WABE 90.1",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 271100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-kwfn",
+  "name": "97.3 The Fan",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 262600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-kxjm",
+  "name": "Jam'n 107.5",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 260500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-kson",
+  "name": "KSON 103.7",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 257400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-knrk",
+  "name": "94/7 Alternative",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 253000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-kiro-fm",
+  "name": "KIRO Newsradio 97.3",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 252700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-whyy",
+  "name": "WHYY",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 249300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-kioz",
+  "name": "Rock 105.3",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 247000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-wbz",
+  "name": "WBZ NewsRadio 1030",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 243000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-wzgc",
+  "name": "92.9 The Game",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 242600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-krox",
+  "name": "101X",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 241500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wmzq",
+  "name": "98.7 WMZQ",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 238800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-khfi",
+  "name": "96.7 Kiss FM",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 233200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-kkxt",
+  "name": "KXT 91.7",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 231600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-wgbh",
+  "name": "GBH 89.7",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 230200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-klbj-fm",
+  "name": "93.7 KLBJ",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 227300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wxpn",
+  "name": "WXPN",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 225600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-kase",
+  "name": "KASE 100.7",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 221000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wcrb",
+  "name": "CRB Classical 99.5",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 219100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-wlrn",
+  "name": "WLRN News",
+  "city": "Miami",
+  "region": "newYork",
+  "listeners": 217300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/miami-fort-lauderdale/",
+  "note": null
+ },
+ {
+  "id": "us-kqks",
+  "name": "KS107.5",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 207200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wfmt",
+  "name": "WFMT",
+  "city": "Chicago",
+  "region": "newYork",
+  "listeners": 205200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/chicago/",
+  "note": null
+ },
+ {
+  "id": "us-wnrq",
+  "name": "105.9 The Rock",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 204400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "wbgo",
+  "name": "WBGO",
+  "city": "Newark",
+  "region": "newYork",
+  "listeners": 198400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-king",
+  "name": "Classical KING FM",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 194800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-kpbs",
+  "name": "KPBS 89.5",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 187700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-klnv",
+  "name": "Que Buena 106.5",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 180300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-koa",
+  "name": "KOA Newsradio",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 180200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-kopb",
+  "name": "OPB Radio",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 178700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-kut",
+  "name": "KUT News",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 176900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wjfk",
+  "name": "106.7 The Fan",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 176400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-wers",
+  "name": "WERS 88.9",
+  "city": "Boston",
+  "region": "newYork",
+  "listeners": 174300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/boston/",
+  "note": null
+ },
+ {
+  "id": "us-kutx",
+  "name": "KUTX",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 173900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-kqac",
+  "name": "All Classical",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 171600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-wlzl",
+  "name": "El Zol 107.9",
+  "city": "Washington, DC",
+  "region": "newYork",
+  "listeners": 169400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/washington-dc/",
+  "note": null
+ },
+ {
+  "id": "us-kxl",
+  "name": "FM News 101 KXL",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 167600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "es-radio-clasica",
+  "name": "Radio Clásica",
+  "city": "Madrid",
+  "region": "spain",
+  "listeners": 167000,
+  "metric": "daily listeners, Mon–Fri (EGM, 2nd wave 2026)",
+  "source": "https://barloventocomunicacion.es/wp-content/uploads/2026/06/Informe-Audiencias-Radio-2-Ola-2026.pdf",
+  "note": null
+ },
+ {
+  "id": "us-wcco",
+  "name": "WCCO 830",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 165900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-wdet",
+  "name": "WDET 101.9",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 164900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-kuhf",
+  "name": "Houston Public Media News 88.7",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 162600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-ktsu",
+  "name": "KTSU 90.9 The Choice",
+  "city": "Houston",
+  "region": "newYork",
+  "listeners": 159600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/houston-galveston/",
+  "note": null
+ },
+ {
+  "id": "us-wuom",
+  "name": "Michigan Public 91.7",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 157700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-knkx",
+  "name": "KNKX 88.5",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 153400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-krld-am",
+  "name": "NewsRadio 1080 KRLD",
+  "city": "Dallas–Fort Worth",
+  "region": "newYork",
+  "listeners": 151300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/dallas-fort-worth/",
+  "note": null
+ },
+ {
+  "id": "us-ksjn",
+  "name": "Classical MPR",
+  "city": "Minneapolis–Saint Paul",
+  "region": "newYork",
+  "listeners": 149300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/minneapolis-st-paul/",
+  "note": null
+ },
+ {
+  "id": "us-kexp",
+  "name": "KEXP",
+  "city": "Seattle",
+  "region": "newYork",
+  "listeners": 141300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/seattle-tacoma/",
+  "note": null
+ },
+ {
+  "id": "us-kwjj",
+  "name": "99.5 The Wolf",
+  "city": "Portland",
+  "region": "newYork",
+  "listeners": 140500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/portland/",
+  "note": null
+ },
+ {
+  "id": "us-wsix",
+  "name": "The Big 98",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 139000,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-kmfa",
+  "name": "KMFA 89.5",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 134100,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-wubt",
+  "name": "101.1 The Beat",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 127800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-kogo",
+  "name": "Newsradio 600 KOGO",
+  "city": "San Diego",
+  "region": "newYork",
+  "listeners": 124800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-diego/",
+  "note": null
+ },
+ {
+  "id": "us-wpln",
+  "name": "WPLN News 90.3",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 122900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-kcsm",
+  "name": "KCSM Jazz 91",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 122200,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-kcfr",
+  "name": "CPR News",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 121800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wrcj",
+  "name": "WRCJ 90.9",
+  "city": "Detroit",
+  "region": "newYork",
+  "listeners": 111800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/detroit/",
+  "note": null
+ },
+ {
+  "id": "us-kvod",
+  "name": "CPR Classical",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 110400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-kalw",
+  "name": "KALW",
+  "city": "San Francisco",
+  "region": "newYork",
+  "listeners": 100700,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/san-francisco/",
+  "note": null
+ },
+ {
+  "id": "us-wrti",
+  "name": "WRTI 90.1",
+  "city": "Philadelphia",
+  "region": "newYork",
+  "listeners": 97600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/philadelphia/",
+  "note": null
+ },
+ {
+  "id": "us-wclk",
+  "name": "Jazz 91.9 WCLK",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 92600,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-klbj-am",
+  "name": "NewsRadio KLBJ",
+  "city": "Austin",
+  "region": "newYork",
+  "listeners": 87800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/austin/",
+  "note": null
+ },
+ {
+  "id": "us-kvoq",
+  "name": "Indie 102.3",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 82300,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-kuvo",
+  "name": "KUVO Jazz 89.3",
+  "city": "Denver",
+  "region": "newYork",
+  "listeners": 61500,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/denver/",
+  "note": null
+ },
+ {
+  "id": "us-wras",
+  "name": "Album 88",
+  "city": "Atlanta",
+  "region": "newYork",
+  "listeners": 59800,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/atlanta/",
+  "note": null
+ },
+ {
+  "id": "us-wsou",
+  "name": "WSOU",
+  "city": "South Orange",
+  "region": "newYork",
+  "listeners": 49900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/new-york/",
+  "note": null
+ },
+ {
+  "id": "us-wnxp",
+  "name": "Nashville Public Radio 91 One",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 49900,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ },
+ {
+  "id": "us-wmot",
+  "name": "WMOT Roots Radio",
+  "city": "Nashville",
+  "region": "newYork",
+  "listeners": 18400,
+  "metric": "weekly listeners (Nielsen, Sep 2026)",
+  "source": "https://radioinsight.com/ratings/nashville/",
+  "note": null
+ }
+]

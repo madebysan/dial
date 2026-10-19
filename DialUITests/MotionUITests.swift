@@ -54,7 +54,11 @@ final class MotionUITests: XCTestCase {
         XCTAssertTrue(app.scrollViews["station-grid"].exists)
         layout.tap()
         XCTAssertTrue(app.collectionViews["station-list"].exists)
-        app.buttons["save-wbgo"].tap()
+        // All Locations is popularity-ordered and long; New York metro keeps dial order, with WBGO near the top.
+        app.filterStations(country: "newYork", location: "newYork")
+        let save = app.buttons["save-wbgo"]
+        XCTAssertTrue(save.waitForExistence(timeout: 5))
+        save.tap()
         XCTAssertEqual(app.buttons["save-wbgo"].label, "Unsave WBGO")
         app.buttons["save-wbgo"].tap()
         XCTAssertEqual(app.buttons["save-wbgo"].label, "Save WBGO")

@@ -8,13 +8,22 @@ struct DialApp: App {
     @Environment(\.scenePhase) private var scenePhase
 
     init() {
+        _radio = State(initialValue: DialApp.sharedRadio)
+    }
+
+    /// One player for the iPhone window and CarPlay, which can launch Dial without the phone's UI.
+    @MainActor static let sharedRadio = makeRadio()
+
+    @MainActor private static func makeRadio() -> RadioPlayer {
         var defaults = UserDefaults.standard
+        var syncsFavorites = true
         var overrideURL: URL?
         var stations = Station.sample
         var countryCode = Locale.current.region?.identifier
         var screenshotMode = false
         #if DEBUG
         if ProcessInfo.processInfo.arguments.contains("--ui-testing") {
+            syncsFavorites = false
             countryCode = "US"
             if let override = ProcessInfo.processInfo.arguments.first(where: { $0.hasPrefix("--initial-country=") }) {
                 countryCode = String(override.dropFirst("--initial-country=".count))
@@ -40,8 +49,12 @@ struct DialApp: App {
         if ProcessInfo.processInfo.arguments.contains("--fail-stream") {
             overrideURL = URL(string: "https://127.0.0.1:1/unavailable")
         }
+        // Unit tests host the app; keep their runs out of the account's iCloud favorites.
+        if ProcessInfo.processInfo.environment["XCTestConfigurationFilePath"] != nil { syncsFavorites = false }
         #endif
-        let radio = RadioPlayer(library: Library(stations: stations, defaults: defaults, initialCountryCode: countryCode), streamOverride: overrideURL, defaults: defaults)
+        let library = Library(stations: stations, defaults: defaults, initialCountryCode: countryCode,
+                              cloud: syncsFavorites ? UbiquitousFavoritesStore() : nil)
+        let radio = RadioPlayer(library: library, streamOverride: overrideURL, defaults: defaults)
         #if targetEnvironment(simulator)
         // Keep Mac previews and automated stream checks silent.
         if !screenshotMode { radio.volume = 0 }
@@ -50,7 +63,7 @@ struct DialApp: App {
         if ProcessInfo.processInfo.arguments.contains("--muted")
             || ProcessInfo.processInfo.environment["XCTestConfigurationFilePath"] != nil { radio.volume = 0 }
         #endif
-        _radio = State(initialValue: radio)
+        return radio
     }
 
     var body: some Scene {

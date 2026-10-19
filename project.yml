@@ -22,13 +22,16 @@ targets:
         # iPhone only. Without this, adding macOS as a destination made XcodeGen emit "1,2" (iPhone + iPad).
         TARGETED_DEVICE_FAMILY: "1"
         PRODUCT_NAME: Dial
-        MARKETING_VERSION: "1.0"
-        CURRENT_PROJECT_VERSION: "33"
+        MARKETING_VERSION: "1.1"
+        CURRENT_PROJECT_VERSION: "34"
         INFOPLIST_KEY_CFBundleDisplayName: Dial
         INFOPLIST_KEY_UILaunchScreen_Generation: YES
-        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
         INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
         CODE_SIGN_ENTITLEMENTS[sdk=macosx*]: Dial/Dial-macOS.entitlements
+        # iCloud key-value storage syncs favorites. CarPlay audio needs Apple's approval for device builds,
+        # so only the simulator's CarPlay window gets it until Apple grants the entitlement.
+        CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]: Dial/Dial-iOS.entitlements
+        CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]: Dial/Dial-iOS-Simulator.entitlements
         ENABLE_HARDENED_RUNTIME[sdk=macosx*]: YES
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES[sdk=iphone*]: [AppIconMonogram, AppIconSignal, AppIconPocket]
@@ -44,6 +47,14 @@ targets:
         # macOS: menu bar app with no Dock icon. iOS ignores this key.
         LSUIElement: true
         UIBackgroundModes: [audio]
+        # SwiftUI provides the phone window; CarPlay gets its own template scene.
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: true
+          UISceneConfigurations:
+            CPTemplateApplicationSceneSessionRoleApplication:
+              - UISceneClassName: CPTemplateApplicationScene
+                UISceneConfigurationName: CarPlay
+                UISceneDelegateClassName: $(PRODUCT_MODULE_NAME).CarPlaySceneDelegate
         CFBundleURLTypes:
           - CFBundleURLName: com.santiagoalonso.dial
             CFBundleURLSchemes: [dialradio]

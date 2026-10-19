@@ -12,13 +12,14 @@ enum RadioBand: String, CaseIterable, Identifiable, Codable {
 /// Catalogue collections. Original raw values remain stable for saved selections.
 /// A collection is separate from the station's local tuning scope.
 enum RadioRegion: String, CaseIterable, Identifiable, Codable {
-    case newYork, montevideo, argentina, spain, brazil, mexico, colombia, chile
+    case newYork, canada, montevideo, argentina, spain, brazil, mexico, colombia, chile
     case unitedKingdom, france, italy, japan
     var id: String { rawValue }
     var name: String { country }
     var country: String {
         switch self {
         case .newYork: "United States"
+        case .canada: "Canada"
         case .montevideo: "Uruguay"
         case .argentina: "Argentina"
         case .spain: "Spain"
@@ -35,6 +36,7 @@ enum RadioRegion: String, CaseIterable, Identifiable, Codable {
     init?(countryCode: String) {
         switch countryCode.uppercased() {
         case "US": self = .newYork
+        case "CA": self = .canada
         case "UY": self = .montevideo
         case "AR": self = .argentina
         case "ES": self = .spain
@@ -49,7 +51,14 @@ enum RadioRegion: String, CaseIterable, Identifiable, Codable {
         default: return nil
         }
     }
-    var defaultStationID: String { self == .newYork ? "wnyc" : self == .montevideo ? "futura" : "" }
+    var defaultStationID: String {
+        switch self {
+        case .newYork: "wnyc"
+        case .canada: "ca-cbla"
+        case .montevideo: "futura"
+        default: ""
+        }
+    }
 }
 
 struct Station: Identifiable, Hashable, Decodable {
@@ -92,6 +101,16 @@ struct Station: Identifiable, Hashable, Decodable {
             preconditionFailure("The bundled station catalogue could not be loaded")
         }
         return stations
+    }()
+
+    /// Stations › All Locations opens with the most-listened stations, from published audience surveys
+    /// (`all-locations-order.json`, documented in docs/all-locations-ranking.md). Unlisted stations follow.
+    static let allLocationsRank: [String: Int] = {
+        struct Order: Decodable { let order: [String] }
+        guard let url = Bundle.main.url(forResource: "all-locations-order", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let order = try? JSONDecoder().decode(Order.self, from: data) else { return [:] }
+        return Dictionary(order.order.enumerated().map { ($1, $0) }, uniquingKeysWith: { first, _ in first })
     }()
 
     static func nearest(to frequency: Double, in stations: [Station] = sample) -> Station? {

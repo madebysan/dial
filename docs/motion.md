@@ -21,4 +21,4 @@ The same standard interaction sequence was recorded before and after at normal s
 
 Frame strips of bookmark changes, play/pause, grid/list and profile disclosure were visually inspected. Reduced-motion frames showed no bookmark particles or pop. The capture is visual evidence, not a frame-time benchmark; no Instruments or dropped-frame performance claim is made. The reduced-motion launch override verifies custom behavior, not every system-level animation or external keyboard interaction.
 
-The ten-test UI regression run passed. After the station-identity refinement, all three motion tests passed again against final source, including restoring a saved station. See regression summary and final motion summary. All recordings and tests ran with silent simulator playback; the app closed after teardown.
+The ten-test UI regression run passed. After the station-identity refinement, all three motion tests passed again against final source, including restoring a saved station. All recordings and tests ran with silent simulator playback; the app closed after teardown.

@@ -1,0 +1,3357 @@
+{
+ "method": "Read through the Arctic Shift archive of Reddit (https://arctic-shift.photon-reddit.com), because Reddit itself, web search and the in-app browser all refuse automated reads and the PullPush archive declines agents. For each city's subreddit, recommendation and discussion threads about local radio with at least 5 comments (ham radio, scanners, emergencies, obituaries and podcasts left out), and every archived comment in them. A station counts as named when a distinct commenter mentions its call sign, brand or common nickname; counts are distinct commenters per city, not votes. commentsRead leaves out deleted comments and AutoModerator; the archive holds fewer comments than Reddit lists for some threads. Reddit leans toward public, college and community radio.",
+ "retrieved": "2026-10-18",
+ "summary": {
+  "threads": 298,
+  "commentsListedByReddit": 25873,
+  "commentsRetrieved": 22171,
+  "commentsRead": 21106,
+  "dialStations": 237,
+  "named": 191,
+  "addedForReddit": [
+   "ca-ciut",
+   "us-kazi",
+   "us-kfjc",
+   "us-kmoj",
+   "us-knbr",
+   "us-knon",
+   "us-kpfa",
+   "us-kpoo",
+   "us-krbe",
+   "us-wkdu",
+   "us-wmbr",
+   "us-wprb",
+   "us-wrek",
+   "us-wrfg",
+   "us-wxna",
+   "us-wzbc"
+  ],
+  "historicalCallSigns": "Call signs named mostly in nostalgia threads for formats that no longer exist (KFRC, KFOG, KOME, KMET, KLOL, WBCN, WFNX, WDRE, WNUA and others) were not candidates."
+ },
+ "cities": {
+  "Philadelphia": {
+   "subreddits": [
+    "philadelphia"
+   ],
+   "threads": 13,
+   "commentsRead": 815,
+   "dialStations": [
+    {
+     "id": "us-wxpn",
+     "name": "WXPN",
+     "commenters": 47
+    },
+    {
+     "id": "us-wprb",
+     "name": "WPRB 103.3",
+     "commenters": 30,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wrti",
+     "name": "WRTI 90.1",
+     "commenters": 26
+    },
+    {
+     "id": "us-wkdu",
+     "name": "WKDU 91.7",
+     "commenters": 23,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-whyy",
+     "name": "WHYY",
+     "commenters": 19
+    },
+    {
+     "id": "us-wmmr",
+     "name": "93.3 WMMR",
+     "commenters": 18
+    },
+    {
+     "id": "us-wip",
+     "name": "94WIP",
+     "commenters": 18
+    },
+    {
+     "id": "us-kyw",
+     "name": "KYW Newsradio",
+     "commenters": 10
+    },
+    {
+     "id": "us-wusl",
+     "name": "Power 99",
+     "commenters": 8
+    },
+    {
+     "id": "us-wdas",
+     "name": "105.3 WDAS",
+     "commenters": 7
+    },
+    {
+     "id": "us-wmgk",
+     "name": "102.9 MGK",
+     "commenters": 7
+    },
+    {
+     "id": "us-wxtu",
+     "name": "92.5 XTU",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/1i4l5x2/",
+     "title": "From a music standpoint, what are your thoughts on Philly radio stations?",
+     "comments": 220,
+     "retrieved": 246
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/1ei73yt/",
+     "title": "Favorite Radio Stations? ",
+     "comments": 153,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/1r0r02l/",
+     "title": "What radio stations do you guys listen to?",
+     "comments": 153,
+     "retrieved": 162
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/unb82u/",
+     "title": "What are y’all listening to on the radio these days?",
+     "comments": 73,
+     "retrieved": 75
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/idxl0z/",
+     "title": "What is going on with Radio 104.5?",
+     "comments": 70,
+     "retrieved": 73
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/1m6jfaf/",
+     "title": "Any spots in Philly that fill a radio shack-like niche?",
+     "comments": 43,
+     "retrieved": 45
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/dpnp5l/",
+     "title": "Workers at WHYY, Philly’s public radio station, vote to unionize",
+     "comments": 39,
+     "retrieved": 39
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/17yhiqd/",
+     "title": "Taylor Swift music temporarily banned from Philadelphia radio station ahead of Eagles-Chiefs game",
+     "comments": 35,
+     "retrieved": 36
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/gubysa/",
+     "title": "1060 kyw. AM radio is best active news source on what happening minute by minute",
+     "comments": 31,
+     "retrieved": 33
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/hbfp8w/",
+     "title": "Any good Rock/Metal radio stations?",
+     "comments": 26,
+     "retrieved": 30
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/e3ygux/",
+     "title": "Does anyone know who’s playing the radio 104.5 show tonight?",
+     "comments": 21,
+     "retrieved": 22
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/acy4q5/",
+     "title": "Why doesn't Philly have its own jazz radio station?",
+     "comments": 19,
+     "retrieved": 21
+    },
+    {
+     "url": "https://www.reddit.com/r/philadelphia/comments/ogl5i6/",
+     "title": "Looking for a radio app that doesn’t black out the Phillies game. Any hints?",
+     "comments": 19,
+     "retrieved": 20
+    }
+   ]
+  },
+  "Minneapolis–Saint Paul": {
+   "subreddits": [
+    "Minneapolis",
+    "TwinCities"
+   ],
+   "threads": 12,
+   "commentsRead": 907,
+   "dialStations": [
+    {
+     "id": "us-kcmp",
+     "name": "The Current",
+     "commenters": 65
+    },
+    {
+     "id": "us-kfai",
+     "name": "KFAI 90.3",
+     "commenters": 43
+    },
+    {
+     "id": "us-know",
+     "name": "MPR News",
+     "commenters": 31
+    },
+    {
+     "id": "us-kmoj",
+     "name": "KMOJ 89.9",
+     "commenters": 14,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wcco",
+     "name": "WCCO 830",
+     "commenters": 13
+    },
+    {
+     "id": "us-kqql",
+     "name": "Kool 108",
+     "commenters": 8
+    },
+    {
+     "id": "us-kdwb",
+     "name": "101.3 KDWB",
+     "commenters": 4
+    },
+    {
+     "id": "us-kfxn",
+     "name": "100.3 KFAN",
+     "commenters": 2
+    },
+    {
+     "id": "us-kstp",
+     "name": "KS95",
+     "commenters": 0
+    },
+    {
+     "id": "us-keey",
+     "name": "K102",
+     "commenters": 0
+    },
+    {
+     "id": "us-ksjn",
+     "name": "Classical MPR",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/12comb1/",
+     "title": "I wish certain radio stations would let me request that they stop playing a song, even for just like a day",
+     "comments": 179,
+     "retrieved": 201
+    },
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/zxgvod/",
+     "title": "What happened to WCCO radio",
+     "comments": 164,
+     "retrieved": 175
+    },
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/13jaoa2/",
+     "title": "Alt rock radio stations?",
+     "comments": 131,
+     "retrieved": 137
+    },
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/1v8bt32/",
+     "title": "Radio stations",
+     "comments": 131,
+     "retrieved": 137
+    },
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/1dqm2xq/",
+     "title": "Unique radio stations (that aren’t The Current)",
+     "comments": 124,
+     "retrieved": 139
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/1vugtdw/",
+     "title": "Best radio stations in town?",
+     "comments": 74,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/gqenbm/",
+     "title": "Taken yesterday at Lake of the Isles. A fox casually trotting down the sidewalk mid day unafraid of people in its way. Had what appears to be a radio collar, and looks in very rough shape.",
+     "comments": 48,
+     "retrieved": 53
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/ovjqu4/",
+     "title": "Good alt rock radio?",
+     "comments": 38,
+     "retrieved": 41
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/195ub36/",
+     "title": "Why is “Lost” the only Linken Park song they play on the radio out here?",
+     "comments": 33,
+     "retrieved": 34
+    },
+    {
+     "url": "https://www.reddit.com/r/TwinCities/comments/1ougkju/",
+     "title": "Somebody from a local radio station sexually harrassed my girlfriend online",
+     "comments": 33,
+     "retrieved": 34
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/1jc89ml/",
+     "title": "Techno on the radio in the 90s?",
+     "comments": 26,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/Minneapolis/comments/o7ve3w/",
+     "title": "commentator on radio said that every working/taxpaying adult Minneapolis adult resident end up paying roughly $100 each for the 27 million settlement.... what is the working/taxpaying adult population of Minneapolis?",
+     "comments": 26,
+     "retrieved": 0
+    }
+   ]
+  },
+  "Washington, DC": {
+   "subreddits": [
+    "washingtondc"
+   ],
+   "threads": 12,
+   "commentsRead": 383,
+   "dialStations": [
+    {
+     "id": "us-wamu",
+     "name": "WAMU",
+     "commenters": 14
+    },
+    {
+     "id": "us-wtop",
+     "name": "WTOP News",
+     "commenters": 5
+    },
+    {
+     "id": "us-wwdc",
+     "name": "DC101",
+     "commenters": 4
+    },
+    {
+     "id": "us-weta",
+     "name": "WETA Classical",
+     "commenters": 2
+    },
+    {
+     "id": "us-wjfk",
+     "name": "106.7 The Fan",
+     "commenters": 2
+    },
+    {
+     "id": "us-whur",
+     "name": "96.3 WHUR",
+     "commenters": 1
+    },
+    {
+     "id": "us-wpgc",
+     "name": "WPGC 95.5",
+     "commenters": 0
+    },
+    {
+     "id": "us-wkys",
+     "name": "93.9 WKYS",
+     "commenters": 0
+    },
+    {
+     "id": "us-wmzq",
+     "name": "98.7 WMZQ",
+     "commenters": 0
+    },
+    {
+     "id": "us-wlzl",
+     "name": "El Zol 107.9",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1g8y1r1/",
+     "title": "Why does DC have three different right-wing radio stations?",
+     "comments": 147,
+     "retrieved": 164
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1vczo90/",
+     "title": "How did 99.5 become \"MAGA in the morning\" while 99.5-2 is \"Pride Radio\"?",
+     "comments": 49,
+     "retrieved": 56
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/d1sx07/",
+     "title": "DC101 - DC's \"Alternative Rock\" Radio Station",
+     "comments": 49,
+     "retrieved": 57
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/i8dr15/",
+     "title": "Can anyone explain radio Sputnik to me? (105.5 FM)",
+     "comments": 39,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1upvi06/",
+     "title": "Marian Anderson was banned from performing at the Constitution Hall by the Daughters of the American Revolution because of her race in 1939. First Lady Eleanor Roosevelt promptly resigned from the DAR and arranged the concert at the Lincoln Memorial. 75,000 attended. Millions listened on the radio.",
+     "comments": 34,
+     "retrieved": 37
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/t8pw5t/",
+     "title": "The tiny radio station broadcasting Russian propaganda in D.C.",
+     "comments": 32,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/lgwkke/",
+     "title": "Best college radio station in the area for music programming?",
+     "comments": 29,
+     "retrieved": 34
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1x2jtf7/",
+     "title": "Radio stations that take song requests",
+     "comments": 22,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1tc3k9c/",
+     "title": "What radio stations are yall listening to?",
+     "comments": 19,
+     "retrieved": 21
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/1861aus/",
+     "title": "Any jazz radio station?",
+     "comments": 18,
+     "retrieved": 18
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/lvqbe0/",
+     "title": "There’s a long forgotten low power radio station in DC that’s been broadcasting road closures for the 2013 presidential inauguration for the last 8 years.",
+     "comments": 17,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/washingtondc/comments/dm4j5a/",
+     "title": "Good radio station recommendations?",
+     "comments": 15,
+     "retrieved": 16
+    }
+   ]
+  },
+  "Austin": {
+   "subreddits": [
+    "Austin"
+   ],
+   "threads": 22,
+   "commentsRead": 1903,
+   "dialStations": [
+    {
+     "id": "us-kutx",
+     "name": "KUTX",
+     "commenters": 98
+    },
+    {
+     "id": "us-koop",
+     "name": "KOOP 91.7",
+     "commenters": 69
+    },
+    {
+     "id": "us-kut",
+     "name": "KUT News",
+     "commenters": 38
+    },
+    {
+     "id": "us-klbj-fm",
+     "name": "93.7 KLBJ",
+     "commenters": 24
+    },
+    {
+     "id": "us-klbj-am",
+     "name": "NewsRadio KLBJ",
+     "commenters": 24
+    },
+    {
+     "id": "us-kmfa",
+     "name": "KMFA 89.5",
+     "commenters": 23
+    },
+    {
+     "id": "us-kazi",
+     "name": "KAZI 88.7",
+     "commenters": 18,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kbpa",
+     "name": "103.5 Bob FM",
+     "commenters": 6
+    },
+    {
+     "id": "us-khfi",
+     "name": "96.7 Kiss FM",
+     "commenters": 2
+    },
+    {
+     "id": "us-kase",
+     "name": "KASE 100.7",
+     "commenters": 1
+    },
+    {
+     "id": "us-krox",
+     "name": "101X",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KVRX 91.7",
+     "commenters": 23,
+     "reason": "shares 91.7 with KOOP, which is already on Austin's dial"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1cgb800/",
+     "title": "Has anyone else ever been able to hear radio stations in their head?  Not loudly, but it's clear.  Everything in my house is turned off and I can hear Blondie - call me, then the Beatles.  Same volume in each room of my house, and not coming from outside.",
+     "comments": 340,
+     "retrieved": 434
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/nxkdju/",
+     "title": "KUTX is the greatest radio station I've ever heard anywhere",
+     "comments": 243,
+     "retrieved": 258
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/16b40j5/",
+     "title": "What is your default radio station?",
+     "comments": 186,
+     "retrieved": 194
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1oosn48/",
+     "title": "Austin voters reject Prop Q, Mayor Watson says | KUT Radio, Austin's NPR Station",
+     "comments": 154,
+     "retrieved": 156
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1juz1s2/",
+     "title": "Every Radio Station in Austin",
+     "comments": 142,
+     "retrieved": 165
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1cnbvc8/",
+     "title": "Is KOOP Community Run Radio in a Death Spiral?",
+     "comments": 111,
+     "retrieved": 123
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/bk2ydp/",
+     "title": "What’s your radio preset top 5?",
+     "comments": 102,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/vywi7c/",
+     "title": "What’s your favorite ATX radio station, and what do you love about it? Looking for new preset stations in my car. Already up on KUTX and love it.",
+     "comments": 97,
+     "retrieved": 99
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1ce35q7/",
+     "title": "KUTX is the best radio channel out there.",
+     "comments": 81,
+     "retrieved": 95
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/phio05/",
+     "title": "Best Radio Stations?",
+     "comments": 81,
+     "retrieved": 84
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1dj91i5/",
+     "title": "Only three 'Don't Block the Box' tickets issued last year in Austin | KUT Radio, Austin's NPR Station",
+     "comments": 66,
+     "retrieved": 72
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/xuyvzp/",
+     "title": "91.7 radio hacked??",
+     "comments": 64,
+     "retrieved": 65
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1mhhe28/",
+     "title": "How Texas' proposed congressional map affects Austin | KUT Radio, Austin's NPR Station",
+     "comments": 54,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1rmkqic/",
+     "title": "Radio/East - How's the experience seeing a live band there, particularly a heavy metal band?",
+     "comments": 34,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1scgaia/",
+     "title": "Going to Radio East next Friday and I have some questions?",
+     "comments": 31,
+     "retrieved": 39
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1su02vz/",
+     "title": "Crazy highlights of DPS radio in Austin. I am listening with a radio connected to AI.",
+     "comments": 31,
+     "retrieved": 35
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1vtnyvb/",
+     "title": "Did anyone go to WITCH last night at radio east? I just discovered them and totally forgot about the show till it was too late. How was it?",
+     "comments": 28,
+     "retrieved": 29
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1wuicq5/",
+     "title": "Do Austinites use CB radio for communication when everything is down?",
+     "comments": 28,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1fl05c2/",
+     "title": "Looking for a good radio station ",
+     "comments": 25,
+     "retrieved": 27
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1kmoxt2/",
+     "title": "Did Austin traffic get worse after state workers returned? | KUT Radio, Austin's NPR Station",
+     "comments": 23,
+     "retrieved": 24
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1mx9rma/",
+     "title": "how long after doors open do shows start at radio east?",
+     "comments": 17,
+     "retrieved": 18
+    },
+    {
+     "url": "https://www.reddit.com/r/Austin/comments/1n9s1bw/",
+     "title": "Hays County residents aren't happy about a data center moving in | KUT Radio, Austin's NPR Station",
+     "comments": 14,
+     "retrieved": 17
+    }
+   ]
+  },
+  "Houston": {
+   "subreddits": [
+    "houston"
+   ],
+   "threads": 12,
+   "commentsRead": 1217,
+   "dialStations": [
+    {
+     "id": "us-krbe",
+     "name": "104.1 KRBE",
+     "commenters": 14,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kuhf",
+     "name": "Houston Public Media News 88.7",
+     "commenters": 11
+    },
+    {
+     "id": "us-ktsu",
+     "name": "KTSU 90.9 The Choice",
+     "commenters": 11
+    },
+    {
+     "id": "us-koda",
+     "name": "Sunny 99.1",
+     "commenters": 6
+    },
+    {
+     "id": "us-ktbz",
+     "name": "94.5 The Buzz",
+     "commenters": 5
+    },
+    {
+     "id": "us-ktrh",
+     "name": "KTRH NewsRadio 740",
+     "commenters": 5
+    },
+    {
+     "id": "us-kmjq",
+     "name": "Majic 102.1",
+     "commenters": 4
+    },
+    {
+     "id": "us-kkbq",
+     "name": "93Q Country",
+     "commenters": 3
+    },
+    {
+     "id": "us-kbxx",
+     "name": "97.9 The Box",
+     "commenters": 2
+    },
+    {
+     "id": "us-kglk",
+     "name": "The Eagle 106.9 & 107.5",
+     "commenters": 0
+    },
+    {
+     "id": "us-kove",
+     "name": "Amor 106.5",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KPFT 90.1",
+     "commenters": 37,
+     "reason": "no stream Dial can play"
+    },
+    {
+     "station": "KTRU",
+     "commenters": 22,
+     "reason": "the call sign now belongs to a station in La Harpe, Kansas; Rice's KTRU has no Houston FM licence"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/houston/comments/17lelmp/",
+     "title": "In the 70's-80's, Radio was our Internet. What were you tuned into?",
+     "comments": 308,
+     "retrieved": 300
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/17ladv2/",
+     "title": "We now have zero radio stations that play Willie Nelson",
+     "comments": 202,
+     "retrieved": 207
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1avy7vt/",
+     "title": "FM radio stations ",
+     "comments": 168,
+     "retrieved": 177
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/19eul44/",
+     "title": "The ATT radio commercial where a Mexican-American is talking about Norteños and the son goes “I know, but this is Houston, people want to hear our queen” who is the queen they’re talking about? Beyonce?",
+     "comments": 152,
+     "retrieved": 166
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1ivcsh3/",
+     "title": "Do radio hosts not get tired of listening to the same songs?",
+     "comments": 104,
+     "retrieved": 117
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1w6q5zs/",
+     "title": "Anyone remember the Houston radio station that only played 80s music?",
+     "comments": 77,
+     "retrieved": 91
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1q5m9oh/",
+     "title": "Any good news radio stations?",
+     "comments": 67,
+     "retrieved": 70
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/16vt11n/",
+     "title": "Y'all know what we need in Houston. A good R & B radio station. There's not one station that ever plays R & B. I know there's streaming but I wanna flip to it on my radio.",
+     "comments": 56,
+     "retrieved": 60
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/16vyqvz/",
+     "title": "What’s your favorite Houston radio station?",
+     "comments": 49,
+     "retrieved": 51
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1aluqzi/",
+     "title": "What Was The Radio Show With The Host Who Did Characters?",
+     "comments": 44,
+     "retrieved": 45
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1iibq7l/",
+     "title": "Why doesn't Houston have a progressive/left leaning radio station?",
+     "comments": 39,
+     "retrieved": 41
+    },
+    {
+     "url": "https://www.reddit.com/r/houston/comments/1r26gl4/",
+     "title": "Mystery Radio Station?",
+     "comments": 32,
+     "retrieved": 33
+    }
+   ]
+  },
+  "Portland": {
+   "subreddits": [
+    "Portland"
+   ],
+   "threads": 15,
+   "commentsRead": 743,
+   "dialStations": [
+    {
+     "id": "us-kmhd",
+     "name": "KMHD",
+     "commenters": 66
+    },
+    {
+     "id": "us-knrk",
+     "name": "94/7 Alternative",
+     "commenters": 6
+    },
+    {
+     "id": "us-kqac",
+     "name": "All Classical",
+     "commenters": 5
+    },
+    {
+     "id": "us-kink",
+     "name": "101.9 KINK",
+     "commenters": 3
+    },
+    {
+     "id": "us-kgon",
+     "name": "92.3 KGON",
+     "commenters": 3
+    },
+    {
+     "id": "us-kopb",
+     "name": "OPB Radio",
+     "commenters": 1
+    },
+    {
+     "id": "us-klth",
+     "name": "106.7 The Eagle",
+     "commenters": 1
+    },
+    {
+     "id": "us-kxl",
+     "name": "FM News 101 KXL",
+     "commenters": 0
+    },
+    {
+     "id": "us-kxjm",
+     "name": "Jam'n 107.5",
+     "commenters": 0
+    },
+    {
+     "id": "us-kwjj",
+     "name": "99.5 The Wolf",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KBOO 90.7",
+     "commenters": 25,
+     "reason": "stream server lacks forward secrecy, so App Transport Security blocks it"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/tfqzx9/",
+     "title": "Hey, Portland area radio stations, please know that I change the station every time I hear an ad for Leif's auto collision center.",
+     "comments": 452,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/1dkkz45/",
+     "title": "I’ve never been to Portland but you guys have one of the best jazz radio stations in the country",
+     "comments": 154,
+     "retrieved": 162
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/lvkpu5/",
+     "title": "Think local radio sucks? Why not make it better by becoming a DJ yourself?",
+     "comments": 74,
+     "retrieved": 77
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/ahmwav/",
+     "title": "Mt. Hood Community College Seeks Return Of Jazz Radio Station KMHD . News | OPB",
+     "comments": 66,
+     "retrieved": 68
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/1oc3c25/",
+     "title": "Non-Portlander here, just curious about how big this one radio station is",
+     "comments": 58,
+     "retrieved": 59
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/m4rvi6/",
+     "title": "What radio stations do you all listen to?",
+     "comments": 54,
+     "retrieved": 61
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/n7ubxs/",
+     "title": "Why can’t we have a great 24/7 alt music radio station?",
+     "comments": 47,
+     "retrieved": 49
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/ln5f64/",
+     "title": "Can we please kill off one of our radio stations and start something like the old Area 54 show that plays 24hours?",
+     "comments": 42,
+     "retrieved": 45
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/ajmfol/",
+     "title": "What do I do about CB radio signals interfering with bedroom speakers?",
+     "comments": 37,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/ktay1q/",
+     "title": "We are a fully licensed Portland based radio station that was born in April due to the lockdown! We want to play your songs on our Sunday show! Tune in and join the community listening party! Check out the schedule while you are there too!",
+     "comments": 35,
+     "retrieved": 39
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/ddpyio/",
+     "title": "What radio station do people listen to?",
+     "comments": 34,
+     "retrieved": 43
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/kwwo4l/",
+     "title": "This unknown alternative rock song was recorded from a now defunct Portland radio station (KXYQ Q105) in 1989-90. So far nobody can identify the song so it may be a forgotten local band. Does anyone recognize it?",
+     "comments": 29,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/q64miq/",
+     "title": "Anyone getting weird radio signal picked up through speaker wires?",
+     "comments": 28,
+     "retrieved": 31
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/t9mpv1/",
+     "title": "XRAY.FM Portland Oregon radio station sticker",
+     "comments": 25,
+     "retrieved": 26
+    },
+    {
+     "url": "https://www.reddit.com/r/Portland/comments/mfcm6l/",
+     "title": "What are the good fm radio stations in Portland?",
+     "comments": 24,
+     "retrieved": 27
+    }
+   ]
+  },
+  "Detroit": {
+   "subreddits": [
+    "Detroit"
+   ],
+   "threads": 12,
+   "commentsRead": 782,
+   "dialStations": [
+    {
+     "id": "us-wdet",
+     "name": "WDET 101.9",
+     "commenters": 19
+    },
+    {
+     "id": "us-wrif",
+     "name": "101 WRIF",
+     "commenters": 16
+    },
+    {
+     "id": "us-wwj",
+     "name": "WWJ Newsradio 950",
+     "commenters": 8
+    },
+    {
+     "id": "us-wrcj",
+     "name": "WRCJ 90.9",
+     "commenters": 6
+    },
+    {
+     "id": "us-wjlb",
+     "name": "97.9 WJLB",
+     "commenters": 6
+    },
+    {
+     "id": "us-wcsx",
+     "name": "94.7 WCSX",
+     "commenters": 5
+    },
+    {
+     "id": "us-wxyt",
+     "name": "97.1 The Ticket",
+     "commenters": 4
+    },
+    {
+     "id": "us-wuom",
+     "name": "Michigan Public 91.7",
+     "commenters": 2
+    },
+    {
+     "id": "us-wmxd",
+     "name": "Mix 92.3",
+     "commenters": 0
+    },
+    {
+     "id": "us-wycd",
+     "name": "99.5 WYCD",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/18up1un/",
+     "title": "Why do the radio stations REALLY suck?",
+     "comments": 183,
+     "retrieved": 185
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1i1yomu/",
+     "title": "What are the best sports talk radio shows in Detroit? ",
+     "comments": 136,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1d5s2qm/",
+     "title": "Favorite radio memories",
+     "comments": 116,
+     "retrieved": 120
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/15uvcg9/",
+     "title": "What are your radio station presets in your car?",
+     "comments": 78,
+     "retrieved": 83
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1dcjnwg/",
+     "title": "Detroit Gets Its First Black-Owned Sports Radio Station \n",
+     "comments": 68,
+     "retrieved": 73
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/urbma9/",
+     "title": "Regular, “centrist” news radio in the detroit metro??",
+     "comments": 49,
+     "retrieved": 50
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/y4vkxa/",
+     "title": "Anybody know of any edm radio stations near Detroit?",
+     "comments": 43,
+     "retrieved": 43
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1fntdz6/",
+     "title": "Is WJR radio trying to shed its right-wing bias? [Metro Times column]",
+     "comments": 41,
+     "retrieved": 47
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1rrx5vs/",
+     "title": "What’s the best radio station in the Detroit Metro area for house and techno?",
+     "comments": 32,
+     "retrieved": 34
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1006rjj/",
+     "title": "Who was Detroit 98.7 Alt Radio #1 Voted Musician?",
+     "comments": 31,
+     "retrieved": 31
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/1675gsx/",
+     "title": "From Black talk radio to right-wing outrage, 910AM Superstation makes a dramatic shift",
+     "comments": 30,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Detroit/comments/t5e7og/",
+     "title": "This Was My Favorite Radio Station",
+     "comments": 30,
+     "retrieved": 30
+    }
+   ]
+  },
+  "Atlanta": {
+   "subreddits": [
+    "Atlanta"
+   ],
+   "threads": 15,
+   "commentsRead": 1036,
+   "dialStations": [
+    {
+     "id": "us-wrek",
+     "name": "WREK 91.1",
+     "commenters": 46,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wras",
+     "name": "Album 88",
+     "commenters": 42
+    },
+    {
+     "id": "us-wabe",
+     "name": "WABE 90.1",
+     "commenters": 30
+    },
+    {
+     "id": "us-wrfg",
+     "name": "WRFG 89.3",
+     "commenters": 23,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wclk",
+     "name": "Jazz 91.9 WCLK",
+     "commenters": 15
+    },
+    {
+     "id": "us-wsrv",
+     "name": "97.1 The River",
+     "commenters": 8
+    },
+    {
+     "id": "us-wsb",
+     "name": "WSB 750",
+     "commenters": 7
+    },
+    {
+     "id": "us-wvee",
+     "name": "V-103",
+     "commenters": 2
+    },
+    {
+     "id": "us-wzgc",
+     "name": "92.9 The Game",
+     "commenters": 2
+    },
+    {
+     "id": "us-whta",
+     "name": "Hot 107.9",
+     "commenters": 2
+    },
+    {
+     "id": "us-wamj",
+     "name": "Majic 107.5",
+     "commenters": 0
+    },
+    {
+     "id": "us-wubl",
+     "name": "94.9 The Bull",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/g4t2zh/",
+     "title": "Why does Atlanta have such bad luck with Alternative Radio Stations",
+     "comments": 307,
+     "retrieved": 200
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/aww9le/",
+     "title": "Why are all the radio stations here so crappy?",
+     "comments": 138,
+     "retrieved": 144
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1r3hwke/",
+     "title": "What is everyone's favorite radio station?",
+     "comments": 115,
+     "retrieved": 122
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1vhcals/",
+     "title": "Can we talk about Atlanta radio shows?",
+     "comments": 100,
+     "retrieved": 109
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/10bajbq/",
+     "title": "Atlanta's Best Radio",
+     "comments": 96,
+     "retrieved": 98
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/ztvhps/",
+     "title": "'Same as it ever was!' Radio station 99x is back on Rock 100.5's old signal - Rough Draft Atlanta",
+     "comments": 94,
+     "retrieved": 99
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/x2uepy/",
+     "title": "What do you all think about WREK radio station (91.1 FM)? I just discovered it and it'so weird. I kind of like it.",
+     "comments": 74,
+     "retrieved": 74
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/rbapp5/",
+     "title": "What are your favorite Atlanta radio stations?",
+     "comments": 65,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1rdz642/",
+     "title": "Does anyone else think the Top Dog Law radio ads are the most annoying thing on the planet?",
+     "comments": 49,
+     "retrieved": 55
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1vkvd1a/",
+     "title": "Ask Me Anything! I'm the politics reporter at Atlanta's public radio station WABE.",
+     "comments": 37,
+     "retrieved": 49
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/ecvnxx/",
+     "title": "Kars4Kids advertises heavily on Atlanta radio stations. They have an overall Charity Navigator score of 75 and a financial score of 65.",
+     "comments": 37,
+     "retrieved": 38
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1f57jj2/",
+     "title": "Radio stations",
+     "comments": 25,
+     "retrieved": 26
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1vnfx85/",
+     "title": "Any good regular radio shows?",
+     "comments": 21,
+     "retrieved": 25
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/ww5d1r/",
+     "title": "What are some popular fm radio stations in Atlanta for Indie Rock/Alternative? What are some college stations?",
+     "comments": 21,
+     "retrieved": 21
+    },
+    {
+     "url": "https://www.reddit.com/r/Atlanta/comments/1sz5o29/",
+     "title": "Favorite radio station for trap music",
+     "comments": 19,
+     "retrieved": 20
+    }
+   ]
+  },
+  "Toronto": {
+   "subreddits": [
+    "toronto"
+   ],
+   "threads": 16,
+   "commentsRead": 860,
+   "dialStations": [
+    {
+     "id": "ca-ciut",
+     "name": "CIUT 89.5",
+     "commenters": 17,
+     "addedForReddit": true
+    },
+    {
+     "id": "ca-cbla",
+     "name": "CBC Radio One Toronto",
+     "commenters": 15
+    },
+    {
+     "id": "ca-chfi",
+     "name": "98.1 CHFI",
+     "commenters": 10
+    },
+    {
+     "id": "ca-cbl",
+     "name": "CBC Music Toronto",
+     "commenters": 9
+    },
+    {
+     "id": "ca-ckis",
+     "name": "KiSS 92.5",
+     "commenters": 6
+    },
+    {
+     "id": "ca-cfmz",
+     "name": "Classical 96.3",
+     "commenters": 6
+    },
+    {
+     "id": "ca-cftr",
+     "name": "680 NewsRadio",
+     "commenters": 4
+    },
+    {
+     "id": "ca-cfrb",
+     "name": "Newstalk 1010",
+     "commenters": 3
+    },
+    {
+     "id": "ca-cilq",
+     "name": "Q107",
+     "commenters": 3
+    },
+    {
+     "id": "ca-cjrt",
+     "name": "Jazz FM91",
+     "commenters": 1
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/qw64pa/",
+     "title": "CBC Radio most listened to station in Toronto",
+     "comments": 413,
+     "retrieved": 442
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/x2hnmt/",
+     "title": "Canadian Radio Stations Pull Arcade Fire Music As Band Kicks Off Tour",
+     "comments": 215,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/stfac5/",
+     "title": "Iconic radio station Flow 93.5 gutted again and Toronto hip hop fans are outraged",
+     "comments": 172,
+     "retrieved": 185
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/116fi6g/",
+     "title": "Seeking FM Radio Recommendations",
+     "comments": 79,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/q3k2iu/",
+     "title": "Toronto resto Alo is on the world's best list and the chef says it's just the boost he needs right now | CBC Radio",
+     "comments": 52,
+     "retrieved": 53
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/ul1n96/",
+     "title": "American Radio/TV stations in Toronto/Southern Ontario",
+     "comments": 40,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1obpym2/",
+     "title": "I've been listening to the Jays on the radio, but will admit this is excellent camerawork.",
+     "comments": 38,
+     "retrieved": 42
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/rdo10o/",
+     "title": "Toronto Radio stations popularity according to twitter followers",
+     "comments": 27,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1k0nmz3/",
+     "title": "What's with the signal/radio interference along this stretch of Jane Street?",
+     "comments": 26,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/y0sh1t/",
+     "title": "New HD radio station in Toronto on 93.5 HD2",
+     "comments": 21,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1skwatk/",
+     "title": "Holy Mackinaw, what a tribute 💙 The Maple Leafs honour Joe Bowen during his final home game on the radio call 🥹",
+     "comments": 19,
+     "retrieved": 20
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1bog1l2/",
+     "title": "Radio Stations Without Ads",
+     "comments": 13,
+     "retrieved": 13
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/11bof79/",
+     "title": "Bought an old car with no bluetooth. What’s the best 6 station radio combo to set as my favourites!? I like all music genres so trying to get a taste of everything Toronto radio has to offer. This is what I have so far but it’s based on what I remember from 15 years ago.",
+     "comments": 10,
+     "retrieved": 10
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1gfuwh8/",
+     "title": "What's the deal with Spence commercials on the radio",
+     "comments": 10,
+     "retrieved": 10
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1jrc43m/",
+     "title": "Toronto's radio station based in a shipping container shutting down after 6 years",
+     "comments": 9,
+     "retrieved": 14
+    },
+    {
+     "url": "https://www.reddit.com/r/toronto/comments/1qnftao/",
+     "title": "PSA: You can listen to TTCs transit control radio broadcast online",
+     "comments": 5,
+     "retrieved": 12
+    }
+   ]
+  },
+  "Vancouver": {
+   "subreddits": [
+    "vancouver"
+   ],
+   "threads": 12,
+   "commentsRead": 268,
+   "dialStations": [
+    {
+     "id": "ca-ckpk",
+     "name": "102.7 The Peak",
+     "commenters": 4
+    },
+    {
+     "id": "ca-cbu-am",
+     "name": "CBC Radio One Vancouver",
+     "commenters": 3
+    },
+    {
+     "id": "ca-cknw",
+     "name": "730 CKNW",
+     "commenters": 3
+    },
+    {
+     "id": "ca-citr",
+     "name": "CiTR 101.9",
+     "commenters": 2
+    },
+    {
+     "id": "ca-cbu-fm",
+     "name": "CBC Music Vancouver",
+     "commenters": 1
+    },
+    {
+     "id": "ca-cjax",
+     "name": "JACK 96.9",
+     "commenters": 1
+    },
+    {
+     "id": "ca-cjjr",
+     "name": "JR Country 93.7",
+     "commenters": 0
+    },
+    {
+     "id": "ca-ckye",
+     "name": "RED FM 93.1",
+     "commenters": 0
+    },
+    {
+     "id": "ca-cbuf",
+     "name": "ICI Radio-Canada Première",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1uq3dj3/",
+     "title": "'Difficult but necessary decision': Rogers takes two well-known Vancouver radio stations off the air",
+     "comments": 174,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1rdwyph/",
+     "title": "Throwback Vancouver Radio Station Decals/Stickers",
+     "comments": 107,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/140g91c/",
+     "title": "Your favorite local radio station ?",
+     "comments": 51,
+     "retrieved": 52
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/17fn92s/",
+     "title": "Best radio station in Vancouver between 1970-2023?",
+     "comments": 28,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1nup7ot/",
+     "title": "Shots fired at South Asian radio station Swift 1200 AM in Surrey",
+     "comments": 27,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/17qximt/",
+     "title": "Did this Z95.3 Radio Competition actually happen??",
+     "comments": 24,
+     "retrieved": 30
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/18ep841/",
+     "title": "Is there any radio station similar to KEXP located in Vancouver?",
+     "comments": 21,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1i1tbw0/",
+     "title": "Z95.3 Radio sticker found on a light pole in Erlangen, Germany",
+     "comments": 21,
+     "retrieved": 22
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1ric9tt/",
+     "title": "Radio station shutters its AM channel after 30 years on the air",
+     "comments": 18,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1i37ke0/",
+     "title": "Who misses Drive730 Radio?",
+     "comments": 17,
+     "retrieved": 22
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1w9e2dc/",
+     "title": "CBC Radio One, 88.1 fm silent?",
+     "comments": 15,
+     "retrieved": 15
+    },
+    {
+     "url": "https://www.reddit.com/r/vancouver/comments/1vtxce8/",
+     "title": "What's a good radio station for local news/traffic?   ",
+     "comments": 14,
+     "retrieved": 15
+    }
+   ]
+  },
+  "Montreal": {
+   "subreddits": [
+    "montreal"
+   ],
+   "threads": 16,
+   "commentsRead": 418,
+   "dialStations": [
+    {
+     "id": "ca-cbf",
+     "name": "ICI Radio-Canada Première",
+     "commenters": 17
+    },
+    {
+     "id": "ca-ckut",
+     "name": "CKUT 90.3",
+     "commenters": 4
+    },
+    {
+     "id": "ca-cbfx",
+     "name": "ICI Musique",
+     "commenters": 3
+    },
+    {
+     "id": "ca-cibl",
+     "name": "CIBL 101.5",
+     "commenters": 3
+    },
+    {
+     "id": "ca-cjad",
+     "name": "CJAD 800",
+     "commenters": 2
+    },
+    {
+     "id": "ca-cbme",
+     "name": "CBC Radio One Montreal",
+     "commenters": 1
+    },
+    {
+     "id": "ca-cbm",
+     "name": "CBC Music Montreal",
+     "commenters": 1
+    },
+    {
+     "id": "ca-cjpx",
+     "name": "QUB radio 99.5",
+     "commenters": 0
+    },
+    {
+     "id": "ca-ckvl",
+     "name": "CKVL 100.1",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1oguml2/",
+     "title": "Christian Dubé sera à TLMEP ce soir. Une manifestation s'organise devant Radio-Canada dès 18h30. La CAQ s'apprête à léguer un cataclysme aux générations futures. Il faut les en empêcher.",
+     "comments": 92,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/wqx9f9/",
+     "title": "Meilleure chaîne radio anglophone?",
+     "comments": 52,
+     "retrieved": 53
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/bdshg2/",
+     "title": "PROCHAIN ARRÊT… SILENCE RADIO ?",
+     "comments": 45,
+     "retrieved": 48
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1gi8562/",
+     "title": "Anyone else heard that weird message on the radio?",
+     "comments": 43,
+     "retrieved": 45
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1h7ngi5/",
+     "title": "Pourquoi radio-canada ne couvre pas la mort du CEO de UnitedHealthcare? ",
+     "comments": 32,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/18rdhib/",
+     "title": "Radio francophone, quel poste est bon?",
+     "comments": 26,
+     "retrieved": 26
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/agzop0/",
+     "title": "What talk-radio stations do you listen to?",
+     "comments": 25,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/yh10x2/",
+     "title": "Energie 94.3 vs CKOI 96.9 or another french radio station",
+     "comments": 25,
+     "retrieved": 25
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1j9xo48/",
+     "title": "CBC/Radio-Canada, un service public menacé ?",
+     "comments": 18,
+     "retrieved": 20
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1of27vc/",
+     "title": "Qu'en pensez vous sur l'accent de Jean-Michel Leprince, journaliste de Radio-Canada?",
+     "comments": 18,
+     "retrieved": 18
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1dtpd35/",
+     "title": "Anyone work at a radio station ?",
+     "comments": 15,
+     "retrieved": 15
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1okvq3h/",
+     "title": "Beyonce is arguably one of the biggest music artists in North America. So why don't we hear any of her music on Montreal radio stations? Or am I listening to the wrong stations?",
+     "comments": 13,
+     "retrieved": 14
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1asazel/",
+     "title": "Radio heavy metal Montréal ?",
+     "comments": 10,
+     "retrieved": 10
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1qd4zjz/",
+     "title": "Montreal Radio Station Suggestions",
+     "comments": 8,
+     "retrieved": 9
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1h46ngl/",
+     "title": "xmas radio station!",
+     "comments": 7,
+     "retrieved": 8
+    },
+    {
+     "url": "https://www.reddit.com/r/montreal/comments/1dvnkez/",
+     "title": "PSA: if you go watch the fireworks competition, bring a FM radio and listen to the soundtrack at 105.7fm",
+     "comments": 6,
+     "retrieved": 6
+    }
+   ]
+  },
+  "Boston": {
+   "subreddits": [
+    "boston"
+   ],
+   "threads": 17,
+   "commentsRead": 1343,
+   "dialStations": [
+    {
+     "id": "us-wers",
+     "name": "WERS 88.9",
+     "commenters": 35
+    },
+    {
+     "id": "us-weei",
+     "name": "WEEI 93.7",
+     "commenters": 30
+    },
+    {
+     "id": "us-wgbh",
+     "name": "GBH 89.7",
+     "commenters": 26
+    },
+    {
+     "id": "us-wbz",
+     "name": "WBZ NewsRadio 1030",
+     "commenters": 21
+    },
+    {
+     "id": "us-wbur",
+     "name": "WBUR",
+     "commenters": 18
+    },
+    {
+     "id": "us-wcrb",
+     "name": "CRB Classical 99.5",
+     "commenters": 17
+    },
+    {
+     "id": "us-wmbr",
+     "name": "WMBR 88.1",
+     "commenters": 15,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wzbc",
+     "name": "WZBC 90.3",
+     "commenters": 14,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wxrv",
+     "name": "92.5 The River",
+     "commenters": 9
+    },
+    {
+     "id": "us-wzlx",
+     "name": "100.7 WZLX",
+     "commenters": 6
+    },
+    {
+     "id": "us-wxks",
+     "name": "Kiss 108",
+     "commenters": 6
+    },
+    {
+     "id": "us-wklb",
+     "name": "Country 102.5",
+     "commenters": 1
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1abxnab/",
+     "title": "Do you still sing or whistle any old radio jingles from the Boston area?",
+     "comments": 243,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1vclew5/",
+     "title": "What radio station do you listen to?",
+     "comments": 225,
+     "retrieved": 230
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1nykqhw/",
+     "title": "2% of Republicans feel very safe in Boston, versus 55% of Democrats. Just 3% of conservative radio listeners feel very safe in Boston, versus >50% of CNN/MSNBC/local news listeners. 4% of Republicans are opposed to increased ICE deployment in Boston; 93% of Democrats are opposed [N=761 MA residents]",
+     "comments": 217,
+     "retrieved": 260
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/14mzz7q/",
+     "title": "Is Wiggy (Jermaine Wiggins) on WEEI sports radio one of the dumbest people alive?",
+     "comments": 142,
+     "retrieved": 150
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/ccdlo4/",
+     "title": "Longtime radio personality Gerry Callahan out at WEEI after 20 years at the station",
+     "comments": 112,
+     "retrieved": 121
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/18c75lj/",
+     "title": "GBH Listeners: What Are Your Thoughts on Boston Public Radio?",
+     "comments": 73,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1fjapp8/",
+     "title": "What will happen to Boston Public Radio when Jim and Margery eventually retire?",
+     "comments": 73,
+     "retrieved": 84
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/hs81lo/",
+     "title": "What was was the best year for Boston Radio?",
+     "comments": 72,
+     "retrieved": 75
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/s9dzpl/",
+     "title": "Rock N' Roll Radio - Only for old folk?",
+     "comments": 64,
+     "retrieved": 68
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/17bgsxp/",
+     "title": "Do you listen to AM Radio?",
+     "comments": 62,
+     "retrieved": 68
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/o0i0a8/",
+     "title": "What Boston area radio stations do you listen to?",
+     "comments": 58,
+     "retrieved": 62
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/yao2u0/",
+     "title": "Did I miss something? Why is WGBH Radio in Spanish?",
+     "comments": 56,
+     "retrieved": 62
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1j9xw8z/",
+     "title": "Dept of Homeland Security Radio Spot Threats??!!!",
+     "comments": 41,
+     "retrieved": 43
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1lgxnn6/",
+     "title": "Shoutout to the best radio station, I still miss it",
+     "comments": 36,
+     "retrieved": 38
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1enzcyz/",
+     "title": "Classical music fans, why does the radio here suck?",
+     "comments": 30,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/1i0k538/",
+     "title": "What's a good local Boston radio show?",
+     "comments": 29,
+     "retrieved": 29
+    },
+    {
+     "url": "https://www.reddit.com/r/boston/comments/199oz0i/",
+     "title": "Radio station for an alarm clock?",
+     "comments": 25,
+     "retrieved": 0
+    }
+   ]
+  },
+  "Dallas–Fort Worth": {
+   "subreddits": [
+    "Dallas",
+    "FortWorth"
+   ],
+   "threads": 12,
+   "commentsRead": 1419,
+   "dialStations": [
+    {
+     "id": "us-knon",
+     "name": "KNON 89.3",
+     "commenters": 28,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kera",
+     "name": "KERA 90.1",
+     "commenters": 20
+    },
+    {
+     "id": "us-wrr",
+     "name": "Classical WRR 101.1",
+     "commenters": 15
+    },
+    {
+     "id": "us-krld-fm",
+     "name": "105.3 The Fan",
+     "commenters": 9
+    },
+    {
+     "id": "us-kntu",
+     "name": "Indie 88",
+     "commenters": 7
+    },
+    {
+     "id": "us-kkxt",
+     "name": "KXT 91.7",
+     "commenters": 6
+    },
+    {
+     "id": "us-krld-am",
+     "name": "NewsRadio 1080 KRLD",
+     "commenters": 5
+    },
+    {
+     "id": "us-kkda",
+     "name": "K104",
+     "commenters": 1
+    },
+    {
+     "id": "us-kzps",
+     "name": "Lone Star 92.5",
+     "commenters": 1
+    },
+    {
+     "id": "us-khks",
+     "name": "106.1 Kiss FM",
+     "commenters": 0
+    },
+    {
+     "id": "us-kmvk",
+     "name": "La Grande 107.5",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1aet6a4/",
+     "title": "What happened to our Radio Stations",
+     "comments": 276,
+     "retrieved": 200
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/ys1the/",
+     "title": "Dallas Rock radio stations suck so bad these are my presets",
+     "comments": 248,
+     "retrieved": 256
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1buuvqp/",
+     "title": "Good morning, Dallas! What FM radio station do you listen to? Getting tired of hearing the same songs on the Spot every day. ",
+     "comments": 194,
+     "retrieved": 199
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1g592h1/",
+     "title": "Favorite DFW radio station?",
+     "comments": 140,
+     "retrieved": 141
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1rjxcey/",
+     "title": "Did you know that we (Dallas taxpayers) paid over $220 million for those annoying Kristi Noem ads that are all over Dallas radio/TV? How do you feel about that?",
+     "comments": 139,
+     "retrieved": 143
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1i9bob9/",
+     "title": "Radio station KLTY-FM shutting down after 40 years",
+     "comments": 112,
+     "retrieved": 119
+    },
+    {
+     "url": "https://www.reddit.com/r/FortWorth/comments/y8yl47/",
+     "title": "Can't listen to radio or watch TV in this town until after the election",
+     "comments": 92,
+     "retrieved": 94
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1ay5roq/",
+     "title": "I understand Radio is dead, but can we ban to oust Casey Bartholomew?",
+     "comments": 76,
+     "retrieved": 79
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/suay5c/",
+     "title": "Full FM/AM HD Radio station list",
+     "comments": 58,
+     "retrieved": 60
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/prat6h/",
+     "title": "Since Fry’s and Radio Shack are gone, where do you go to get electronics parts in the Metroplex if you want to build/fix something?",
+     "comments": 55,
+     "retrieved": 57
+    },
+    {
+     "url": "https://www.reddit.com/r/Dallas/comments/1dyaj95/",
+     "title": "Does sports radio KTCK in Dallas have a diversity problem? ",
+     "comments": 54,
+     "retrieved": 61
+    },
+    {
+     "url": "https://www.reddit.com/r/FortWorth/comments/1qv2w1s/",
+     "title": "What's your favorite radio station?",
+     "comments": 52,
+     "retrieved": 59
+    }
+   ]
+  },
+  "Chicago": {
+   "subreddits": [
+    "chicago"
+   ],
+   "threads": 12,
+   "commentsRead": 879,
+   "dialStations": [
+    {
+     "id": "us-wxrt",
+     "name": "93XRT",
+     "commenters": 35
+    },
+    {
+     "id": "us-wscr",
+     "name": "104.3 The Score",
+     "commenters": 15
+    },
+    {
+     "id": "us-wgn",
+     "name": "WGN Radio 720",
+     "commenters": 11
+    },
+    {
+     "id": "us-wbez",
+     "name": "WBEZ",
+     "commenters": 7
+    },
+    {
+     "id": "us-wcxp",
+     "name": "CHIRP Radio",
+     "commenters": 7
+    },
+    {
+     "id": "us-wgci",
+     "name": "WGCI 107.5",
+     "commenters": 5
+    },
+    {
+     "id": "us-wfmt",
+     "name": "WFMT",
+     "commenters": 4
+    },
+    {
+     "id": "us-wbbm",
+     "name": "WBBM Newsradio",
+     "commenters": 3
+    },
+    {
+     "id": "us-wdrv",
+     "name": "97.1 The Drive",
+     "commenters": 2
+    },
+    {
+     "id": "us-wvaz",
+     "name": "V103",
+     "commenters": 0
+    },
+    {
+     "id": "us-wusn",
+     "name": "US99",
+     "commenters": 0
+    },
+    {
+     "id": "us-wojo",
+     "name": "Que Buena 105.1",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/13u6733/",
+     "title": "What radio DJs did you listen to growing up in Chicago?",
+     "comments": 417,
+     "retrieved": 300
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/vn3kjf/",
+     "title": "Who is your all-time favorite Chicago radio host?",
+     "comments": 370,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/1dxtcy7/",
+     "title": "Besides 97.9 The Loop, what’s one radio station/radio format you would bring back?",
+     "comments": 306,
+     "retrieved": 319
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/188dcl8/",
+     "title": "Question for those of you who listen to Chicago Sports Radio",
+     "comments": 87,
+     "retrieved": 87
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/11z1iio/",
+     "title": "[Discussion] - Hey Chicago! What’s your favorite radio station that you listen to?",
+     "comments": 47,
+     "retrieved": 54
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/15ngozl/",
+     "title": "Found this pic of my late father doing a WGN radio experiment. Anyone know more about this?",
+     "comments": 40,
+     "retrieved": 40
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/1fdqxuu/",
+     "title": "Chicago Radio Drama https://barrettmedia.com/2024/09/10/dave-portnoy-tells-stoolies-to-zone-in-on-670-the-score-host-dan-bernstein-after-confrontation-with-barstool-eddie/?amp",
+     "comments": 28,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/18glorl/",
+     "title": "Once upon a time there was the radio station WLUP, and what a wild place it was",
+     "comments": 23,
+     "retrieved": 24
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/189iwil/",
+     "title": "Why do we not have an 80’s to Now [AC] radio station?",
+     "comments": 18,
+     "retrieved": 23
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/1dkgzf3/",
+     "title": "XRT radio station",
+     "comments": 13,
+     "retrieved": 14
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/x0su2x/",
+     "title": "\"The smoothest place on your radio, WNUA 95.5 Smooth Jazz Chicago\": A playlist dedicated to remembering this great station that ran from 1987-2009. Enjoy!",
+     "comments": 13,
+     "retrieved": 13
+    },
+    {
+     "url": "https://www.reddit.com/r/chicago/comments/1e50zt4/",
+     "title": "Does anyone have any recordings of the old 90's radio ads by The Alley?",
+     "comments": 12,
+     "retrieved": 0
+    }
+   ]
+  },
+  "Miami": {
+   "subreddits": [
+    "Miami"
+   ],
+   "threads": 12,
+   "commentsRead": 736,
+   "dialStations": [
+    {
+     "id": "us-wlrn",
+     "name": "WLRN News",
+     "commenters": 14
+    },
+    {
+     "id": "us-wedr",
+     "name": "99 Jamz",
+     "commenters": 3
+    },
+    {
+     "id": "us-wamr",
+     "name": "Amor 107.5",
+     "commenters": 1
+    },
+    {
+     "id": "us-wbgg",
+     "name": "Big 105.9",
+     "commenters": 1
+    },
+    {
+     "id": "us-wlrn-classical",
+     "name": "WLRN Classical",
+     "commenters": 0
+    },
+    {
+     "id": "us-wmia",
+     "name": "Magic 93.9",
+     "commenters": 0
+    },
+    {
+     "id": "us-whqt",
+     "name": "Hot 105",
+     "commenters": 0
+    },
+    {
+     "id": "us-wcmq",
+     "name": "Zeta 92.3",
+     "commenters": 0
+    },
+    {
+     "id": "us-wxdj",
+     "name": "El Zol 106.7",
+     "commenters": 0
+    },
+    {
+     "id": "us-whyi",
+     "name": "Y100",
+     "commenters": 0
+    },
+    {
+     "id": "us-wkis",
+     "name": "Kiss Country 99.9",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1cxidmv/",
+     "title": "Rideshare Drivers Blasting Political Radio Stations",
+     "comments": 216,
+     "retrieved": 235
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/zkdxgg/",
+     "title": "Anyone listens to miami radio ?",
+     "comments": 190,
+     "retrieved": 194
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1d019mr/",
+     "title": "What’s your go to South Florida radio station , and what kind of music do they play ?",
+     "comments": 93,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1qswxpe/",
+     "title": "Anybody happen to remember around 1999-2000 a nightclub advertising on the radio their “thong night”? Where if you showed the guys that worked there your thong you’d get a free drink.",
+     "comments": 64,
+     "retrieved": 76
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1x0ukzi/",
+     "title": "Trick Daddy and Trina will host a radio station in GTA VI",
+     "comments": 60,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1mkjl9m/",
+     "title": "Best radio stations in Miami?",
+     "comments": 47,
+     "retrieved": 61
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/cmayb7/",
+     "title": "Three hosts dismissed, Le Batard and other shows change stations, in radio overhaul WQAM 560 and 790 The Ticket",
+     "comments": 32,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/d77nta/",
+     "title": "Does anyone remember this song being on the radio all the time back in the 80's?",
+     "comments": 31,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/1iipqmo/",
+     "title": "Longshot but do you guys know if there is a Spanish radio station that isn’t conservative?",
+     "comments": 20,
+     "retrieved": 24
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/16gt954/",
+     "title": "Is pirate radio still a thing?",
+     "comments": 15,
+     "retrieved": 15
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/dvkssy/",
+     "title": "ZOL 95.7 Miami DJ's prank called Fidel Castro in 2003. They pretended to be Venezuelan President Hugo Chavez to get Castro on the line, and had a brief chat before telling Castro he had been fooled. Castro responded with a brief verbal tirade. The radio station was later fined $4,000",
+     "comments": 15,
+     "retrieved": 17
+    },
+    {
+     "url": "https://www.reddit.com/r/Miami/comments/s7flr4/",
+     "title": "Is Radio Mambi still a thing?",
+     "comments": 12,
+     "retrieved": 13
+    }
+   ]
+  },
+  "San Diego": {
+   "subreddits": [
+    "sandiego"
+   ],
+   "threads": 12,
+   "commentsRead": 671,
+   "dialStations": [
+    {
+     "id": "us-kpbs",
+     "name": "KPBS 89.5",
+     "commenters": 4
+    },
+    {
+     "id": "us-kioz",
+     "name": "Rock 105.3",
+     "commenters": 4
+    },
+    {
+     "id": "us-kogo",
+     "name": "Newsradio 600 KOGO",
+     "commenters": 2
+    },
+    {
+     "id": "us-ksds",
+     "name": "Jazz 88.3",
+     "commenters": 1
+    },
+    {
+     "id": "us-kwfn",
+     "name": "97.3 The Fan",
+     "commenters": 1
+    },
+    {
+     "id": "us-kson",
+     "name": "KSON 103.7",
+     "commenters": 1
+    },
+    {
+     "id": "us-kxsn",
+     "name": "Sunny 98.1",
+     "commenters": 0
+    },
+    {
+     "id": "us-xetra",
+     "name": "91X",
+     "commenters": 0
+    },
+    {
+     "id": "us-kyxy",
+     "name": "KYXY 96.5",
+     "commenters": 0
+    },
+    {
+     "id": "us-klnv",
+     "name": "Que Buena 106.5",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1dpd2dr/",
+     "title": "Worst radio shows on the air in SD [ is anyone even listening anymore ]",
+     "comments": 224,
+     "retrieved": 232
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1kydaug/",
+     "title": "Um, is this real law enforcement? AZ Lic plate, plate frame says “Support Law Enforcement”, radio/computer on dash mimicking under cover cops with two men in black tactical clothes inside.",
+     "comments": 223,
+     "retrieved": 243
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/ouzj49/",
+     "title": "The radio announcer just called San Diego \"The best place in America to watch a ball game.\" I agree.",
+     "comments": 63,
+     "retrieved": 64
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1ikwu4s/",
+     "title": "Which radio DJ in SD has the most annoying voice?",
+     "comments": 50,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/s6aa3d/",
+     "title": "Sheriff’s Department encrypts radio communications; critics say the move will reduce transparency - The San Diego County Sheriff’s Department last week encrypted its radio communications, blocking the public from listening to information about public safety matters in real time",
+     "comments": 46,
+     "retrieved": 49
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/uim9tg/",
+     "title": "What is your favorite morning radio talk show?",
+     "comments": 41,
+     "retrieved": 41
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/lctf3c/",
+     "title": "What are your favorite local radio stations?",
+     "comments": 35,
+     "retrieved": 40
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1x21j8z/",
+     "title": "What radio station do I tune to to monitor the situation re: rachel",
+     "comments": 29,
+     "retrieved": 41
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/v2vbl6/",
+     "title": "98.9 MoreFM Tijuana - aka the best radio station in San Diego - just went online streaming only and will no longer broadcast",
+     "comments": 27,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/okvkmw/",
+     "title": "Back in the 40s, the Lafayette Hotel on El Cajon Blvd. was home to a radio station.",
+     "comments": 26,
+     "retrieved": 27
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1hxymek/",
+     "title": "What is your favorite radio station.",
+     "comments": 23,
+     "retrieved": 26
+    },
+    {
+     "url": "https://www.reddit.com/r/sandiego/comments/1svi7jq/",
+     "title": "What is going on at rock 1053 radio station.",
+     "comments": 22,
+     "retrieved": 22
+    }
+   ]
+  },
+  "Nashville": {
+   "subreddits": [
+    "nashville"
+   ],
+   "threads": 12,
+   "commentsRead": 534,
+   "dialStations": [
+    {
+     "id": "us-wrlt",
+     "name": "Lightning 100",
+     "commenters": 26
+    },
+    {
+     "id": "us-wnxp",
+     "name": "Nashville Public Radio 91 One",
+     "commenters": 15
+    },
+    {
+     "id": "us-wxna",
+     "name": "WXNA 101.5",
+     "commenters": 15,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-wmot",
+     "name": "WMOT Roots Radio",
+     "commenters": 6
+    },
+    {
+     "id": "us-wnrq",
+     "name": "105.9 The Rock",
+     "commenters": 5
+    },
+    {
+     "id": "us-wpln",
+     "name": "WPLN News 90.3",
+     "commenters": 4
+    },
+    {
+     "id": "us-wubt",
+     "name": "101.1 The Beat",
+     "commenters": 4
+    },
+    {
+     "id": "us-wjxa",
+     "name": "Mix 92.9",
+     "commenters": 3
+    },
+    {
+     "id": "us-wsix",
+     "name": "The Big 98",
+     "commenters": 2
+    },
+    {
+     "id": "us-wcjk",
+     "name": "96.3 Jack FM",
+     "commenters": 2
+    },
+    {
+     "id": "us-wsm",
+     "name": "WSM 650",
+     "commenters": 1
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "WRVU",
+     "commenters": 15,
+     "reason": "online only since its FM licence was sold in 2011"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/1s2xktg/",
+     "title": "For the Nashville OGs out there: What your favorite radio station during in the last decade of the 1900s?",
+     "comments": 136,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/rht0d6/",
+     "title": "An Appreciation Post for Lightning 100, Nashville's Best Radio Station",
+     "comments": 104,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/mwx9mi/",
+     "title": "New Public Radio Station",
+     "comments": 89,
+     "retrieved": 91
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/1njq4wn/",
+     "title": "I’m 100% Tryna Start Some Stuff. What’s the Best Radio Station in Nashville?",
+     "comments": 71,
+     "retrieved": 81
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/qmpdut/",
+     "title": "Missed connection/long long shot: Which lawyer from Nashville just called into Ireland’s Midwest radio for the word quiz? Holler at me!",
+     "comments": 57,
+     "retrieved": 60
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/149lp9p/",
+     "title": "Does anyone still listen to local radio? If so, what’s your go to station? Favorite radio personality?Any sports radio fans have any recommendations?",
+     "comments": 51,
+     "retrieved": 53
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/1jcbpig/",
+     "title": "What radio stations in the area play oasis most often?",
+     "comments": 43,
+     "retrieved": 45
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/1b1kval/",
+     "title": "Are you willing to listen to AI-powered radio stations? Two just launched in Nashville this week.",
+     "comments": 38,
+     "retrieved": 40
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/1dfdxoz/",
+     "title": "IS it just my shitbox's radio dying, or is 102.9 The Buzz's signal super weak lately?",
+     "comments": 30,
+     "retrieved": 30
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/lehs1b/",
+     "title": "Radio station recommendations?",
+     "comments": 27,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/u5za3c/",
+     "title": "Modern rock radio station?",
+     "comments": 23,
+     "retrieved": 23
+    },
+    {
+     "url": "https://www.reddit.com/r/nashville/comments/19emyxt/",
+     "title": "Does anyone have success using a Bluetooth to FM transmitter in their car in this radio saturated market?",
+     "comments": 14,
+     "retrieved": 18
+    }
+   ]
+  },
+  "Seattle": {
+   "subreddits": [
+    "Seattle"
+   ],
+   "threads": 12,
+   "commentsRead": 1389,
+   "dialStations": [
+    {
+     "id": "us-kexp",
+     "name": "KEXP",
+     "commenters": 134
+    },
+    {
+     "id": "us-knkx",
+     "name": "KNKX 88.5",
+     "commenters": 32
+    },
+    {
+     "id": "us-kuow",
+     "name": "KUOW",
+     "commenters": 28
+    },
+    {
+     "id": "us-king",
+     "name": "Classical KING FM",
+     "commenters": 23
+    },
+    {
+     "id": "us-kisw",
+     "name": "99.9 KISW",
+     "commenters": 21
+    },
+    {
+     "id": "us-kzok",
+     "name": "102.5 KZOK",
+     "commenters": 11
+    },
+    {
+     "id": "us-kndd",
+     "name": "107.7 The End",
+     "commenters": 9
+    },
+    {
+     "id": "us-kiro-fm",
+     "name": "KIRO Newsradio 97.3",
+     "commenters": 3
+    },
+    {
+     "id": "us-kiro-am",
+     "name": "Seattle Sports 710",
+     "commenters": 3
+    },
+    {
+     "id": "us-kkwf",
+     "name": "100.7 The Wolf",
+     "commenters": 3
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KBCS 91.3",
+     "commenters": 30,
+     "reason": "no stream Dial can play"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1iyedzo/",
+     "title": "Nobody ever told me Seattle has some real f'king Based radio stations.",
+     "comments": 319,
+     "retrieved": 337
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1bzzt3z/",
+     "title": "What radio stations are worth listening to in Seattle?",
+     "comments": 196,
+     "retrieved": 221
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1slq7uv/",
+     "title": "Why Do Seattle Radio Stations Overplay RHCP??",
+     "comments": 132,
+     "retrieved": 136
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1bthrbb/",
+     "title": "Two Seattle Stations Go Country As KPNW and Star 101.5 Flip - Radio Ink",
+     "comments": 130,
+     "retrieved": 184
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1k9gv6z/",
+     "title": "Thoughts on Seattle radio these days?",
+     "comments": 99,
+     "retrieved": 101
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/18uzbes/",
+     "title": "No Radio Shack, No Fry's, so what is there?",
+     "comments": 81,
+     "retrieved": 85
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1o63qgi/",
+     "title": "What are your favorite Seattle area radio stations?",
+     "comments": 79,
+     "retrieved": 94
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1fpmu60/",
+     "title": "What the hell is going on with the radio stations right now?",
+     "comments": 78,
+     "retrieved": 82
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1npghix/",
+     "title": "Jimmy Kimmel remembers Seattle radio station in return monologue",
+     "comments": 64,
+     "retrieved": 68
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1d6u355/",
+     "title": "What were some popular radio stations in the early 90s?  What were they playing?",
+     "comments": 55,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/15sdkqz/",
+     "title": "What are your fave local radio stations to listen to?",
+     "comments": 50,
+     "retrieved": 52
+    },
+    {
+     "url": "https://www.reddit.com/r/Seattle/comments/1ebx1sn/",
+     "title": "Anyone in district 9 ready for Congressman Galloping Ghost DJ Radio Dave?",
+     "comments": 48,
+     "retrieved": 49
+    }
+   ]
+  },
+  "Denver": {
+   "subreddits": [
+    "Denver"
+   ],
+   "threads": 12,
+   "commentsRead": 412,
+   "dialStations": [
+    {
+     "id": "us-kuvo",
+     "name": "KUVO Jazz 89.3",
+     "commenters": 18
+    },
+    {
+     "id": "us-kvoq",
+     "name": "Indie 102.3",
+     "commenters": 9
+    },
+    {
+     "id": "us-kbco",
+     "name": "97.3 KBCO",
+     "commenters": 8
+    },
+    {
+     "id": "us-kvod",
+     "name": "CPR Classical",
+     "commenters": 4
+    },
+    {
+     "id": "us-krfx",
+     "name": "103.5 The Fox",
+     "commenters": 4
+    },
+    {
+     "id": "us-ktcl",
+     "name": "Channel 93.3",
+     "commenters": 3
+    },
+    {
+     "id": "us-koa",
+     "name": "KOA Newsradio",
+     "commenters": 1
+    },
+    {
+     "id": "us-kqks",
+     "name": "KS107.5",
+     "commenters": 1
+    },
+    {
+     "id": "us-kcfr",
+     "name": "CPR News",
+     "commenters": 0
+    },
+    {
+     "id": "us-kygo",
+     "name": "98.5 KYGO",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1lq5tje/",
+     "title": "What are your favorite radio stations?",
+     "comments": 90,
+     "retrieved": 101
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1cm0jhk/",
+     "title": "Does anyone know why Steve is leaving Alice’s Slacker and Steve show (radio)",
+     "comments": 76,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1aww1i7/",
+     "title": "Has anyone heard about the man who called the radio to report he has been intentionally giving HIV to women in Denver?",
+     "comments": 53,
+     "retrieved": 54
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1u3lbiq/",
+     "title": "Has anyone donated a car to CO public radio?",
+     "comments": 47,
+     "retrieved": 47
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1h3gspy/",
+     "title": "What is the trance radio show on channel 93.3 called?",
+     "comments": 40,
+     "retrieved": 41
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1sd719t/",
+     "title": "Denver radio is lacking! Too many stations playing the same genres.",
+     "comments": 37,
+     "retrieved": 38
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/15zlb6j/",
+     "title": "WHAT’S with KNUS radio AM760?",
+     "comments": 35,
+     "retrieved": 37
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/18fi233/",
+     "title": "I used to listen to KTCL,KBPI and The Fox back in the 90's. Recently my phone stopped pairing with my car and I had to listen to OTA radio. All these stations still kinda sound the same. (Tho Fox plays more 90's and less 70's) What's your favorite Denver area radio station and why?",
+     "comments": 29,
+     "retrieved": 31
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1ufkbbs/",
+     "title": "Radio Interference or Something Else?",
+     "comments": 25,
+     "retrieved": 27
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1cgjdhz/",
+     "title": "Nuggets radio play-by-play guy, Jason Kosmicki, is really good.",
+     "comments": 24,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1hx0i97/",
+     "title": "104.7 the drop is such a good radio station",
+     "comments": 24,
+     "retrieved": 28
+    },
+    {
+     "url": "https://www.reddit.com/r/Denver/comments/1p60irg/",
+     "title": "indie rock radio stations???",
+     "comments": 22,
+     "retrieved": 29
+    }
+   ]
+  },
+  "New Orleans": {
+   "subreddits": [
+    "NewOrleans"
+   ],
+   "threads": 12,
+   "commentsRead": 492,
+   "dialStations": [
+    {
+     "id": "us-wwoz",
+     "name": "WWOZ",
+     "commenters": 21
+    },
+    {
+     "id": "us-wtul",
+     "name": "WTUL 91.5",
+     "commenters": 16
+    },
+    {
+     "id": "us-wwl",
+     "name": "WWL 870",
+     "commenters": 10
+    },
+    {
+     "id": "us-wwno",
+     "name": "WWNO",
+     "commenters": 9
+    },
+    {
+     "id": "us-wrno",
+     "name": "WRNO 99.5",
+     "commenters": 7
+    },
+    {
+     "id": "us-wnoe",
+     "name": "101.1 WNOE",
+     "commenters": 2
+    },
+    {
+     "id": "us-wyld",
+     "name": "WYLD 98.5",
+     "commenters": 1
+    },
+    {
+     "id": "us-wkbu",
+     "name": "Bayou 95.7",
+     "commenters": 1
+    },
+    {
+     "id": "us-wque",
+     "name": "Q93",
+     "commenters": 0
+    },
+    {
+     "id": "us-wezb",
+     "name": "B97",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "WHIV 102.3",
+     "commenters": 12,
+     "reason": "no stream Dial can play (below 14, listed because it was checked)"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/16wp5an/",
+     "title": "What's Your Favorite New Orleans radio station?",
+     "comments": 89,
+     "retrieved": 93
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/1c4om4x/",
+     "title": "Who still listens to over the air radio station morning shows? 95.7 changed to all music in the mornings and it was great. Now they have added 2 people to the mix and back to a talk show. I have a short commute and an old car. I listen to the radio to and from work. I hate listening to people talk.",
+     "comments": 60,
+     "retrieved": 64
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/1g2c4gm/",
+     "title": "Was the rock radio station years ago 105.1 \"The End\"? ",
+     "comments": 60,
+     "retrieved": 66
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/nqc744/",
+     "title": "Has finding work been as difficult for anyone else as it's been for me? Everywhere I look, someone's hiring, but when I submit applications I get radio silence.",
+     "comments": 59,
+     "retrieved": 64
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/1wmpvox/",
+     "title": "WWL Radio. Anyone else disappointed?",
+     "comments": 55,
+     "retrieved": 56
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/1g8yaii/",
+     "title": "Whats wrong with FM radio station 104.1!? Did Tulane  stop broadcasting?",
+     "comments": 43,
+     "retrieved": 51
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/tt4ln7/",
+     "title": "Happy 100th birthday to WWL Radio, where I worked for 6ish years as a reporter/anchor & digital. Got to meet quite a lot of notable & interesting people along the way, including finally meeting Bunk. (Have I mentioned in the last day or so that The Wire is the greatest piece of TV of all time?)",
+     "comments": 35,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/xmq62v/",
+     "title": "An update for those who have listened to Tom Fitzmorris on the radio all these years...",
+     "comments": 30,
+     "retrieved": 43
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/pe8l4e/",
+     "title": "I just heard on the radio that a power transmission tower fell into the river. Anyone else hear anything yet?",
+     "comments": 27,
+     "retrieved": 30
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/17xn8fa/",
+     "title": "Looking for some new good radio stations",
+     "comments": 26,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/1vn98ho/",
+     "title": "Radio stations",
+     "comments": 23,
+     "retrieved": 25
+    },
+    {
+     "url": "https://www.reddit.com/r/NewOrleans/comments/hzp4sf/",
+     "title": "Anybody know of a local store like Radio Shack? Looking to buy electronic components and such.",
+     "comments": 21,
+     "retrieved": 21
+    }
+   ]
+  },
+  "San Francisco": {
+   "subreddits": [
+    "bayarea",
+    "sanfrancisco"
+   ],
+   "threads": 12,
+   "commentsRead": 1702,
+   "dialStations": [
+    {
+     "id": "us-kqed",
+     "name": "KQED",
+     "commenters": 89
+    },
+    {
+     "id": "us-knbr",
+     "name": "KNBR 680",
+     "commenters": 51,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kcsm",
+     "name": "KCSM Jazz 91",
+     "commenters": 43
+    },
+    {
+     "id": "us-kcbs",
+     "name": "KCBS Radio",
+     "commenters": 41
+    },
+    {
+     "id": "us-kdfc",
+     "name": "Classical KDFC",
+     "commenters": 29
+    },
+    {
+     "id": "us-kfjc",
+     "name": "KFJC 89.7",
+     "commenters": 27,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kmel",
+     "name": "106 KMEL",
+     "commenters": 23
+    },
+    {
+     "id": "us-kpoo",
+     "name": "KPOO 89.5",
+     "commenters": 23,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kpfa",
+     "name": "KPFA 94.1",
+     "commenters": 21,
+     "addedForReddit": true
+    },
+    {
+     "id": "us-kalw",
+     "name": "KALW",
+     "commenters": 17
+    },
+    {
+     "id": "us-koit",
+     "name": "96.5 KOIT",
+     "commenters": 15
+    },
+    {
+     "id": "us-kllc",
+     "name": "Alice 97.3",
+     "commenters": 13
+    },
+    {
+     "id": "us-kits",
+     "name": "Live 105",
+     "commenters": 6
+    },
+    {
+     "id": "us-groove-salad",
+     "name": "SomaFM Groove Salad",
+     "commenters": 0
+    },
+    {
+     "id": "us-krzz",
+     "name": "La Raza 93.3",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KALX 90.7",
+     "commenters": 32,
+     "reason": "stream server (port 8443) didn't respond"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1vcuin4/",
+     "title": "Anyone here still listens to the radio?",
+     "comments": 498,
+     "retrieved": 518
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/17umyei/",
+     "title": "Our radio stations completely suck",
+     "comments": 389,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/sanfrancisco/comments/1c0mgzb/",
+     "title": "KOIT (96.5) and KQED (88.5) are, month after month, the most listened to radio stations in the San Francisco market. Yes, lots of people in SF still listen to terrestrial radio every day! Please tell us what radio stations you listen to...",
+     "comments": 380,
+     "retrieved": 386
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1j3sgw7/",
+     "title": "I heard on the radio today that 4th graders who read at a 4th grade level are 1.5 years ahead of the curve statewide. You’re telling me that the average 4th grader in California doesn’t even read at a 3rd grade level?!?",
+     "comments": 205,
+     "retrieved": 100
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1qgvim1/",
+     "title": "I was on the air at KFRC during the last years of personality-driven Top 40 radio – any other Bay Area radio fans from that era here?",
+     "comments": 182,
+     "retrieved": 202
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1jne23w/",
+     "title": "PGE ran an ad during Giants radio yesterday saying that the average monthly bill is down vs 1 year ago. What total bs",
+     "comments": 95,
+     "retrieved": 99
+    },
+    {
+     "url": "https://www.reddit.com/r/sanfrancisco/comments/1c29bpe/",
+     "title": "Joe Carcione \"The Green Grocer\" on KRON; Jane Dornacker doing traffic on KFRC; Mal Sharpe on KMEL and KQED... What interesting, perhaps quirky San Francisco TV and radio personalities do you remember?",
+     "comments": 76,
+     "retrieved": 78
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1s3ziga/",
+     "title": "I was one of the last Top 40 DJs in San Francisco during the golden era of radio. Ask me anything (and check out my new memoir!)",
+     "comments": 71,
+     "retrieved": 74
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1boc58y/",
+     "title": "Share your memories of listening to this Bay Area radio legend",
+     "comments": 70,
+     "retrieved": 76
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1lcubp6/",
+     "title": "What are your favorite radio stations?",
+     "comments": 57,
+     "retrieved": 66
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1925k9p/",
+     "title": "Owner of Bay Area radio stations 102.1 Jams and 95.7 The Game files for bankruptcy",
+     "comments": 55,
+     "retrieved": 59
+    },
+    {
+     "url": "https://www.reddit.com/r/bayarea/comments/1bn33sa/",
+     "title": "The all-time best radio station sticker!",
+     "comments": 53,
+     "retrieved": 56
+    }
+   ]
+  },
+  "Los Angeles": {
+   "subreddits": [
+    "LosAngeles"
+   ],
+   "threads": 16,
+   "commentsRead": 2197,
+   "dialStations": [
+    {
+     "id": "us-kroq",
+     "name": "KROQ",
+     "commenters": 83
+    },
+    {
+     "id": "us-kcrw",
+     "name": "KCRW",
+     "commenters": 75
+    },
+    {
+     "id": "us-kpcc",
+     "name": "LAist 89.3",
+     "commenters": 74
+    },
+    {
+     "id": "us-knx",
+     "name": "KNX News",
+     "commenters": 25
+    },
+    {
+     "id": "us-kfi",
+     "name": "KFI AM 640",
+     "commenters": 20
+    },
+    {
+     "id": "us-kusc",
+     "name": "Classical KUSC",
+     "commenters": 19
+    },
+    {
+     "id": "us-kkjz",
+     "name": "KJazz 88.1",
+     "commenters": 19
+    },
+    {
+     "id": "us-krth",
+     "name": "K-Earth 101",
+     "commenters": 18
+    },
+    {
+     "id": "us-kiis",
+     "name": "KIIS FM",
+     "commenters": 17
+    },
+    {
+     "id": "us-klve",
+     "name": "K-Love 107.5",
+     "commenters": 0
+    }
+   ],
+   "namedButNotAdded": [
+    {
+     "station": "KLOS 95.5",
+     "commenters": 37,
+     "reason": "no stream Dial can play"
+    },
+    {
+     "station": "KXLU 88.9",
+     "commenters": 36,
+     "reason": "no stream Dial can play"
+    },
+    {
+     "station": "KPFK 90.7",
+     "commenters": 27,
+     "reason": "no stream Dial can play"
+    },
+    {
+     "station": "93.5 KDAY",
+     "commenters": 20,
+     "reason": "no stream Dial can play"
+    }
+   ],
+   "threadList": [
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/vs7r1g/",
+     "title": "Los Angeles radio is getting worse… All of the major stations playing the same thing multiple times a day.",
+     "comments": 957,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/1adew61/",
+     "title": "Radio Nerds: What LA show do you miss listening to on the airwaves?",
+     "comments": 640,
+     "retrieved": 500
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/wp3n7m/",
+     "title": "Can Los Angeles radio stations stop playing “Heat Waves” constantly throughout the day??",
+     "comments": 441,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/1m88y9p/",
+     "title": "101.1 FM had a pro trump commercial this morning, just passing along this info if you want to delete from your radio listening, too.",
+     "comments": 407,
+     "retrieved": 452
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/178o7c5/",
+     "title": "What radio station do you listen to during your morning commute?",
+     "comments": 396,
+     "retrieved": 401
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/w0hb6j/",
+     "title": "That’s it. That’s the whole radio station.",
+     "comments": 229,
+     "retrieved": 234
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/14dsgkd/",
+     "title": "20 people were laid off suddenly last week from the LAist website and radio station (formerly KPCC). Tax documents show a former CEO continues to receive over $500k per year, *four years after stepping down*.",
+     "comments": 143,
+     "retrieved": 151
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/17mc7ic/",
+     "title": "Best radio stations?",
+     "comments": 105,
+     "retrieved": 105
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/15s1bj0/",
+     "title": "KDAY: Best Radio Station in LA",
+     "comments": 78,
+     "retrieved": 82
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/m5rb8n/",
+     "title": "Defunct radio stations in LA",
+     "comments": 78,
+     "retrieved": 80
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/14slgix/",
+     "title": "Do you agree the Madeleine Brand is a far superior public radio talk show host than Larry Mantle?",
+     "comments": 68,
+     "retrieved": 70
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/fma8ri/",
+     "title": "I never realized how good local radio was",
+     "comments": 55,
+     "retrieved": 0
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/1odq3p8/",
+     "title": "Pro ICE radio advertisement on KOST 103.5?",
+     "comments": 47,
+     "retrieved": 64
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/1hdyxaz/",
+     "title": "Anyone else hear this weird Radio station playing on 99.1 FM ? ",
+     "comments": 41,
+     "retrieved": 47
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/1bpy6pj/",
+     "title": "Can we please get a dedicated Reggae and World music radio station ",
+     "comments": 31,
+     "retrieved": 32
+    },
+    {
+     "url": "https://www.reddit.com/r/LosAngeles/comments/14ej310/",
+     "title": "Anyone else get annoyed with LA Radio Stations prematurely ending songs?",
+     "comments": 26,
+     "retrieved": 26
+    }
+   ]
+  }
+ }
+}

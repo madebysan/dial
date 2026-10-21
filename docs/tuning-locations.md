@@ -1,6 +1,6 @@
 # Tuning locations
 
-Current behavior in **1.0 (33)**. San approved city/metro tuning after selecting MPR News exposed a two-station local dial behind a misleading United States label. Later screenshot corrections simplified the labels and helper copy. On October 17, 2026, San merged the separate Locations screen into the Stations filter, because both controls chose a location and the dial already follows the playing station.
+Current behavior in **1.0 (33)**. City/metro tuning replaced country-wide dials after selecting MPR News exposed a two-station local dial behind a misleading United States label. On October 17, 2026, the separate Locations screen was merged into the Stations filter, because both controls chose a location and the dial already follows the playing station.
 
 ## Player and selection
 

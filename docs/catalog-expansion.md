@@ -4,9 +4,7 @@ Later imports are recorded separately in [US catalogue expansion](us-expansion.m
 
 ## Completed 0.7.0 scope
 
-Build 0.7.0 (8) contains the agreed **141 stations**: 27 in the New York collection, 14 in Uruguay, and 10 each in Argentina, Spain, Brazil, Mexico, Colombia, Chile, the United Kingdom, France, Italy and Japan. The 21 existing station IDs were preserved, and 120 were added. These are curated starter collections rather than claimed audience rankings. Additional US markets are covered by the subsequent expansion linked above.
-
-San asked to complete the remaining import and install it on the iPhone. Codex completed the research, data processing, validation and integration; Gemini was not used. The earlier Gemini routing question is no longer a blocker for this completed catalogue. No paid model calls, commits, remotes or publication were performed.
+Build 0.7.0 (8) contains **141 stations**: 27 in the New York collection, 14 in Uruguay, and 10 each in Argentina, Spain, Brazil, Mexico, Colombia, Chile, the United Kingdom, France, Italy and Japan. The 21 existing station IDs were preserved, and 120 were added. These are curated starter collections rather than claimed audience rankings. Additional US markets are covered by the subsequent expansion linked above.
 
 ## Evidence and acceptance
 
@@ -32,17 +30,16 @@ All 141 stations have profile records with source links and available descriptiv
 
 Local frequencies are retained only when supported by the record or broadcaster metadata and an identifiable local scope. Other feeds show Live stream. Locations can include a city or broader source-reported area. National online feeds are not assigned an arbitrary headquarters frequency.
 
-## App behavior and handoff
+## App behavior
 
-Country browsing, location filtering, search, favorites and local tuning are integrated. Grid tiles retain the requested absence of star/info controls; list view retains them. Original favorites and selected station IDs remain valid.
+Country browsing, location filtering, search, favorites and local tuning are integrated. Grid tiles have no star/info controls; list view keeps them. Original favorites and selected station IDs remain valid.
 
-San asked to stop audio on the computer during this work. The running simulator app was terminated immediately. Simulator builds now initialize playback volume to zero, including automated checks; this does not alter device volume.
+Simulator builds initialize playback volume to zero, including automated checks; this does not alter device volume.
 
-The working research cache remains at `(local work folder)/catalog-expansion/`. Current truth belongs to the bundled catalogue and profiles. Earlier selection scripts/prompts in that cache are historical working material; do not run the old Gemini pilot prompt or overwrite the current catalogue with an earlier candidate list. The native evidence covers the final accepted IDs/URLs. See verification for final build and UI results.
-
+Current truth belongs to the bundled catalogue and profiles. The native evidence covers the final accepted IDs/URLs.
 
 ## Final review corrections
 
 Three Japanese feeds (Shonan Beach FM, FM Setagaya and Ottava) returned provider offline placeholders despite decoding audio. They were replaced with Moon Mission Radio, AFN Tokyo and Súper Tokio Radio. Every final replacement passed native playback; the catalogue still contains exactly ten Japan entries and 141 stations overall. Known offline-placeholder metadata is now a rejection condition in the reusable checker and native validation.
 
-The [artwork review](catalog/expansion/artwork-review.json) records sponsor, TV and wrong-frequency image corrections. The final catalogue has 128 images and 13 initials fallbacks, with 110 bundled assets. Network-branded images are identified as such; no station logos were invented. GIF/WebP/ICO assets used for immediate thumbnails were converted to static PNG without changing their design. Final app data and signed-build payload were compared and match. Installation succeeded. The simulator was left closed and silent.
+The [artwork review](catalog/expansion/artwork-review.json) records sponsor, TV and wrong-frequency image corrections. The final catalogue has 128 images and 13 initials fallbacks, with 110 bundled assets. Network-branded images are identified as such; no station logos were invented. GIF/WebP/ICO assets used for immediate thumbnails were converted to static PNG without changing their design. Final app data and signed-build payload were compared and match.

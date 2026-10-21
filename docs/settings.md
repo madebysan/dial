@@ -5,7 +5,7 @@
 - **Play when opening:** persist a Boolean preference, defaulting to on so existing installations keep their behavior. When off, launch and foreground activation do not start audio. It does not stop audio already playing or block explicit Play, station, band or country selection. Sleep-timer expiry continues to suppress automatic playback until playback is explicitly restarted.
 - **About:** show the actual bundle version/build, link Radio Browser as a catalogue research source, and point users to station profiles for broadcaster/artwork evidence. No account, analytics or new external service is added.
 
-Existing appearance, tuning sound and sleep timer remain available. The later approved build-25 batch adds country setup and an explicit location action in Locations; see below.
+Existing appearance, tuning sound and sleep timer remain available. Build 25 adds country setup and an explicit location action in Locations; see below.
 
 ## Listening additions · build 25
 

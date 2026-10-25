@@ -506,7 +506,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]" = "Dial/Dial-iOS-Simulator.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 34;
+				CURRENT_PROJECT_VERSION = 35;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Dial/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Dial;
@@ -517,7 +517,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
 				PRODUCT_NAME = Dial;
 				SDKROOT = auto;
@@ -668,7 +668,7 @@
 				"CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]" = "Dial/Dial-iOS-Simulator.entitlements";
 				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Dial/Dial-macOS.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 34;
+				CURRENT_PROJECT_VERSION = 35;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Dial/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Dial;
@@ -679,7 +679,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.santiagoalonso.dial;
 				PRODUCT_NAME = Dial;
 				SDKROOT = auto;

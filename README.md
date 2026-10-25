@@ -5,7 +5,7 @@
 <p>A radio tuner for iPhone and Mac.<br>
 Turn a real dial through your city's FM and AM stations, with no ads and no account.</p>
 
-<p><strong>Version 1.1</strong> · iOS 17+ · macOS 14+</p>
+<p><strong>Version 1.2</strong> · iOS 17+ · macOS 14+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Swift-f05138" alt="Swift">

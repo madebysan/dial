@@ -79,7 +79,7 @@ Dial for Mac is distributed as a notarized DMG on GitHub Releases, not through t
 
 Since favorites sync through iCloud, the Mac entitlements include iCloud key-value storage. A Developer ID build then needs a provisioning profile, which `-allowProvisioningUpdates` creates; free Apple accounts can't use iCloud.
 
-1.0 (33) was built this way on October 17, 2026: `Dial-1.0.dmg`, 8.1 MB, SHA-256 `bb9f30a330b8126b6a74f19397bbc7840ca0b6e353b8ad4514b6363a9ea6ab19`. Both the app and the DMG were accepted by notarization and pass Gatekeeper. 1.1 (34) followed on October 18, 2026: `Dial-1.1.dmg`, 17.7 MB (it carries 352 more station logos), SHA-256 `e9037ced0eae5ce039f37bc043f5ab883480c842d6eb4972d3cb2187900b8b6e`; the app and the DMG were accepted by notarization and pass Gatekeeper, and the Developer ID provisioning profile with iCloud is embedded.
+1.0 (33) was built this way on October 17, 2026: `Dial-1.0.dmg`, 8.1 MB, SHA-256 `bb9f30a330b8126b6a74f19397bbc7840ca0b6e353b8ad4514b6363a9ea6ab19`. Both the app and the DMG were accepted by notarization and pass Gatekeeper. 1.1 (34) followed on October 18, 2026: `Dial-1.1.dmg`, 17.7 MB (it carries 352 more station logos), SHA-256 `e9037ced0eae5ce039f37bc043f5ab883480c842d6eb4972d3cb2187900b8b6e`; the app and the DMG were accepted by notarization and pass Gatekeeper, and the Developer ID provisioning profile with iCloud is embedded. 1.2 (35) followed on October 25, 2026: `Dial-1.2.dmg`, 17.8 MB, SHA-256 `2c5f5889f058f998075d4bf8847acbefe650c3cf34a17c31a3ec5f1d0e7b98d5`; the app and the DMG were accepted by notarization and pass Gatekeeper.
 
 ## App Store (not pursued)
 

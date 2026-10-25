@@ -22,8 +22,8 @@ targets:
         # iPhone only. Without this, adding macOS as a destination made XcodeGen emit "1,2" (iPhone + iPad).
         TARGETED_DEVICE_FAMILY: "1"
         PRODUCT_NAME: Dial
-        MARKETING_VERSION: "1.1"
-        CURRENT_PROJECT_VERSION: "34"
+        MARKETING_VERSION: "1.2"
+        CURRENT_PROJECT_VERSION: "35"
         INFOPLIST_KEY_CFBundleDisplayName: Dial
         INFOPLIST_KEY_UILaunchScreen_Generation: YES
         INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait

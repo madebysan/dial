@@ -1,8 +1,9 @@
 # Changelog
 
-## Unreleased
+## 1.2 (35), October 25, 2026
 
 - Ten more stations on the Montevideo dial, for 469 stations in 13 countries: Inolvidable, Aire FM, Del Sol, Azul FM, Océano FM, FM Hit, El Espectador, 970 Universal, Radio Clásica and Radio Cultura. The picks start from the 2025 Montevideo ratings. See [Montevideo expansion](docs/montevideo-expansion.md).
+- Mac: every screen has a back arrow at the top, and Esc goes back too. Closing the menu bar panel returns to the player, so Dial opens on the player next time.
 
 ## 1.1 (34), October 18, 2026
 

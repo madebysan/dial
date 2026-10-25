@@ -85,14 +85,6 @@ extension View {
         buttonStyle(.borderless)
         #endif
     }
-
-    func largeNavigationTitle() -> some View {
-        #if os(iOS)
-        navigationBarTitleDisplayMode(.large)
-        #else
-        self
-        #endif
-    }
 }
 
 // MARK: - Secondary screens
@@ -124,14 +116,16 @@ struct SettingsList<Content: View>: View {
     }
 }
 
-/// Closes a secondary screen: dismisses the iPhone sheet, or returns to the Mac player.
+/// Closes a secondary screen: dismisses the iPhone sheet, returns to the Mac player,
+/// or, for a Mac page pushed inside another screen, goes back to that screen.
 @propertyWrapper
 struct ScreenDismiss: DynamicProperty {
     @Environment(\.dismiss) private var dismiss
     @Environment(\.closeScreen) private var closeScreen
+    @Environment(\.inScreenStack) private var pushed
 
     var wrappedValue: () -> Void {
-        { if let closeScreen { closeScreen() } else { dismiss() } }
+        { if let closeScreen, !pushed { closeScreen() } else { dismiss() } }
     }
 }
 
@@ -149,26 +143,80 @@ struct ScreenStack<Content: View>: View {
     }
 }
 
-/// Done on iPhone sheets; a back arrow to the player on Mac.
-struct ScreenCloseItem: ToolbarContent {
-    var identifier = "close-screen"
-    let action: () -> Void
+enum ScreenTitleStyle { case inline, large, inherited }
 
-    var body: some ToolbarContent {
+extension View {
+    /// A screen's title and way back.
+    /// iPhone: the navigation bar, with Done when `close` is given and the accessory on the leading side.
+    /// Mac: Dial's own header with a back arrow (Esc triggers it), since the menu bar panel draws the title bar
+    /// but none of its buttons. With no `close`, the Mac arrow goes back one page.
+    func screenHeader<Accessory: View>(
+        _ title: String, style: ScreenTitleStyle = .inline, closeIdentifier: String = "close-screen",
+        close: (() -> Void)?, @ViewBuilder accessory: () -> Accessory = { EmptyView() }
+    ) -> some View {
         #if os(iOS)
-        ToolbarItem(placement: .confirmationAction) {
-            Button("Done", action: action).accessibilityIdentifier(identifier)
-        }
+        let accessory = accessory()
+        return navigationTitle(title)
+            .navigationBarTitleDisplayMode(style == .large ? .large : style == .inline ? .inline : .automatic)
+            .toolbar {
+                if Accessory.self != EmptyView.self {
+                    ToolbarItem(placement: .topBarLeading) { accessory }
+                }
+                if let close {
+                    ToolbarItem(placement: .confirmationAction) {
+                        Button("Done", action: close).accessibilityIdentifier(closeIdentifier)
+                    }
+                }
+            }
         #else
-        ToolbarItem(placement: .navigation) {
-            Button(action: action) { Label("Back", systemImage: "chevron.left") }
-                .help("Back to player")
-                .keyboardShortcut(.cancelAction)
-                .accessibilityIdentifier(identifier)
-        }
+        return navigationTitle(title)
+            .toolbar(.hidden, for: .windowToolbar)
+            .navigationBarBackButtonHidden(true)
+            .safeAreaInset(edge: .top, spacing: 0) {
+                MacScreenHeader(title: title, identifier: closeIdentifier, close: close, accessory: accessory())
+            }
         #endif
     }
 }
+
+#if os(macOS)
+private struct MacScreenHeader<Accessory: View>: View {
+    let title: String
+    let identifier: String
+    let close: (() -> Void)?
+    let accessory: Accessory
+    @Environment(\.dismiss) private var dismiss
+
+    var body: some View {
+        HStack(spacing: 6) {
+            Button {
+                if let close { close() } else { dismiss() }
+            } label: {
+                Image(systemName: "chevron.left")
+                    .font(.system(size: 15, weight: .semibold))
+                    .frame(width: 30, height: 30)
+                    .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .keyboardShortcut(.cancelAction)
+            .help("Back")
+            .accessibilityLabel("Back")
+            .accessibilityIdentifier(identifier)
+            Text(title)
+                .font(.headline)
+                .lineLimit(1)
+                .accessibilityAddTraits(.isHeader)
+            Spacer(minLength: 0)
+            accessory.buttonStyle(.plain)
+        }
+        .padding(.leading, 10)
+        .padding(.trailing, 16)
+        .frame(height: 48)
+        .foregroundStyle(Palette.ink)
+        .background(Palette.sheetSurface)
+    }
+}
+#endif
 
 extension View {
     /// A deeper screen: a sheet on iPhone, a page pushed in the same window on Mac.
@@ -184,13 +232,47 @@ extension View {
     }
 }
 
-extension ToolbarItemPlacement {
-    /// Leading on iPhone; trailing on Mac so the back arrow stays first in the title bar.
-    static var screenAccessory: ToolbarItemPlacement {
-        #if os(iOS)
-        .topBarLeading
-        #else
-        .primaryAction
-        #endif
+extension View {
+    #if os(macOS)
+    /// Runs `action` when the window holding this view leaves the screen, such as the menu bar panel closing.
+    func onWindowHidden(_ action: @escaping () -> Void) -> some View {
+        background(WindowHiddenObserver(action: action))
+    }
+    #endif
+}
+
+#if os(macOS)
+private struct WindowHiddenObserver: NSViewRepresentable {
+    let action: () -> Void
+
+    func makeNSView(context: Context) -> Watcher { Watcher(action: action) }
+    func updateNSView(_ view: Watcher, context: Context) { view.action = action }
+
+    final class Watcher: NSView {
+        var action: () -> Void
+        private var token: NSObjectProtocol?
+
+        init(action: @escaping () -> Void) {
+            self.action = action
+            super.init(frame: .zero)
+        }
+
+        required init?(coder: NSCoder) { nil }
+
+        deinit { if let token { NotificationCenter.default.removeObserver(token) } }
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            if let token { NotificationCenter.default.removeObserver(token) }
+            token = nil
+            guard let window else { return }
+            token = NotificationCenter.default.addObserver(
+                forName: NSWindow.didChangeOcclusionStateNotification, object: window, queue: .main
+            ) { [weak self] _ in
+                guard let self, let window = self.window, !window.occlusionState.contains(.visible) else { return }
+                self.action()
+            }
+        }
     }
 }
+#endif

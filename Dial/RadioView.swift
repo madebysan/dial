@@ -213,6 +213,12 @@ struct RadioView: View {
         }
         .animation(reduceMotion ? nil : DialMotion.screen, value: libraryTab)
         .animation(reduceMotion ? nil : DialMotion.screen, value: titleSelection?.id)
+        // Closing the menu bar panel (Esc, a click outside) returns to the player for the next open.
+        .onWindowHidden {
+            var transaction = Transaction()
+            transaction.disablesAnimations = true
+            withTransaction(transaction) { libraryTab = nil; titleSelection = nil }
+        }
         #endif
     }
 

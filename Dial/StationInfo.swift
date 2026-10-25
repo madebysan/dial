@@ -7,7 +7,6 @@ struct StationInfo: View {
     @State private var showsDetails = false
     @MotionReduction private var reduceMotion
     @ScreenDismiss private var dismiss
-    @Environment(\.inScreenStack) private var pushedFromStations
     private var profile: StationProfile? { StationProfile.all[station.id] }
 
     var body: some View {
@@ -158,14 +157,8 @@ struct StationInfo: View {
             .accessibilityIdentifier("station-info-scroll")
             .background(Palette.sheet)
             .foregroundStyle(Palette.ink)
-            .navigationTitle("Station details")
-            .inlineNavigationTitle()
-            .toolbar {
-                // On Mac, details opened from Stations use the system back button instead.
-                if Platform.isPhone || !pushedFromStations {
-                    ScreenCloseItem(identifier: "close-station-info") { dismiss() }
-                }
-            }
+            // On Mac, details opened from Stations go back to Stations; from the player, back to the player.
+            .screenHeader("Station details", closeIdentifier: "close-station-info", close: dismiss)
         }
         .tint(Palette.accent)
         .presentationBackground(Palette.sheet)

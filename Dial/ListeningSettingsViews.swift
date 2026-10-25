@@ -35,8 +35,7 @@ struct NarrationSettingsView: View {
         }
         .scrollContentBackground(.hidden)
         .background(Palette.paper)
-        .navigationTitle("Station announcements")
-        .inlineNavigationTitle()
+        .screenHeader("Station announcements", close: nil)
     }
 }
 
@@ -66,8 +65,7 @@ struct RadioShortcutsView: View {
         }
         .scrollContentBackground(.hidden)
         .background(Palette.paper)
-        .navigationTitle("Siri & Shortcuts")
-        .inlineNavigationTitle()
+        .screenHeader("Siri & Shortcuts", close: nil)
     }
 }
 

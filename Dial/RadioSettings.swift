@@ -104,9 +104,7 @@ struct RadioSettings: View {
             .scrollContentBackground(.hidden)
             .background(Palette.paper)
             .foregroundStyle(Palette.ink)
-            .navigationTitle("Settings")
-            .inlineNavigationTitle()
-            .toolbar { ScreenCloseItem { dismiss() } }
+            .screenHeader("Settings", close: dismiss)
         }
         .tint(Palette.accent)
         .preferredColorScheme(radio.preferences.appearance.scheme)

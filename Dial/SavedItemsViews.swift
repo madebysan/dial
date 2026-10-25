@@ -7,7 +7,6 @@ struct TitleActionsView: View {
     let store: SavedItems
     @State private var errorMessage: String?
     @ScreenDismiss private var dismiss
-    @Environment(\.inScreenStack) private var pushed
 
     private var station: Station? { Station.sample.first { $0.id == stationID } }
 
@@ -48,12 +47,8 @@ struct TitleActionsView: View {
             .scrollContentBackground(.hidden)
             .background(Palette.paper)
             .foregroundStyle(Palette.ink)
-            .navigationTitle("Now playing")
-            .inlineNavigationTitle()
-            .toolbar {
-                // On Mac, a title opened from Saved titles uses the system back button instead.
-                if Platform.isPhone || !pushed { ScreenCloseItem { dismiss() } }
-            }
+            // On Mac, a title opened from Saved titles goes back to Saved titles.
+            .screenHeader("Now playing", close: dismiss)
         }
         .tint(Palette.accent)
         .alert("Couldn’t save title", isPresented: Binding(get: { errorMessage != nil }, set: { if !$0 { errorMessage = nil } })) {
@@ -98,7 +93,7 @@ struct SavedTitlesView: View {
         }
         .scrollContentBackground(.hidden)
         .background(Palette.paper)
-        .navigationTitle("Saved titles")
+        .screenHeader("Saved titles", style: .inherited, close: nil)
         .screen(item: $selected) { item in
             TitleActionsView(title: item.title, stationID: item.stationID, stationName: item.stationName, store: store)
         }

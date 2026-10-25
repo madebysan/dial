@@ -199,23 +199,18 @@ struct StationLibrary: View {
         }
         .background(Palette.paper)
         .foregroundStyle(Palette.ink)
-        .navigationTitle("Stations")
-        .largeNavigationTitle()
-        .toolbar {
-            ToolbarItem(placement: .screenAccessory) {
-                Button {
-                    withAnimation(reduceMotion ? nil : DialMotion.collection) {
-                        radio.preferences.layout = radio.preferences.layout == .grid ? .list : .grid
-                    }
-                } label: {
-                    StateSymbol(isOn: radio.preferences.layout == .list,
-                                off: "list.bullet", on: "square.grid.3x3")
-                        .frame(width: 20, height: 20)
+        .screenHeader("Stations", style: .large, close: dismiss) {
+            Button {
+                withAnimation(reduceMotion ? nil : DialMotion.collection) {
+                    radio.preferences.layout = radio.preferences.layout == .grid ? .list : .grid
                 }
-                .accessibilityLabel(radio.preferences.layout == .grid ? "Show list" : "Show grid")
-                .accessibilityIdentifier("toggle-station-layout")
+            } label: {
+                StateSymbol(isOn: radio.preferences.layout == .list,
+                            off: "list.bullet", on: "square.grid.3x3")
+                    .frame(width: 20, height: 20)
             }
-            ScreenCloseItem { dismiss() }
+            .accessibilityLabel(radio.preferences.layout == .grid ? "Show list" : "Show grid")
+            .accessibilityIdentifier("toggle-station-layout")
         }
     }
 

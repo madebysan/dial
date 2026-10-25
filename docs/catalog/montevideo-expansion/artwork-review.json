@@ -1,0 +1,72 @@
+[
+  {
+    "id": "uy-inolvidable",
+    "source": "TuneIn station logo",
+    "url": "https://cdn-profiles.tunein.com/s86080/images/logog.png",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-aire",
+    "source": "Broadcaster icon",
+    "url": "https://www.airefm.com.uy/apple-touch-icon.png",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-delsol",
+    "source": "Broadcaster icon",
+    "url": "https://delsol.uy//public/lb/img/favicons/apple-touch-icon.png?v=2020",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-azul",
+    "source": "Broadcaster icon",
+    "url": "https://azulfm.com.uy/public/img/favicons/apple-touch-icon.png?v=5",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-oceano",
+    "source": "Broadcaster logo (SVG, rasterized)",
+    "url": "https://oceanofm.com/wp-content/uploads/2024/11/logo-azul-curvas.svg",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-hit",
+    "source": "TuneIn station logo",
+    "url": "https://cdn-profiles.tunein.com/s121060/images/logog.png",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-espectador",
+    "source": "Broadcaster icon",
+    "url": "https://espectador.com/public/img/favicon/apple-touch-icon.png",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-universal",
+    "source": "TuneIn station logo",
+    "url": "https://cdn-profiles.tunein.com/s285330/images/logog.jpg",
+    "review": "ok",
+    "note": null
+  },
+  {
+    "id": "uy-clasica",
+    "source": "Station directory image (radios.com.uy)",
+    "url": "https://cdn.instant.audio/images/logos/radios-com-uy/clasica.png",
+    "review": "ok",
+    "note": "Small directory image of the public broadcaster’s Clásica mark; a larger publisher image was not found."
+  },
+  {
+    "id": "uy-cultura",
+    "source": "TuneIn station logo",
+    "url": "https://cdn-profiles.tunein.com/s112100/images/logog.jpg",
+    "review": "ok",
+    "note": null
+  }
+]

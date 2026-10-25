@@ -537,6 +537,106 @@
     "streamURL": "https://radios.iwstreaming.uy/8030/stream"
   },
   {
+    "id": "uy-inolvidable",
+    "name": "Inolvidable",
+    "frequency": 93.1,
+    "detail": "Latin music",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://inolvidable-1.nty.uy/",
+    "band": "FM"
+  },
+  {
+    "id": "uy-aire",
+    "name": "Aire FM",
+    "frequency": 100.3,
+    "detail": "Tropical & cumbia",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://streaming3.hostingmontevideo.com/8064/stream",
+    "band": "FM"
+  },
+  {
+    "id": "uy-delsol",
+    "name": "Del Sol",
+    "frequency": 99.5,
+    "detail": "Talk, news & music",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://delsol-1.nty.uy/",
+    "band": "FM"
+  },
+  {
+    "id": "uy-azul",
+    "name": "Azul FM",
+    "frequency": 101.9,
+    "detail": "Music & talk",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://azul-1.nty.uy/",
+    "band": "FM"
+  },
+  {
+    "id": "uy-oceano",
+    "name": "Océano FM",
+    "frequency": 93.9,
+    "detail": "Music",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://oceano-2.nty.uy/",
+    "band": "FM"
+  },
+  {
+    "id": "uy-hit",
+    "name": "FM Hit",
+    "frequency": 90.3,
+    "detail": "Pop & rock hits",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://hit-1.nty.uy/stream",
+    "band": "FM"
+  },
+  {
+    "id": "uy-espectador",
+    "name": "El Espectador",
+    "frequency": 810.0,
+    "detail": "News & talk",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://espectador-1.nty.uy/",
+    "band": "AM"
+  },
+  {
+    "id": "uy-universal",
+    "name": "970 Universal",
+    "frequency": 970.0,
+    "detail": "Sports & news",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://970universal-3.nty.uy/",
+    "band": "AM"
+  },
+  {
+    "id": "uy-clasica",
+    "name": "Radio Clásica",
+    "frequency": 650.0,
+    "detail": "Classical & opera · Public radio",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://radios.iwstreaming.uy/8032/stream",
+    "band": "AM"
+  },
+  {
+    "id": "uy-cultura",
+    "name": "Radio Cultura",
+    "frequency": 1290.0,
+    "detail": "Public radio · News & talk",
+    "city": "Montevideo",
+    "region": "montevideo",
+    "streamURL": "https://radios.iwstreaming.uy/8034/stream",
+    "band": "AM"
+  },
+  {
     "id": "ar-la-red",
     "name": "La Red",
     "frequency": 910.0,

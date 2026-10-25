@@ -1950,6 +1950,488 @@
     ]
   },
   {
+    "stationID": "uy-inolvidable",
+    "summary": "Inolvidable is on 93.1 FM in the Montevideo area and was the most-listened FM station in the August–October 2025 ratings. Its slogan: “La música de tu vida.”",
+    "locationLabel": null,
+    "genres": [
+      "Latin music"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://www.inolvidablefm.com.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-inolvidable",
+    "artworkBackground": null,
+    "artworkStatus": "TuneIn station logo checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [
+      "ANDEBU lists the licence under Canelones; the station is measured in the Montevideo metropolitan survey, which includes Canelones suburbs.",
+      "The broadcaster’s website did not answer from the check location."
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Canelones)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Montevideo Portal names it “Inolvidable (93.1)”",
+        "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+      },
+      {
+        "label": "TuneIn listing: 93.1 FM, Montevideo",
+        "url": "https://tunein.com/radio/s86080/"
+      },
+      {
+        "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: #1 FM in Montevideo, 2.6 weekly rating (El Observador)",
+        "url": "https://www.elobservador.com.uy/cultura-y-espectaculos/cuales-son-los-programas-radio-mas-escuchados-se-publico-el-nuevo-rating-del-dial-uruguayo-n6023282"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/a1d9e634-7829-42c4-b509-79106234fb55"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://www.inolvidablefm.com.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://cdn-profiles.tunein.com/s86080/images/logog.png"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-aire",
+    "summary": "Aire FM is on 100.3 FM in Montevideo, playing tropical music and cumbia. It was the second most-listened FM station in the August–October 2025 ratings.",
+    "locationLabel": null,
+    "genres": [
+      "Tropical",
+      "Cumbia"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://www.airefm.com.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-aire",
+    "artworkBackground": null,
+    "artworkStatus": "Broadcaster icon checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 192,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [],
+    "sources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “Aire FM 100.3”",
+        "url": "https://www.airefm.com.uy/"
+      },
+      {
+        "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: #2 FM in Montevideo (El Observador)",
+        "url": "https://www.elobservador.com.uy/cultura-y-espectaculos/cuales-son-los-programas-radio-mas-escuchados-se-publico-el-nuevo-rating-del-dial-uruguayo-n6023282"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/802723bb-8cf7-4641-a810-fbcc8d20da75"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://www.airefm.com.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://www.airefm.com.uy/apple-touch-icon.png"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-delsol",
+    "summary": "Del Sol is on 99.5 FM in Montevideo, with current affairs, news, humour, culture, sport and music. Its morning show No toquen nada was the second most-listened programme in the August–October 2025 ratings.",
+    "locationLabel": null,
+    "genres": [
+      "Talk",
+      "News",
+      "Music"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://delsol.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-delsol",
+    "artworkBackground": null,
+    "artworkStatus": "Broadcaster icon checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [],
+    "sources": [
+      {
+        "label": "Wikipedia: Del Sol (radio), 99.5 FM",
+        "url": "https://es.wikipedia.org/wiki/Del_Sol_(radio)"
+      },
+      {
+        "label": "Broadcaster site: “DelSol 99.5 FM”",
+        "url": "https://delsol.uy/"
+      },
+      {
+        "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: No toquen nada #2 programme, 3.71 rating (Montevideo Portal)",
+        "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/96443c16-bb54-4437-964d-eef2d6f65239"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://delsol.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://delsol.uy//public/lb/img/favicons/apple-touch-icon.png?v=2020"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-azul",
+    "summary": "Azul FM is on 101.9 FM in Montevideo. It carries Malos pensamientos, the third most-listened programme in the August–October 2025 ratings.",
+    "locationLabel": null,
+    "genres": [
+      "Music",
+      "Talk"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://azulfm.com.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-azul",
+    "artworkBackground": null,
+    "artworkStatus": "Broadcaster icon checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [],
+    "sources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “Azul FM 101.9”",
+        "url": "https://azulfm.com.uy/"
+      },
+      {
+        "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: Malos pensamientos #3 programme, 3.39 rating (Montevideo Portal)",
+        "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/c0dca607-8765-4834-9549-e2e94f4bee69"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://azulfm.com.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://azulfm.com.uy/public/img/favicons/apple-touch-icon.png?v=5"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-oceano",
+    "summary": "Océano FM is on 93.9 FM in Montevideo, broadcasting from the Buceo neighbourhood. Founded in 1962, it was the country’s second FM station. Its own description: “La buena música de todos los tiempos.”",
+    "locationLabel": null,
+    "genres": [
+      "Music"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://oceanofm.com/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-oceano",
+    "artworkBackground": null,
+    "artworkStatus": "Broadcaster logo (SVG, rasterized) checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [],
+    "sources": [
+      {
+        "label": "Wikipedia: Océano FM (Uruguay), 93.9 MHz",
+        "url": "https://es.wikipedia.org/wiki/Oc%C3%A9ano_FM_(Uruguay)"
+      },
+      {
+        "label": "Broadcaster site: “Escuchá bien - 93.9”",
+        "url": "https://oceanofm.com/"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/698580f9-d316-43bf-aa65-6cf6760353a3"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://oceanofm.com/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://oceanofm.com/wp-content/uploads/2024/11/logo-azul-curvas.svg"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-hit",
+    "summary": "FM Hit is on 90.3 FM in Montevideo, playing pop and rock hits. Its slogan: “Solo tu música.”",
+    "locationLabel": null,
+    "genres": [
+      "Pop",
+      "Rock",
+      "Oldies"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://fmhit.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-hit",
+    "artworkBackground": null,
+    "artworkStatus": "TuneIn station logo checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [
+      "The stream identifies itself as “FM HIT 90.3”.",
+      "The broadcaster’s website did not answer from the check location."
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "TuneIn listing: 90.3 FM, Montevideo",
+        "url": "https://tunein.com/radio/s121060/"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/1460042c-4f10-49f5-96a1-add6b66aa97c"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://fmhit.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://cdn-profiles.tunein.com/s121060/images/logog.png"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-espectador",
+    "summary": "El Espectador is on 810 AM in Montevideo, a news and talk station. Its sports programming is also on 92.5 FM.",
+    "locationLabel": null,
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://espectador.com/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-espectador",
+    "artworkBackground": null,
+    "artworkStatus": "Broadcaster icon checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [],
+    "sources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “El Espectador Deportes - 810 AM - 92.5FM”",
+        "url": "https://espectador.com/"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/74cb6221-f1ad-45a3-99d1-34ecf7ad5a9b"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://espectador.com/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://espectador.com/public/img/favicon/apple-touch-icon.png"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-universal",
+    "summary": "970 Universal (CX 22 Radio Universal) is on 970 AM in Montevideo, with sports, news and entertainment. It has been on the air since 1929.",
+    "locationLabel": null,
+    "genres": [
+      "Sports",
+      "News"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://970universal.com/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-universal",
+    "artworkBackground": null,
+    "artworkStatus": "TuneIn station logo checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 128,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [
+      "The broadcaster’s website did not answer from the check location."
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: Radio Universal, CX 22 970 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Universal"
+      },
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/8b241605-fac7-4e1f-b19b-d85ffa573733"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://970universal.com/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://cdn-profiles.tunein.com/s285330/images/logog.jpg"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-clasica",
+    "summary": "Radio Clásica (CX 6) is Uruguay’s public classical and opera station, on 650 AM in Montevideo. It began broadcasting in 1930.",
+    "locationLabel": null,
+    "genres": [
+      "Classical",
+      "Opera",
+      "Public radio"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://clasica.uy/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-clasica",
+    "artworkBackground": null,
+    "artworkStatus": "Station directory image (radios.com.uy) checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 64,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [
+      "Small directory image of the public broadcaster’s Clásica mark; a larger publisher image was not found.",
+      "The broadcaster’s website did not answer from the check location."
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: Radio Clásica (Uruguay), 650 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Cl%C3%A1sica_(Uruguay)"
+      },
+      {
+        "label": "Radio Browser record names it “Clásica 650 AM”",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/e8db6f2a-b986-407c-af2c-70a756b852c3"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://clasica.uy/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://cdn.instant.audio/images/logos/radios-com-uy/clasica.png"
+      }
+    ]
+  },
+  {
+    "stationID": "uy-cultura",
+    "summary": "Radio Cultura (CX 38) is a public cultural station on 1290 AM in Montevideo, part of Uruguay’s Medios Públicos. It was called Emisora del Sur until July 2021.",
+    "locationLabel": null,
+    "genres": [
+      "Public radio",
+      "News",
+      "Talk"
+    ],
+    "languages": [
+      "Spanish"
+    ],
+    "website": "https://mediospublicos.uy/radio-cultura-vivo/",
+    "artworkURL": null,
+    "artworkAsset": "station-uy-cultura",
+    "artworkBackground": null,
+    "artworkStatus": "TuneIn station logo checked and bundled",
+    "identityStatus": "Frequency checked against two sources; stream identity checked against its directory name and stream metadata",
+    "codec": "MP3",
+    "bitrateKbps": 64,
+    "titlesObserved": false,
+    "checkedOn": "Oct 25, 2026",
+    "notes": [
+      "The stream still carries its former name, “Del Sur”.",
+      "One Radio Browser record lists this stream as 1280 AM; Wikipedia and TuneIn give 1290 AM."
+    ],
+    "sources": [
+      {
+        "label": "Wikipedia: Radio Cultura (Uruguay), 1290 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Cultura_(Uruguay)"
+      },
+      {
+        "label": "TuneIn listing: 1290 AM, Montevideo",
+        "url": "https://tunein.com/radio/s112100/"
+      },
+      {
+        "label": "Radio Browser station record",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/483af4b4-eaeb-4bb7-8a89-533973eb8e08"
+      },
+      {
+        "label": "Broadcaster",
+        "url": "https://mediospublicos.uy/radio-cultura-vivo/"
+      },
+      {
+        "label": "Artwork source",
+        "url": "https://cdn-profiles.tunein.com/s112100/images/logog.jpg"
+      }
+    ]
+  },
+  {
     "stationID": "ar-la-red",
     "summary": "Live programming from La Red in Argentina.",
     "genres": [],

@@ -5,7 +5,7 @@ Every feature, what Dial doesn't do, release status and the documentation index.
 ## What it does
 
 - **A tactile tuner.** Drag the dial or skip between a city's stations. Feeds without a local frequency play in an artwork player.
-- **459 checked stations in 13 countries:** the United States (22 cities), Canada (Toronto, Montreal and Vancouver), United Kingdom (including the BBC's international directory), Uruguay, Argentina, Spain, Brazil, Mexico, Colombia, Chile, France, Italy and Japan.
+- **469 checked stations in 13 countries:** the United States (22 cities), Canada (Toronto, Montreal and Vancouver), United Kingdom (including the BBC's international directory), Uruguay (Montevideo), Argentina, Spain, Brazil, Mexico, Colombia, Chile, France, Italy and Japan.
 - **Stations library** with artwork and list views, search by name, city or frequency, worldwide or per-city browsing, and favorites that sync through the person's own iCloud account.
 - **Live titles** when a station supplies them. Save a title, or look it up in Apple Music, Spotify or Tidal.
 - **Listening tools:** a sleep timer, optional spoken station announcements, a quiet tuning sound, and Siri and Shortcuts actions. iPhone also has native station alarms (iOS 26.1+), alternate app icons, haptics and keep-awake while charging.

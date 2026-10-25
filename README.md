@@ -20,7 +20,7 @@ Turn a real dial through your city's FM and AM stations, with no ads and no acco
 
 Most radio apps hand you a database of tens of thousands of streams. Dial gives you a tuner: pick a city and turn through its real frequencies. Download it for Mac or build it for iPhone; see [Install](#install).
 
-- 459 live stations in 13 countries as of October 2026, each stream checked before it was added.
+- 469 live stations in 13 countries as of October 2026, each stream checked before it was added.
 - Live song titles when a station sends them, with one tap to search Apple Music, Spotify or Tidal.
 - A sleep timer, AirPlay and Siri, plus station alarms on iPhone.
 

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "uy-inolvidable",
+    "url": "https://inolvidable-1.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:23:47.041108+00:00",
+    "codec": "mp3 (mp3float), 48000 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "No Name",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-aire",
+    "url": "https://streaming3.hostingmontevideo.com/8064/stream",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:01.133931+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 192 kb/s",
+    "bitrateKbps": 192,
+    "streamName": "Aire FM",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-delsol",
+    "url": "https://delsol-1.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:07.707999+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "Delsol.uy",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-azul",
+    "url": "https://azul-1.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:14.191671+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "AzulFm",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-oceano",
+    "url": "https://oceano-2.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:35.711422+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "Oceano FM",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-hit",
+    "url": "https://hit-1.nty.uy/stream",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:42.969263+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "FM HIT 90.3",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-espectador",
+    "url": "https://espectador-1.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:21.043151+00:00",
+    "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "Espectador.com",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-universal",
+    "url": "https://970universal-3.nty.uy/",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:28.538948+00:00",
+    "codec": "mp3 (mp3float), 48000 Hz, stereo, fltp, 128 kb/s",
+    "bitrateKbps": 128,
+    "streamName": "No Name",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-clasica",
+    "url": "https://radios.iwstreaming.uy/8032/stream",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:49.903315+00:00",
+    "codec": "mp3 (mp3float), 22050 Hz, stereo, fltp, 64 kb/s",
+    "bitrateKbps": 64,
+    "streamName": "clasica650",
+    "method": "curl | ffmpeg, 3-second decode"
+  },
+  {
+    "id": "uy-cultura",
+    "url": "https://radios.iwstreaming.uy/8034/stream",
+    "ok": true,
+    "checkedAt": "2026-10-25T13:24:56.701613+00:00",
+    "codec": "mp3 (mp3float), 22050 Hz, stereo, fltp, 64 kb/s",
+    "bitrateKbps": 64,
+    "streamName": "Del Sur",
+    "method": "curl | ffmpeg, 3-second decode"
+  }
+]

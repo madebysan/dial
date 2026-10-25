@@ -31,7 +31,7 @@ final class DeclutterUITests: XCTestCase {
         app.openAllStations()
         let filter = app.buttons["city-filter"]
         let count = app.staticTexts["station-count"]
-        XCTAssertEqual(count.label, "459 stations")
+        XCTAssertEqual(count.label, "469 stations")
         XCTAssertEqual(filter.frame.midY, count.frame.midY, accuracy: 8)
         // Worldwide rows name their city; which station sorts first changes as the catalogue grows.
         XCTAssertTrue(app.staticTexts.matching(NSPredicate(format: "identifier BEGINSWITH 'location-'")).firstMatch.exists)

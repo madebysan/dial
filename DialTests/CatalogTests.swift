@@ -33,9 +33,9 @@ final class CatalogTests: XCTestCase {
     }
 
     func testCatalogIntegrity() {
-        XCTAssertEqual(Station.sample.count, 459)
+        XCTAssertEqual(Station.sample.count, 469)
         for region in RadioRegion.allCases {
-            let expected = region == .newYork ? 238 : region == .canada ? 28 : region == .montevideo ? 14 : region == .unitedKingdom ? 84 : region == .argentina ? 11 : (region == .spain || region == .france) ? 12 : 10
+            let expected = region == .newYork ? 238 : region == .canada ? 28 : region == .montevideo ? 24 : region == .unitedKingdom ? 84 : region == .argentina ? 11 : (region == .spain || region == .france) ? 12 : 10
             XCTAssertEqual(Station.sample.filter { $0.region == region }.count, expected, region.name)
         }
         XCTAssertEqual(Set(Station.sample.map(\.id)).count, Station.sample.count)

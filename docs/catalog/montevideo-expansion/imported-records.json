@@ -1,0 +1,368 @@
+[
+  {
+    "id": "uy-inolvidable",
+    "name": "Inolvidable",
+    "band": "FM",
+    "frequency": 93.1,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Canelones)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Montevideo Portal names it “Inolvidable (93.1)”",
+        "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+      },
+      {
+        "label": "TuneIn listing: 93.1 FM, Montevideo",
+        "url": "https://tunein.com/radio/s86080/"
+      }
+    ],
+    "popularity": {
+      "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: #1 FM in Montevideo, 2.6 weekly rating (El Observador)",
+      "url": "https://www.elobservador.com.uy/cultura-y-espectaculos/cuales-son-los-programas-radio-mas-escuchados-se-publico-el-nuevo-rating-del-dial-uruguayo-n6023282"
+    },
+    "kind": "rated",
+    "stream": {
+      "url": "https://inolvidable-1.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/a1d9e634-7829-42c4-b509-79106234fb55",
+      "codec": "mp3 (mp3float), 48000 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "No Name",
+      "checkedAt": "2026-10-25T13:23:47.041108+00:00"
+    },
+    "artwork": {
+      "url": "https://cdn-profiles.tunein.com/s86080/images/logog.png",
+      "source": "TuneIn station logo",
+      "size": [
+        600,
+        280
+      ]
+    }
+  },
+  {
+    "id": "uy-aire",
+    "name": "Aire FM",
+    "band": "FM",
+    "frequency": 100.3,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “Aire FM 100.3”",
+        "url": "https://www.airefm.com.uy/"
+      }
+    ],
+    "popularity": {
+      "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: #2 FM in Montevideo (El Observador)",
+      "url": "https://www.elobservador.com.uy/cultura-y-espectaculos/cuales-son-los-programas-radio-mas-escuchados-se-publico-el-nuevo-rating-del-dial-uruguayo-n6023282"
+    },
+    "kind": "rated",
+    "stream": {
+      "url": "https://streaming3.hostingmontevideo.com/8064/stream",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/802723bb-8cf7-4641-a810-fbcc8d20da75",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 192 kb/s",
+      "bitrateKbps": 192,
+      "streamName": "Aire FM",
+      "checkedAt": "2026-10-25T13:24:01.133931+00:00"
+    },
+    "artwork": {
+      "url": "https://www.airefm.com.uy/apple-touch-icon.png",
+      "source": "Broadcaster icon",
+      "size": [
+        512,
+        512
+      ]
+    }
+  },
+  {
+    "id": "uy-delsol",
+    "name": "Del Sol",
+    "band": "FM",
+    "frequency": 99.5,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: Del Sol (radio), 99.5 FM",
+        "url": "https://es.wikipedia.org/wiki/Del_Sol_(radio)"
+      },
+      {
+        "label": "Broadcaster site: “DelSol 99.5 FM”",
+        "url": "https://delsol.uy/"
+      }
+    ],
+    "popularity": {
+      "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: No toquen nada #2 programme, 3.71 rating (Montevideo Portal)",
+      "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+    },
+    "kind": "rated",
+    "stream": {
+      "url": "https://delsol-1.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/96443c16-bb54-4437-964d-eef2d6f65239",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "Delsol.uy",
+      "checkedAt": "2026-10-25T13:24:07.707999+00:00"
+    },
+    "artwork": {
+      "url": "https://delsol.uy//public/lb/img/favicons/apple-touch-icon.png?v=2020",
+      "source": "Broadcaster icon",
+      "size": [
+        180,
+        180
+      ]
+    }
+  },
+  {
+    "id": "uy-azul",
+    "name": "Azul FM",
+    "band": "FM",
+    "frequency": 101.9,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “Azul FM 101.9”",
+        "url": "https://azulfm.com.uy/"
+      }
+    ],
+    "popularity": {
+      "label": "Popularity: Buró de Radios/Factum, Aug–Oct 2025: Malos pensamientos #3 programme, 3.39 rating (Montevideo Portal)",
+      "url": "https://www.montevideo.com.uy/Pantallazo/-Que-radio-y-que-programas-son-los-mas-escuchados-por-la-audiencia-uruguaya--uc941986"
+    },
+    "kind": "rated",
+    "stream": {
+      "url": "https://azul-1.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/c0dca607-8765-4834-9549-e2e94f4bee69",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "AzulFm",
+      "checkedAt": "2026-10-25T13:24:14.191671+00:00"
+    },
+    "artwork": {
+      "url": "https://azulfm.com.uy/public/img/favicons/apple-touch-icon.png?v=5",
+      "source": "Broadcaster icon",
+      "size": [
+        180,
+        180
+      ]
+    }
+  },
+  {
+    "id": "uy-oceano",
+    "name": "Océano FM",
+    "band": "FM",
+    "frequency": 93.9,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: Océano FM (Uruguay), 93.9 MHz",
+        "url": "https://es.wikipedia.org/wiki/Oc%C3%A9ano_FM_(Uruguay)"
+      },
+      {
+        "label": "Broadcaster site: “Escuchá bien - 93.9”",
+        "url": "https://oceanofm.com/"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://oceano-2.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/698580f9-d316-43bf-aa65-6cf6760353a3",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "Oceano FM",
+      "checkedAt": "2026-10-25T13:24:35.711422+00:00"
+    },
+    "artwork": {
+      "url": "https://oceanofm.com/wp-content/uploads/2024/11/logo-azul-curvas.svg",
+      "source": "Broadcaster logo (SVG, rasterized)",
+      "size": [
+        600,
+        227
+      ]
+    }
+  },
+  {
+    "id": "uy-hit",
+    "name": "FM Hit",
+    "band": "FM",
+    "frequency": 90.3,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "TuneIn listing: 90.3 FM, Montevideo",
+        "url": "https://tunein.com/radio/s121060/"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://hit-1.nty.uy/stream",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/1460042c-4f10-49f5-96a1-add6b66aa97c",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "FM HIT 90.3",
+      "checkedAt": "2026-10-25T13:24:42.969263+00:00"
+    },
+    "artwork": {
+      "url": "https://cdn-profiles.tunein.com/s121060/images/logog.png",
+      "source": "TuneIn station logo",
+      "size": [
+        600,
+        600
+      ]
+    }
+  },
+  {
+    "id": "uy-espectador",
+    "name": "El Espectador",
+    "band": "AM",
+    "frequency": 810.0,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      },
+      {
+        "label": "Broadcaster site: “El Espectador Deportes - 810 AM - 92.5FM”",
+        "url": "https://espectador.com/"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://espectador-1.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/74cb6221-f1ad-45a3-99d1-34ecf7ad5a9b",
+      "codec": "mp3 (mp3float), 44100 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "Espectador.com",
+      "checkedAt": "2026-10-25T13:24:21.043151+00:00"
+    },
+    "artwork": {
+      "url": "https://espectador.com/public/img/favicon/apple-touch-icon.png",
+      "source": "Broadcaster icon",
+      "size": [
+        180,
+        180
+      ]
+    }
+  },
+  {
+    "id": "uy-universal",
+    "name": "970 Universal",
+    "band": "AM",
+    "frequency": 970.0,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: Radio Universal, CX 22 970 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Universal"
+      },
+      {
+        "label": "Wikipedia: ANDEBU member list (Montevideo)",
+        "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Nacional_de_Broadcasters_Uruguayos"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://970universal-3.nty.uy/",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/8b241605-fac7-4e1f-b19b-d85ffa573733",
+      "codec": "mp3 (mp3float), 48000 Hz, stereo, fltp, 128 kb/s",
+      "bitrateKbps": 128,
+      "streamName": "No Name",
+      "checkedAt": "2026-10-25T13:24:28.538948+00:00"
+    },
+    "artwork": {
+      "url": "https://cdn-profiles.tunein.com/s285330/images/logog.jpg",
+      "source": "TuneIn station logo",
+      "size": [
+        600,
+        559
+      ]
+    }
+  },
+  {
+    "id": "uy-clasica",
+    "name": "Radio Clásica",
+    "band": "AM",
+    "frequency": 650.0,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: Radio Clásica (Uruguay), 650 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Cl%C3%A1sica_(Uruguay)"
+      },
+      {
+        "label": "Radio Browser record names it “Clásica 650 AM”",
+        "url": "https://de2.api.radio-browser.info/json/stations/byuuid/e8db6f2a-b986-407c-af2c-70a756b852c3"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://radios.iwstreaming.uy/8032/stream",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/e8db6f2a-b986-407c-af2c-70a756b852c3",
+      "codec": "mp3 (mp3float), 22050 Hz, stereo, fltp, 64 kb/s",
+      "bitrateKbps": 64,
+      "streamName": "clasica650",
+      "checkedAt": "2026-10-25T13:24:49.903315+00:00"
+    },
+    "artwork": {
+      "url": "https://cdn.instant.audio/images/logos/radios-com-uy/clasica.png",
+      "source": "Station directory image (radios.com.uy)",
+      "size": [
+        96,
+        66
+      ]
+    }
+  },
+  {
+    "id": "uy-cultura",
+    "name": "Radio Cultura",
+    "band": "AM",
+    "frequency": 1290.0,
+    "frequencySources": [
+      {
+        "label": "Wikipedia: Radio Cultura (Uruguay), 1290 kHz",
+        "url": "https://es.wikipedia.org/wiki/Radio_Cultura_(Uruguay)"
+      },
+      {
+        "label": "TuneIn listing: 1290 AM, Montevideo",
+        "url": "https://tunein.com/radio/s112100/"
+      }
+    ],
+    "popularity": null,
+    "kind": "format",
+    "stream": {
+      "url": "https://radios.iwstreaming.uy/8034/stream",
+      "via": "Radio Browser",
+      "radioBrowser": "https://de2.api.radio-browser.info/json/stations/byuuid/483af4b4-eaeb-4bb7-8a89-533973eb8e08",
+      "codec": "mp3 (mp3float), 22050 Hz, stereo, fltp, 64 kb/s",
+      "bitrateKbps": 64,
+      "streamName": "Del Sur",
+      "checkedAt": "2026-10-25T13:24:56.701613+00:00"
+    },
+    "artwork": {
+      "url": "https://cdn-profiles.tunein.com/s112100/images/logog.jpg",
+      "source": "TuneIn station logo",
+      "size": [
+        600,
+        600
+      ]
+    }
+  }
+]

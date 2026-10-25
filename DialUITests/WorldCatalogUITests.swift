@@ -9,7 +9,7 @@ final class WorldCatalogUITests: XCTestCase {
         app.launchArguments = ["--ui-testing", "--reset-state"]
         app.launch()
         app.openAllStations()
-        XCTAssertTrue(app.staticTexts["459 stations"].exists)
+        XCTAssertTrue(app.staticTexts["469 stations"].exists)
         XCTAssertTrue(app.scrollViews["station-grid"].exists)
         capture(app, "Worldwide grid")
         let search = app.searchFields.firstMatch
@@ -52,7 +52,7 @@ final class WorldCatalogUITests: XCTestCase {
         let app = XCUIApplication()
         app.launchArguments = ["--ui-testing", "--reset-state"]
         app.launch()
-        let countries = [("newYork", "United States", 238), ("canada", "Canada", 28), ("montevideo", "Uruguay", 14),
+        let countries = [("newYork", "United States", 238), ("canada", "Canada", 28), ("montevideo", "Uruguay", 24),
                          ("argentina", "Argentina", 11), ("spain", "Spain", 12),
                          ("brazil", "Brazil", 10), ("mexico", "Mexico", 10),
                          ("colombia", "Colombia", 10), ("chile", "Chile", 10),

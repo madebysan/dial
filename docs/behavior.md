@@ -2,13 +2,13 @@
 
 How the player, Stations and the catalogue behave in the current release. The [README](../README.md) is the short overview; [source files](source-files.md) maps each behavior to its code.
 
-A native iPhone and Mac radio app with a tactile tuner and an artwork grid. The catalogue has **459 stations across thirteen country collections**, with worldwide browsing inside Stations.
+A native iPhone and Mac radio app with a tactile tuner and an artwork grid. The catalogue has **469 stations across thirteen country collections**, with worldwide browsing inside Stations.
 
 | Collection | Stations |
 |---|---:|
 | United States | 238 |
 | Canada | 28 |
-| Uruguay | 14 |
+| Uruguay | 24 |
 | Argentina | 11 |
 | Spain | 12 |
 | Brazil | 10 |
@@ -20,7 +20,7 @@ A native iPhone and Mac radio app with a tactile tuner and an artwork grid. The 
 | Italy | 10 |
 | Japan | 10 |
 
-These are curated starter selections, not national audience rankings. The first US expansion adds 24 feeds across twelve markets beyond the original New York area, with a focus on public news, music discovery, jazz and classical music. See the [US expansion record](us-expansion.md). The [North America expansion](na-expansion.md) brings every US city outside New York to ten stations, adds seven US cities and adds Canada, with at least eight stations per dial. The [UK expansion](uk-expansion.md) covers the BBC’s 66-feed international directory plus a selection of other UK services. The UK collection includes the BBC’s Channel Islands services; their profile locations identify the islands accurately.
+These are curated starter selections, not national audience rankings. The first US expansion adds 24 feeds across twelve markets beyond the original New York area, with a focus on public news, music discovery, jazz and classical music. See the [US expansion record](us-expansion.md). The [North America expansion](na-expansion.md) brings every US city outside New York to ten stations, adds seven US cities and adds Canada, with at least eight stations per dial. The [UK expansion](uk-expansion.md) covers the BBC’s 66-feed international directory plus a selection of other UK services. The UK collection includes the BBC’s Channel Islands services; their profile locations identify the islands accurately. The [Montevideo expansion](montevideo-expansion.md) adds ten stations to the Montevideo dial from the 2025 local ratings.
 
 ## Use
 
@@ -32,7 +32,7 @@ Tap the player’s frequency number, artwork or station name to open its details
 
 FM/AM player location appears in the selector instead of repeating it beneath the station name; online feeds retain meaningful broadcaster-city context. Live program/song titles appear when supplied; generic genre descriptions stay in station details. Visible status text is reserved for connecting, connection errors and the tuning gesture. Cadena 3 uses the sharper original broadcaster wordmark instead of its favicon.
 
-Within Stations, **All Locations** shows all 459 stations worldwide, regardless of the playing station's country, most-listened first (see [All Locations ranking](all-locations-ranking.md)); a city keeps dial order. Search covers this collection in both layouts. The location menu starts with Use my location, then groups each country's city/metro dials and Other stations under country submenus; there is no country-wide entry. Worldwide list rows show country and city so reused frequencies stay distinct; the closed filter names the active city or metro. The filter and count share a row when they fit. Single-city results omit repeated location labels; metro, worldwide and favorite results retain them. Location filters apply within the open library; the player button opens the current dial location, and All Locations widens it. Search hides only when Favorites has no saved stations and no active query. See [tuning locations](tuning-locations.md). Tuning continues to follow the playing station's local band.
+Within Stations, **All Locations** shows all 469 stations worldwide, regardless of the playing station's country, most-listened first (see [All Locations ranking](all-locations-ranking.md)); a city keeps dial order. Search covers this collection in both layouts. The location menu starts with Use my location, then groups each country's city/metro dials and Other stations under country submenus; there is no country-wide entry. Worldwide list rows show country and city so reused frequencies stay distinct; the closed filter names the active city or metro. The filter and count share a row when they fit. Single-city results omit repeated location labels; metro, worldwide and favorite results retain them. Location filters apply within the open library; the player button opens the current dial location, and All Locations widens it. Search hides only when Favorites has no saved stations and no active query. See [tuning locations](tuning-locations.md). Tuning continues to follow the playing station's local band.
 
 Local AM/FM entries retain the tuning dial. National or online feeds without a verified local frequency use an artwork player. Previous/next follows the current local band or online collection. Country selection and favorites persist across launches; original station IDs were preserved during expansion.
 
@@ -50,7 +50,7 @@ Native motion adds bookmark feedback, play/pause and layout-icon swaps, a short 
 
 ## Catalogue and evidence
 
-`Dial/stations.json` owns playable records. `Dial/station-profiles.json` owns profile data, optional images, source links, dated stream observations and explicit gaps. All 459 entries have profiles. 416 have a checked image source: 398 bundled station-artwork assets, the rest loading from their source URLs, which fall back to initials if unavailable. The 43 North America stations without a reviewed logo show initials. Missing language, bitrate or artwork stays explicitly missing rather than being invented. Genres and language classifications use directory fields and broadcaster website metadata, with limits recorded in profiles.
+`Dial/stations.json` owns playable records. `Dial/station-profiles.json` owns profile data, optional images, source links, dated stream observations and explicit gaps. All 469 entries have profiles. 426 have a checked image source: 408 bundled station-artwork assets, the rest loading from their source URLs, which fall back to initials if unavailable. The 43 North America stations without a reviewed logo show initials. Missing language, bitrate or artwork stays explicitly missing rather than being invented. Genres and language classifications use directory fields and broadcaster website metadata, with limits recorded in profiles.
 
 See the [expansion record](catalog-expansion.md), [stream checks](catalog/expansion/full-stream-checks.json), and [native playback checks](catalog/expansion/native-stream-checks.json). The [gap-fill record](gap-fill.md) covers ten further additions, all 22 missing thumbnails and the ESPN 1050 identity correction. The earlier 120 additions after the pilot passed both audio decoding and AVPlayer playback checks. The US batch has separate [evidence and verification](us-expansion.md), as does the [UK/BBC batch](uk-expansion.md). The [city dials record](city-dials.md) covers the October 18 move of 42 existing stations onto Paris, Madrid, Milan and Santiago FM dials. The original eleven and ten-station pilot retain their earlier verification evidence. Availability, geography restrictions, schedules and metadata can change independently of the app.
 

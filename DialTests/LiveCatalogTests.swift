@@ -112,12 +112,17 @@ final class LiveCatalogTests: XCTestCase {
         "us-knbr", "us-kfjc", "us-kpoo", "us-kpfa", "us-wrek", "us-wrfg", "us-wprb", "us-wkdu",
         "us-knon", "ca-ciut", "us-wmbr", "us-wxna", "us-kmoj", "us-kazi", "us-krbe", "us-wzbc",
     ]
+    /// Montevideo dial batch (Oct 25, 2026).
+    private static let montevideoExpansionIDs: Set<String> = [
+        "uy-inolvidable", "uy-aire", "uy-delsol", "uy-azul", "uy-oceano",
+        "uy-hit", "uy-espectador", "uy-universal", "uy-clasica", "uy-cultura",
+    ]
 
     /// Run explicitly when changing stream URLs. Successful URL checks are cached
     /// for this device/date so repairing one feed does not replay the whole batch.
     @MainActor func testExpandedStreamsWithAVPlayer() async throws {
         let existing: Set<String> = ["wnyc", "wqxr", "wbgo", "wnyu", "wfuv", "wfmu", "futura", "diamante", "elpuente", "wabc", "clarin", "ar-la100", "ar-aspen", "ar-metro", "ar-mitre", "ar-rockandpop", "es-los40", "es-ser", "es-cadena100", "es-kissfm", "es-cadenadial"]
-        let stations = Station.sample.filter { !existing.contains($0.id) && !Self.usExpansionIDs.contains($0.id) && !Self.ukExpansionIDs.contains($0.id) && !Self.gapFillIDs.contains($0.id) && !Self.naExpansionIDs.contains($0.id) }
+        let stations = Station.sample.filter { !existing.contains($0.id) && !Self.usExpansionIDs.contains($0.id) && !Self.ukExpansionIDs.contains($0.id) && !Self.gapFillIDs.contains($0.id) && !Self.naExpansionIDs.contains($0.id) && !Self.montevideoExpansionIDs.contains($0.id) }
         XCTAssertEqual(stations.count, 194)
         try await checkStreams(stations)
     }
@@ -138,6 +143,12 @@ final class LiveCatalogTests: XCTestCase {
     @MainActor func testNorthAmericaStreamsWithAVPlayer() async throws {
         let stations = Station.sample.filter { Self.naExpansionIDs.contains($0.id) }
         XCTAssertEqual(stations.count, 210)
+        try await checkStreams(stations)
+    }
+
+    @MainActor func testMontevideoStreamsWithAVPlayer() async throws {
+        let stations = Station.sample.filter { Self.montevideoExpansionIDs.contains($0.id) }
+        XCTAssertEqual(stations.count, 10)
         try await checkStreams(stations)
     }
 

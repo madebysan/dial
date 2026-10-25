@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Inolvidable",
+    "band": "FM",
+    "frequency": 93.1,
+    "status": "imported",
+    "id": "uy-inolvidable"
+  },
+  {
+    "name": "Aire FM",
+    "band": "FM",
+    "frequency": 100.3,
+    "status": "imported",
+    "id": "uy-aire"
+  },
+  {
+    "name": "Del Sol",
+    "band": "FM",
+    "frequency": 99.5,
+    "status": "imported",
+    "id": "uy-delsol"
+  },
+  {
+    "name": "Azul FM",
+    "band": "FM",
+    "frequency": 101.9,
+    "status": "imported",
+    "id": "uy-azul"
+  },
+  {
+    "name": "Océano FM",
+    "band": "FM",
+    "frequency": 93.9,
+    "status": "imported",
+    "id": "uy-oceano"
+  },
+  {
+    "name": "FM Hit",
+    "band": "FM",
+    "frequency": 90.3,
+    "status": "imported",
+    "id": "uy-hit"
+  },
+  {
+    "name": "El Espectador",
+    "band": "AM",
+    "frequency": 810.0,
+    "status": "imported",
+    "id": "uy-espectador"
+  },
+  {
+    "name": "970 Universal",
+    "band": "AM",
+    "frequency": 970.0,
+    "status": "imported",
+    "id": "uy-universal"
+  },
+  {
+    "name": "Radio Clásica",
+    "band": "AM",
+    "frequency": 650.0,
+    "status": "imported",
+    "id": "uy-clasica"
+  },
+  {
+    "name": "Radio Cultura",
+    "band": "AM",
+    "frequency": 1290.0,
+    "status": "imported",
+    "id": "uy-cultura"
+  },
+  {
+    "name": "Sport 890",
+    "band": "AM",
+    "frequency": 890.0,
+    "popularity": "#3 AM, Aug–Oct 2025",
+    "status": "rejected",
+    "reason": "Directory HLS host does not resolve; no other stream found on the broadcaster site.",
+    "streamsTried": [
+      "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8"
+    ]
+  },
+  {
+    "name": "M24",
+    "band": "FM",
+    "frequency": 97.9,
+    "popularity": "Named among top talk FM stations, Aug–Oct 2025",
+    "status": "rejected",
+    "reason": "Directory stream returns an HTML page, not audio; no stream found on the broadcaster site.",
+    "streamsTried": [
+      "https://streaming1.hostingmontevideo.com/8034/stream"
+    ]
+  },
+  {
+    "name": "Concierto FM",
+    "band": "FM",
+    "status": "rejected",
+    "reason": "Directory stream returns an HTML page, not audio.",
+    "streamsTried": [
+      "https://conectperu.com/8012/stream"
+    ]
+  },
+  {
+    "name": "Metrópolis",
+    "band": "FM",
+    "frequency": 104.9,
+    "status": "not selected",
+    "reason": "Stream decoded; licensed in Canelones and not in the published ratings."
+  },
+  {
+    "name": "La Treinta (Radio Nacional)",
+    "band": "AM",
+    "frequency": 1130.0,
+    "status": "not selected",
+    "reason": "Stream decoded; another news/talk AM, kept for a later batch."
+  },
+  {
+    "name": "Radio Rural",
+    "band": "AM",
+    "frequency": 610.0,
+    "status": "not selected",
+    "reason": "Stream decoded at 48 kbps; not in the published ratings."
+  }
+]

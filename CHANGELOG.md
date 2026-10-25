@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Ten more stations on the Montevideo dial, for 469 stations in 13 countries: Inolvidable, Aire FM, Del Sol, Azul FM, Océano FM, FM Hit, El Espectador, 970 Universal, Radio Clásica and Radio Cultura. The picks start from the 2025 Montevideo ratings. See [Montevideo expansion](docs/montevideo-expansion.md).
+
 ## 1.1 (34), October 18, 2026
 
 - 210 more stations in North America, for 459 stations in 13 countries. Every US city outside New York now has at least ten; Atlanta, Dallas–Fort Worth, Houston, Denver, Detroit, Nashville and San Diego get their first dials; and Canada joins with Toronto, Montreal and Vancouver. The picks come from the latest Nielsen and Numeris ratings, a few local favourites, and the stations each city's Reddit radio threads name most. See [North America expansion](docs/na-expansion.md).
